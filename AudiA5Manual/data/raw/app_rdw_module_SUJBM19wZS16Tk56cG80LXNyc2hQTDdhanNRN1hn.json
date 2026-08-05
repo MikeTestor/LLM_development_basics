@@ -1,0 +1,17 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/SUJBM19wZS16Tk56cG80LXNyc2hQTDdhanNRN1hn?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Klantinformatie\nTechnische gegevens\nVoertuiggegevens\nInformatie conform EU-Accuverordening\nVoertuiggegevens\nInformatie conform EU-Accuverordening\nParameters met betrekking tot elektrochemisch vermogen en houdbaarheid\nDe gegevens zijn conform verordening (EU) 2023/1542. De genoemde waarden hebben betrekking op referentievoorwaarden en zijn geen gegarandeerde waarden. De daadwerkelijke waarden bij gebruik van de auto kunnen afhankelijk van verschillende factoren, zoals bv. de omgevings- en accutemperatuur, acculadingstoestand, voertuigconfiguratie en het gebruiksprofiel, variëren. Tips en aanwijzingen voor het gebruik en het opladen van de accu in de auto vindt u in het instructieboekje van de auto.\n\tAccutypenaam\tTe verwachten (minimale) levensduur 1) van de accu [jaren]\tTe verwachten (minimale) levensduur 1) van de accu [cycli 2) ]\tNominale capaciteit 3) [Ah]\nA5 Avant e-hybrid quattro 220 kW\tBATTYPA26\t8\t1777\t70\nA5 Avant e-hybrid quattro 270 kW\tBATTYPA26\t8\t1777\t70\nA5 Limousine e-hybrid quattro 220 kW\tBATTYPA26\t8\t1777\t70\nA5 Limousine e-hybrid quattro 270 kW\tBATTYPA26\t8\t1777\t70\n\tCapaciteitsverlies 4) [%]\tVermogen [kW]\tVermogensverlies 4) [%]\tInwendige weerstand [mΩ]\nA5 Avant e-hybrid quattro 220 kW\t27\t165\t20\t123\nA5 Avant e-hybrid quattro 270 kW\t27\t165\t20\t123\nA5 Limousine e-hybrid quattro 220 kW\t27\t165\t20\t123\nA5 Limousine e-hybrid quattro 270 kW\t27\t165\t20\t123\n\tToename inwendige weerstand 4) [%]\tRound Trip rendement\tAfname Round Trip rendement 3) [%]\nA5 Avant e-hybrid quattro 220 kW\t26\t0,91\t2\nA5 Avant e-hybrid quattro 270 kW\t26\t0,91\t2\nA5 Limousine e-hybrid quattro 220 kW\t26\t0,91\t2\nA5 Limousine e-hybrid quattro 270 kW\t26\t0,91\t2\n1)Bij deze waarden gaat het om de te verwachten minimale gebruiksduur van de accu in de auto onder bepaalde referentievoorwaarden. De daadwerkelijke gebruiksduur is in de regel langer en hangt o.a. af van de parameters met betrekking tot elektrochemisch vermogen en houdbaarheid.\n2)Cyclus = Volcyclus-equivalent. Het volcyclus-equivalent komt overeen met de totale ontladingssnelheid in verhouding tot de nominale accucapaciteit.\n3)De waarde heeft betrekking op de brutocapaciteit van de accu, de daadwerkelijk bruikbare waarde is eventueel lager.\n4)De waarde heeft betrekking op de bij de te verwachten (minimale) levensduur aangegeven cycli resp. jaren.",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS1vVWF6T3JlWjFNWEtHSy1jampCNmJ3?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/QUxMR0VNRUlOVEVDSERBVA?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/RkFIUlpFVUdEQVRFTg?language=nl_NL"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/RkFIUkVSVkVSRlVFR0JBUktFSVRTRVJLRU5OVU5H?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Klantinformatie\nGegevensbescherming\nVideo-opnames\nGegevensbescherming van de bestuurderbeschikbaarheidscamera\nVideo-opnames\nGegevensbescherming van de bestuurderbeschikbaarheidscamera 1)\nDe zichtkegel van de bestuurderbeschikbaarheidscamera registreert het hoofd van de bestuurder en analyseert of de bestuurder rijklaar is. Deze kan niet op andere delen van de auto (bv. bijrijdersstoel) worden gericht.\nU kunt de bestuurdersbeschikbaarheidscamera in het menu Hulpsystemen in- en uitschakelen Menu 'Hulpsystemen' openen.\nDe camerabeelden worden niet opgenomen of opgeslagen, maar direct voor verwerking aan het verantwoordelijke regelapparaat in de auto doorgegeven. Het regelapparaat analyseert het actuele camerabeeld met beeldverwerkingssoftware. Deze beeldverwerkingssoftware bepaalt technische meetwaarden voor menselijke gezichtskenmerken (bv. de positie van het hoofd, neus, oren of de kijkrichting van de ogen) en beoordeelt daaruit of de bestuurder rijklaar is, bv. aan de hand van herkende vitaliteit, activiteit en visuele afleiding. De beeldverwerkingssoftware kan mogelijk herkennen of de bestuurder bewusteloos of in slaap gevallen is. De door de beeldverwerkingssoftware gegenereerde technische meetwaarden zijn abstract, worden geanonimiseerd verzameld, zijn niet met naam aan een persoon te koppelen en kunnen niet het gezicht van de bestuurder reconstrueren.\nOm de herkenning beschikbaarheid bestuurder na een ritonderbreking zo snel mogelijk weer te kunnen activeren, worden de technische meetwaarden in het bijbehorende regelapparaat op een klein aantal geheugenplaatsen opgeslagen. Zodra de geheugencapaciteit in het bijbehorende regelapparaat is bereikt, worden de oudere technische gegevens door de nieuwste overschreven.\n1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS1vVWF6T3JlWjFNWEtHSy1jampCNmJ3?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/REFURU5TQ0hVVFo?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/REFURU5TQ0hVVFotQklMREFVRlpFSUNITlVORw?language=nl_NL"
+  ]
+}

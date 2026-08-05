@@ -1,0 +1,17 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/RS1UUk9OLUtFTk5aRUlDSE5VTkctU1RST01BTlNDSExVU1M?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Starten en rijden\nHoogvoltsysteem\nVeilige omgang met het hoogvoltsysteem\nAanduiding van de laadinfrastructuur\nVeilige omgang met het hoogvoltsysteem\nAanduiding van de laadinfrastructuur\nAanwijzingenplaatjes met aanduiding van de laadinfrastructuur\nCompatibiliteit van auto en laadinfrastructuur 1)\n\tBetekenis\n\n1\n\tAuto: aanduiding voor wisselstroom (AC) en type 2-stekker\n\n2\n\tLaadstation: aanduiding voor wisselstroom (AC) en type 2-stekker\n\n3\n\tAuto: aanduiding voor gelijkstroom (DC) en CCS-stekker met een spanning van 50 t/m 500 V\n\n4\n\tAuto: aanduiding voor gelijkstroom (DC) en CCS-stekker met een spanning van 200 t/m 920 V\nDe aanwijzingenplaatjes volgens DIN EN 17186 geven informatie over de geschiktheid van de lokale stroomaansluiting voor de auto. Deze zitten op de laadeenheid van de auto, op de componenten van de lokale laadinfrastructuur (laadstation, netstopcontact) en op het laadequipment. De aanduiding moet u helpen om het juiste laadstation voor uw auto te vinden. De aanwijzingenplaatjes hebben betrekking op gestandaardiseerde laadsystemen volgens DIN EN 62196.\nAanwijzingen voor laadstations\nAudi adviseert om alleen aan laadstations te laden die minimaal voldoen aan de landspecifieke vereisten en de volgende normen:\nIEC 61851 en IEC 62196 (Europa)\nSAE J1772 (Noord-Amerika, Japan)\nGB/T 18487.1 en GB/T 20234 (China)\n1)Afhankelijk van het land",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS1xNWdRc0xPOWhSNVlDcTRJN1pSei13?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/RS1UUk9OLUhPQ0hWT0xUU1lTVEVN?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/RS1UUk9OLUFMTEdFTUVJTg?language=nl_NL"
+  ]
+}

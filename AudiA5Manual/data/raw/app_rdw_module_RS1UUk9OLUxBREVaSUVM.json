@@ -1,0 +1,17 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/RS1UUk9OLUxBREVaSUVM?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Starten en rijden\nHoogvoltsysteem\nLaadinstellingen\nLadingsdoel gebruiken\nLaadinstellingen\nLadingsdoel gebruiken\nMet het ladingsdoel kunt u instellen, tot welke acculadingstoestand de hoogvoltaccu bij een laadsessie moet worden geladen. De functie dient onder meer om de hoogvoltaccu behoedzaam te laden. Voor informatie over een voorzichtige omgang met de hoogvoltaccu, zie Voorzichtige omgang met de hoogvoltaccu.\nHet ingestelde ladingsdoel wordt opgeslagen en voor alle laadsessies gebruikt. Uitzondering: tijdens een e-tron routeplanning wordt er geen rekening gehouden met het ingestelde ladingsdoel.\nLadingsdoel instellen\nOpen het menu Laden Menu Laden openen en stel het ladingsdoel met de schuifknop in.\nAls u tijdens het laden het ladingsdoel lager dan de actuele acculadingstoestand instelt, wordt de laadsessie geannuleerd. Als u het ladingsdoel weer hoger dan de actuele acculadingstoestand instelt, wordt de laadsessie voortgezet. Dit geldt niet voor het laden aan een laadstation waar u zich handmatig heeft geauthenticeerd. Authenticeert u zich in dit geval opnieuw aan het laadstation.",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS1xNWdRc0xPOWhSNVlDcTRJN1pSei13?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/RS1UUk9OLUhPQ0hWT0xUU1lTVEVN?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/RS1UUk9OLUxBREVFSU5TVEVMTFVOR0VO?language=nl_NL"
+  ]
+}

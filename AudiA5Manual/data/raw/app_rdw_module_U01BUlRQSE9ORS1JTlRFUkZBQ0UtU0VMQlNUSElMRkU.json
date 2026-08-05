@@ -1,0 +1,16 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/U01BUlRQSE9ORS1JTlRFUkZBQ0UtU0VMQlNUSElMRkU?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Infotainment\nSmartphone-interface\nZelf problemen verhelpen voor de smartphone-interface\nSmartphone-interface\nZelf problemen verhelpen voor de smartphone-interface\nHierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.\nThema\tTip\nSmartphone-interface kan niet worden geopend.\tControleer het batterijniveau van uw smartphone.\nControleer of Android Auto of Apple CarPlay in uw land beschikbaar is.\nApple CarPlay: controleer of Apple CarPlay op uw iPhone is geactiveerd.\nAndroid Auto: controleer of de Android Auto app op uw smartphone is geïnstalleerd en geactiveerd.\nControleer in de Android Auto app of Android Auto nieuwe auto's toelaat.\nKabelverbinding van de smartphone met de MMI mislukt.\tControleer of de USB-C-kabel of de USB-adapter niet beschadigd is en correct met uw smartphone en de USB-aansluiting in de middenconsole voorin is verbonden.\nControleer of in het menu Verbindingsmanager Menu 'Verbindingsmanager' openen het gebruik van het apparaat is ingesteld op Apple CarPlay of Android Auto.\nDraadloze verbinding van de smartphone met de MMI mislukt.\tApple CarPlay: open op uw iPhone de instellingen voor Bluetooth en Apple CarPlay. Verwijder uw auto.\nAndroid Auto: open op uw smartphone de Android Auto-app en de instellingen voor Bluetooth. Verwijder uw auto.\nOpen het menu Verbindingsmanager Menu 'Verbindingsmanager' openen. Wis uw smartphone uit de lijst met bekende apparaten. Herhaal het verbinding maken. Start de MMI opnieuw op. Start de smartphone opnieuw op.\nOpen de instellingen voor wifi op uw smartphone. Controleer of uw smartphone is verbonden met de voertuighotspot.",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS05bEllSTNfMTgtb1RjbXV0RzU4dVpR?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/TU1JLVNNQVJUUEhPTkUtSU5URVJGQUNF?language=nl_NL"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://ownersmanual.audi.com/app/rdw/module/TU9EVUwtQUNBLUFTU0lTVElFUlRFUi1TUFVSV0VDSFNFTC1OVVRaRU4?language=nl_NL",
+  "title": "Wagendocumentatie\nAudi A5",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Wagendocumentatie\nAudi A5"
+    }
+  ],
+  "text": "Hulpsystemen\nRijstrookhulpsystemen\nOndersteunde rijstrookwissel\nOndersteunde rijstrookwissel gebruiken\nOndersteunde rijstrookwissel\nOndersteunde rijstrookwissel gebruiken\nInstrumentenpaneel: Weergave van de ondersteunde rijstrookwissel\nOverzicht van de weergaven\nDe rijsituatie en de beschikbaarheid aan de betreffende zijde worden in het instrumentenpaneel en op het head-updisplay weergegeven. De weergaven zijn afhankelijk van het land en de uitrusting.\n1\n Grijze pijl - Het systeem heeft geen objecten in het detectiegebied van de sensoren herkend. De ondersteunde rijstrookwissel kan worden gestart.\n2\n Groene pijl - De ondersteunde rijstrookwissel wordt uitgevoerd.\n3\n Rode lijn – De ondersteunde rijstrookwissel werd afgebroken. Neem direct actief de besturing over.\n4\n Verwacht traject van de actieve ondersteunde rijstrookwissel.\n – De ondersteunde rijstrookwissel wordt uitgevoerd.\n/  – Neem direct actief de besturing over. De ondersteunde rijstrookwissel werd afgebroken.\nVoorwaarden\nDe ondersteunde rijstrookwissel is in het menu Hulpsystemen  ingeschakeld Menu 'Hulpsystemen' openen.\nBepaalde hulpsystemen moeten ingeschakeld zijn.\nDe dynamische rijassistent regelt actief en de rijstrookgeleiding is ingeschakeld.\nHet navigatiesysteem heeft een snelweg of een op een snelweg lijkende weg herkend. Het kaartmateriaal van het navigatiesysteem moet regelmatig worden bijgewerkt.\nDe omgeving van de auto is voldoende herkend door de omgevingsherkenning.\nOndersteunde rijstrookwissel starten\nAls aan de voorwaarden is voldaan, wordt de beschikbaarheid van de ondersteunde rijstrookwissel automatisch met een pijl \n1\n in het instrumentenpaneel weergegeven.\nOm de ondersteunde rijstrookwissel te starten, bedient u de richtingaanwijzer in de gewenste richting zie.\nDe weergave \n2\n/\n4\n verschijnt.\nHandmatig annuleren\nDe ondersteunde rijstrookwissel kan op elk moment worden geannuleerd:\nTrap het rempedaal in, of\nGrijp in de besturing in, of\nGeef richting aan in tegengestelde richting.\nAutomatisch afbreken\nDe ondersteunde rijstrookwissel wordt onder andere automatisch onderbroken als\nde rijsnelheid te laag of te hoog wordt,\neen object is herkend of de rijstrook niet beschikbaar is,\nde dynamische rijassistent en de rijstrookgeleiding niet meer actief regelen,\nde alarmlichten worden ingeschakeld,\nniet langer aan de voorwaarden van het systeem wordt voldaan, bv. de omgevingsherkenning is onvoldoende.\nSysteemgrenzen\nHet systeem werkt vanaf een snelheid van ca. 65 km/h en is bij zeer hoge snelheden niet beschikbaar.\nBij aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de systemen worden uitgeschakeld. Gebruik de functies niet bij het rijden met aanhangwagen.\nATTENTIE",
+  "links": [
+    "https://ownersmanual.audi.com/app/rdw/chapters?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SUJBM19wZS1EMGRGdDVhYVpiXzB3Y2Y3OUhkOEpR?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/SEtBUC1TUFVSQVNTSVNURU5aU1lTVEVNRQ?language=nl_NL",
+    "https://ownersmanual.audi.com/app/rdw/chapters/QUNBLUFTU0lTVElFUlRFUi1TUFVSV0VDSFNFTA?language=nl_NL"
+  ]
+}
