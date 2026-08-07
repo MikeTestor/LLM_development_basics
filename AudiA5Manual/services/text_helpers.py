@@ -10,6 +10,9 @@ def load_url_text_map(raw_dir: Path | str = RAW_DATA_DIR) -> dict[str, str]:
     url_text_map: dict[str, str] = {}
 
     for json_file in sorted(raw_path.glob("*.json")):
+        if json_file.name == "_index.json":
+            continue
+
         with json_file.open(encoding="utf-8") as f:
             entry = json.load(f)
 
