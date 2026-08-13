@@ -1,0 +1,10 @@
+Starten en rijden
+Rijdynamiek
+Elektronische stabiliseringscontrole
+Inleiding
+Elektronische stabiliseringscontrole
+Inleiding
+De elektronische stabiliseringscontrole (ESC) draagt bij aan de rijveiligheid. Het reduceert het slipgevaar en verbetert de rijstabiliteit van de auto. Rijdynamische grensgevallen, zoals oversturen en ondersturen van de auto of doordraaien van de aangedreven wielen, worden door de ESC herkend.
+Door gerichte remingrepen of een reductie van het motorkoppel wordt de auto gestabiliseerd.
+Alleen als alle vier de banden een vergelijkbare slijtagetoestand hebben, kunnen ABS en ASR zonder storingen werken. Verschillende afrolomtrekken van de banden kunnen tot een niet-gewenste reductie van het motorvermogen leiden.
+Als de beschreven systemen ingrijpen kunnen bedrijfsgeluiden optreden.

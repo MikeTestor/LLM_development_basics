@@ -1,0 +1,36 @@
+Hulpsystemen
+Verdere hulpsystemen
+Predictieve efficiëntieaanwijzingen
+Predictieve efficiëntieaanwijzingen
+Predictieve efficiëntieaanwijzingen
+Predictieve efficiëntieaanwijzingen
+Voorwaarden
+De dynamische snelheidsassistent resp. de dynamische rijassistent regelen niet actief.
+De resterende afstand is voldoende voor het systeem om op de gebeurtenis te reageren.
+Weergave 1)
+Op het display in het instrumentenpaneel en op het head-updisplay brandt  zodra de efficiencyassistent adviseert de voet van het gaspedaal te nemen.
+In schakelprogramma S en bij auto's met Audi drive select kan de vorm van de aanwijzingen variëren afhankelijk van de gekozen modus en de rijstand.
+Bij auto's met Audi drive select worden er in de modus efficiency meer aanwijzingen weergeven.
+Afhankelijk van de uitrusting geven gebeurtenissymbolen aan op welke gebeurtenis er wordt gereageerd:
+Symbool	Beschrijving
+	Snelheidsbeperking
+De weergave van het symbool kan afwijken.
+	Bocht
+	Afrit
+De weergave van het symbool kan afwijken.
+	Kruispunt
+	Rotonde
+	Afdaling
+	Voor u rijdend voertuig
+Predictieve efficiëntieaanwijzingen in- en uitschakelen
+U kunt de predictieve efficiëntieaanwijzingen in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen.
+Systeemgrenzen
+De functies hangen af van de actualiteit van de navigatiegegevens en de registratie van de camera achter de voorruit.
+De snelheid bedraagt ten minste 30 km/h.
+Buiten het wegennet dat in het kaartmateriaal van het navigatiesysteem is vastgelegd, zijn bepaalde functies niet beschikbaar.
+Meer informatie
+De weergave in het instrumentenpaneel heeft betrekking op de snelheidseenheid die in het betreffende land geldt. Zo kan de weergave 50 in het instrumentenpaneel afhankelijk van het land km/h of mph betekenen.
+Als er bij auto's met navigatiesysteem een route is gepland, wordt bij het geven aanwijzingen rekening gehouden met het trajectverloop van deze route. Zonder routeplanning wordt een door het systeem aangenomen trajectverloop voor het geven van aanwijzingen gebruikt.
+Aangebrachte verkeerstekens hebben altijd voorrang op de weergave op het scherm. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+ATTENTIE
+1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

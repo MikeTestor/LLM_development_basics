@@ -1,0 +1,19 @@
+Starten en rijden
+Rijden
+Aandrijving
+Automatische recuperatie in- en uitschakelen
+Aandrijving
+Automatische recuperatie in- en uitschakelen
+U kunt de automatische recuperatie afhankelijk van de gekozen Audi drive select-modus in het menu Wagen in- en uitschakelen Menu 'Wagen' openen.
+Mild-hybrideaandrijving: Als de functie is ingeschakeld, wordt afhankelijk van de uitrusting de remwerking van de recuperatie vooruitziend geregeld, bv. aan de hand van het trajectverloop of aan de hand van voorliggers.
+Plug-inhybrideaandrijving: Als de functie is ingeschakeld, wordt afhankelijk van de uitrusting de remwerking van de recuperatie vooruitziend geregeld, bv. aan de hand van het trajectverloop of aan de hand van voorliggers. U kunt de remwerking in de EV-modus tijdelijk corrigeren door via de peddels een recuperatieniveau te kiezen. Zodra u het gaspedaal intrapt, wordt weer vooruitziend geregeld.
+Mild-hybrideaandrijving: Als de functie uitgeschakeld is, wordt de auto bij het uitrollen niet vooruitziend, maar afhankelijk van de gekozen rijstand geregeld.
+Plug-inhybrideaandrijving: Als de functie is uitgeschakeld, wordt de remwerking van de recuperatie handmatig geregeld. U kunt in de EV-modus via de peddels een recuperatieniveau kiezen. Het gekozen recuperatieniveau en de beschikbaarheid ervan worden in kleur in het instrumentenpaneel weergegeven. Bij auto's zonder peddels wordt de auto bij het uitrollen niet door de recuperatie afgeremd.
+Instellingen via de peddels:
+Kies 
+–
+ voor een sterkere remwerking.
+Kies 
++
+ voor een zwakkere remwerking.
+Bij beperkte of uitgeschakelde ESC is de automatische recuperatie niet beschikbaar en remt niet.

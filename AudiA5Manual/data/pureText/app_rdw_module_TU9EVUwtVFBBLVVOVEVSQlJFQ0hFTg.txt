@@ -1,0 +1,25 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+Getraind parkeren
+Getraind parkeren onderbreken of annuleren
+Getraind parkeren
+Getraind parkeren onderbreken of annuleren
+Handmatig onderbreken
+U kunt het getraind parkeren op elk moment onderbreken door de auto rustig tot stilstand af te remmen en kort stil te staan. Om de in- of uitparkeerhandeling te hervatten, drukt u op het centrale beeldscherm op de knop voor het hervatten en laat u het rempedaal los.
+Automatisch onderbreken of annuleren
+Het getraind parkeren wordt onder andere automatisch onderbroken of geannuleerd, als
+u het systeem uitschakelt,
+u het gaspedaal intrapt,
+u de parkeerrem vastzet,
+u het stuurwiel vastpakt,
+het maximale aantal mogelijke parkeerbewegingen werd overschreden,
+een portier geopend wordt,
+de tijdslimiet wordt overschreden,
+een obstakel wordt herkend,
+er een storing in een deelnemend systeem is, bv. de parkeerhulp,
+de rijweg te sterk van het opgenomen traject afwijkt,
+de ESC ingrijpt,
+kruisend verkeer wordt herkend.
+De weergave  of  verschijnt. Bij sommige weergaven kan een aanwijzing voor de bestuurder verschijnen die eventueel de oorzaak en de mogelijke oplossing aangeeft.
+Als de parkeeropdracht automatisch werd afgebroken, moet u altijd de controle over de auto overnemen.
+In sommige situaties kunt u de parkeeropdracht hervatten. Neem de aanwijzingsteksten op het centrale beeldscherm in acht. Druk zo nodig op de knop voor het hervatten op het centrale beeldscherm.

@@ -1,0 +1,7 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+DAB-zendervolgsysteem gebruiken
+Radiofuncties gebruiken
+DAB-zendervolgsysteem gebruiken
+Als het zendervolgsysteem tussen verwante DAB-zenders in het instellingenmenu Radio is ingeschakeld Instellingenmenu 'Radio' openen, probeert de radiotuner als de ontvangstkwaliteit afneemt naar een alternatief programma te schakelen.

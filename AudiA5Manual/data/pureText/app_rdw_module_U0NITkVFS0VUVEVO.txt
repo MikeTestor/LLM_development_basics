@@ -1,0 +1,19 @@
+Verzorging en onderhoud
+Wielen
+Banden en velgen
+Informatie over sneeuwkettingen
+Banden en velgen
+Informatie over sneeuwkettingen
+Bij winterse wegomstandigheden verbeteren sneeuwkettingen niet alleen de tractie, maar ook het remgedrag.
+Monteer sneeuwkettingen alleen op de voorwielen.
+Controleer resp. corrigeer na enkele meters de bevestiging van de sneeuwkettingen en neem de aanwijzingen van de fabrikant in acht.
+Neem de maximumsnelheid van 50 km/h in acht. Neem de lokale voorschriften in acht.
+Het gebruik van sneeuwkettingen is om technische redenen alleen op bepaalde velg-bandcombinaties toegestaan (modelafhankelijk):
+Velgenmaat	ET-waarde (ET)	Bandenmaat
+7,5Jx17	41 mm	215/55
+8Jx18	40 mm	235/45
+Gebruik sneeuwkettingen met platte schakels. Deze mogen niet dikker zijn dan 9 mm - inclusief kettingslot.
+Bij gebruik van sneeuwkettingen kan het zinvol zijn, de ESC te beperken Elektronische stabiliseringscontrole (ESC).
+Op sneeuwvrije trajecten moet u de sneeuwkettingen verwijderen, anders kunnen de rijeigenschappen worden belemmerd en de banden beschadigd.
+ATTENTIE
+VOORZICHTIG

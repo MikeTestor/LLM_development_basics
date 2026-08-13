@@ -1,0 +1,11 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Assistent voor kruisend verkeer achter
+Inleiding
+Assistent voor kruisend verkeer achter
+Inleiding
+Detectiegebied van de sensoren bij de assistent voor kruisend verkeer achter
+De assistent voor kruisend verkeer achter bewaakt de omgeving achter en naast de auto met behulp van de radarsensoren op de achterste hoeken van de auto. Het systeem kan naderende, bewegende objecten, zoals bv. voertuigen herkennen zie. Bij het uitparkeren wordt u door een weergave op het centrale beeldscherm 
+1
+ en verschillende waarschuwingen ondersteund.
+ATTENTIE

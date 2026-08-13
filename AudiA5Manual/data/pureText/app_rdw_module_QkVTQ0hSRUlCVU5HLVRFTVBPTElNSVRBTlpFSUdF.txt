@@ -1,0 +1,9 @@
+Hulpsystemen
+Verdere hulpsystemen
+Verkeerstekenherkenning met camera
+Inleiding
+Verkeerstekenherkenning met camera
+Inleiding
+De verkeerstekenherkenning toont de door de camera achter de voorruit herkende verkeerstekens in het instrumentenpaneel en op het head-updisplay. Bovendien wordt in de weergave rekening gehouden met gegevens uit het navigatiesysteem.
+De verkeerstekenherkenning informeert alleen over en waarschuwt alleen voor snelheidsbeperkingen. Afhankelijk van de uitrusting kunnen aanvullende rijhulpsystemen de rijsnelheid instellen.
+ATTENTIE

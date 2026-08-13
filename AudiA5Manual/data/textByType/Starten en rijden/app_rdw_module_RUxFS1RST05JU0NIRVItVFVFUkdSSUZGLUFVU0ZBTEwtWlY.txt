@@ -1,0 +1,20 @@
+Starten en rijden
+Openen en sluiten
+Portieren noodontgrendelen en -vergrendelen
+Portieren noodopenen bij uitval van de portiergreepbediening
+Portieren noodontgrendelen en -vergrendelen
+Portieren noodopenen bij uitval van de portiergreepbediening
+Portier: Noodbediening
+Voorwaarde: de auto is ontgrendeld.
+Bij uitval van de portiergreepbediening moeten de portieren noodgeopend worden.
+Het is raadzaam om de volgende handelingen alleen uit te voeren als u over de benodigde vaardigheden beschikt.
+Druk de bout 
+1
+ in de portiergreep kort in rijrichting zie. Daardoor wordt de bout ontgrendeld en springt uit de portiergreep.
+Trek aan het uiteinde van de kabel 
+2
+, tot het portier opent.
+Geleid na de noodbediening de kabel en de bout weer in de portiergreep.
+Druk de bout 
+1
+ in rijrichting tot de aanslag in de portiergreep. Daardoor wordt de bout weer vergrendeld.

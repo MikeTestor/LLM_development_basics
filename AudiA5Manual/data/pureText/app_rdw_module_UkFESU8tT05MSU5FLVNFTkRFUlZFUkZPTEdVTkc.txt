@@ -1,0 +1,15 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+Online zendervolgsysteem gebruiken
+Radiofuncties gebruiken
+Online zendervolgsysteem gebruiken
+Voorwaarde: de MMI is met internet verbonden.
+Als het online zendervolgsysteem in het instellingenmenu Radio is ingeschakeld Instellingenmenu 'Radio' openen, kan de radiotuner als de ontvangst wegvalt in het FM- of DAB-ontvangstbereik naar een zenderalternatief op internet schakelen.
+Weergave in de zenderlijst
+Als het online zendervolgsysteem is ingeschakeld, worden zenders waarvoor een zenderalternatief op internet beschikbaar is, met het symbool  resp.  gemarkeerd.
+Weergave in het weergaveaanzicht
+Als het online zendervolgsysteem is ingeschakeld, geldt in het weergaveaanzicht: het grijze symbool  markeert zenders die naar een zenderalternatief op internet kunnen wisselen. Het symbool  markeert zenders die op dit moment via internet worden ontvangen.
+Transmissiesnelheid instellen
+U kunt de voorkeurstransmissiesnelheid voor het online zendervolgsysteem in het instellingenmenu Radio instellen Instellingenmenu 'Radio' openen. Daarbij kunt u de weergavekwaliteit verhogen of het dataverbruik verminderen.
+VOORZICHTIG

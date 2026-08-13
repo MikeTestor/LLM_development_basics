@@ -1,0 +1,9 @@
+Infotainment
+Media
+Mediafuncties gebruiken
+Online extra gegevens gebruiken
+Mediafuncties gebruiken
+Online extra gegevens gebruiken
+Voorwaarde: de MMI is met internet verbonden.
+Als de online extra gegevens in het Media instellingenmenu zijn ingeschakeld Instellingenmenu 'Media' openen, kan afhankelijk van de beschikbaarheid extra informatie worden geladen, bv. albumcover, artiest of titel.
+VOORZICHTIG

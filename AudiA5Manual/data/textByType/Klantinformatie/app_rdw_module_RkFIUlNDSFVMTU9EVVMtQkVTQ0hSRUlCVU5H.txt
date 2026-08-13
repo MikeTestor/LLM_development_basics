@@ -1,0 +1,8 @@
+Klantinformatie
+Overige informatie
+Rijschoolmodus
+Overige informatie
+Rijschoolmodus
+U kunt in de MMI de rijsnelheid van de auto en de knipperrichting laten weergeven. Let erop dat als rijsnelheid de waarde in de snelheidsmeter maatgevend is.
+U kunt de rijschoolmodus in het menu Wagen in- en uitschakelen Menu 'Wagen' openen.
+De rijschoolmodus wordt bij wisselen naar een andere app beëindigd.

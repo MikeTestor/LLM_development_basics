@@ -1,0 +1,19 @@
+Infotainment
+Dashcam
+Ingebruikname van de dashcam
+Dashcam
+Ingebruikname van de dashcam
+Informatie over ondersteunde geheugenkaarten
+Voor een correcte werking van de dashcam is een geschikte geheugenkaart nodig, die niet af fabriek is geïnstalleerd. Zorg ervoor dat de geplaatste geheugenkaart aan de aanbevolen specificaties voldoet, om de juiste werking van de dashcam te waarborgen.
+Het systeem ondersteunt microSD-kaarten met een geheugen van 64 GB t/m 512 GB en een schrijfsnelheid van ten minste 30 MB/s.
+Geheugenkaart plaatsen
+Steek de geheugenkaart in de daarvoor bestemde insteekplaats onder de binnenspiegel om de functies van de dashcam te gebruiken.
+Formatteer de geheugenkaart in het dashcam instellingsmenu Instellingenmenu 'Dashcam’ openen, om alle aanwezige gegevens permanent te wissen.
+Dashcam activeren
+Voorwaarde: er is een geschikte geheugenkaart geplaatst.
+Kies:  > Dashcam > .
+Activeer de dashcam.
+Dashcam deactiveren
+Verwijder de geheugenkaart, of
+Kies:  > Dashcam > .
+Deactiveer de dashcam.

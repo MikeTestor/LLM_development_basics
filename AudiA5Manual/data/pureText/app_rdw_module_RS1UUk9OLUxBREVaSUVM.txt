@@ -1,0 +1,11 @@
+Starten en rijden
+Hoogvoltsysteem
+Laadinstellingen
+Ladingsdoel gebruiken
+Laadinstellingen
+Ladingsdoel gebruiken
+Met het ladingsdoel kunt u instellen, tot welke acculadingstoestand de hoogvoltaccu bij een laadsessie moet worden geladen. De functie dient onder meer om de hoogvoltaccu behoedzaam te laden. Voor informatie over een voorzichtige omgang met de hoogvoltaccu, zie Voorzichtige omgang met de hoogvoltaccu.
+Het ingestelde ladingsdoel wordt opgeslagen en voor alle laadsessies gebruikt. Uitzondering: tijdens een e-tron routeplanning wordt er geen rekening gehouden met het ingestelde ladingsdoel.
+Ladingsdoel instellen
+Open het menu Laden Menu Laden openen en stel het ladingsdoel met de schuifknop in.
+Als u tijdens het laden het ladingsdoel lager dan de actuele acculadingstoestand instelt, wordt de laadsessie geannuleerd. Als u het ladingsdoel weer hoger dan de actuele acculadingstoestand instelt, wordt de laadsessie voortgezet. Dit geldt niet voor het laden aan een laadstation waar u zich handmatig heeft geauthenticeerd. Authenticeert u zich in dit geval opnieuw aan het laadstation.

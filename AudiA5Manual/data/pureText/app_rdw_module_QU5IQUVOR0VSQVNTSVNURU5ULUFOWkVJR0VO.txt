@@ -1,0 +1,56 @@
+Starten en rijden
+Rijden met aanhangwagen
+Aanhangwagenassistent
+Aanhangwagenassistent bedienen
+Aanhangwagenassistent
+Aanhangwagenassistent bedienen
+Centraal beeldscherm: Weergave van de aanhangwagenassistent
+Weergave van de aanhangwagenassistent
+Het in- en uitschakelen van de aanhangwagenassistent door te drukken op de knop  
+5
+ is alleen bij stilstand of bij vooruitrijden tot maximaal 10 km/h mogelijk.
+Na het inschakelen wordt op het beeldscherm het beeld van de achteruitrijcamera met een sector 
+1
+ en een donkere wijzer 
+4
+ weergegeven. De donkere wijzer geeft de actuele richting van de aanhangwagen weer. De sector geeft het mogelijke instelbereik van de knikhoek ten opzichte van de gewenste richting van de aanhangwagendissel weer. De ingestelde knikhoek wordt bij ingeschakelde achteruitversnelling door een lichte wijzer 
+2
+ aangegeven. De witte markeringen 
+3
+ geven het bereik aan, waarin rechtuit rijden van de auto met aanhangwagen zonder verdere corrigerende bewegingen mogelijk is.
+Aanhangwagen inleren
+Als de aanhangwagen met een grote knikhoek werd aangekoppeld of het automatische inleren nog niet heeft plaatsgevonden, moet de aanhangwagen eerst door het systeem worden ingeleerd. Dit wordt bij het achteruitrijden door een gereduceerde sector weergegeven, zodra de auto met aanhangwagen beweegt. Daarnaast verschijnt op het centrale beeldscherm de aanwijzing voor de bestuurder Voor het inleren van de aanhangwagen voorzichtig rijden en zelf remmen.
+Inleren is ook nodig als de donkere wijzer in het gebruik de richting van de aanhangwagen niet correct weergeeft.
+Om in te leren moet in voorwaartse richting met lage snelheid een recht stuk en enkele bochten worden gereden om de knikhoek te reduceren. Tijdens het inleren is het systeem met beperkte functionaliteit beschikbaar.
+Het inleerproces kan afhankelijk van externe omstandigheden zoals beperkt licht meer tijd in beslag nemen.
+Rijden en manoeuvreren met de aanhangwagenassistent
+Druk op de knop op het beeldscherm  
+5
+.
+Neem de handen van het stuurwiel.
+Schakel de achteruitversnelling in. Op het scherm start een korte animatie over de bediening van de aanhangwagenassistent.
+Stel de gewenste rijrichting van de aanhangwagen binnen het mogelijke instelbereik in door de vinger over het scherm naar rechts of links te bewegen.
+Tip tweemaal op het scherm om de knikhoek naar nul terug te brengen en met de auto met aanhangwagen rechtuit te rijden. Bij grote knikhoeken stelt het systeem voor om eerst een correctiebeweging in voorwaartse richting uit te voeren. In dit geval stuurt de auto ook bij het vooruitrijden. Als de donkere wijzer zich daarbij binnen de witte markeringen bevindt, kan de rijrichting van de aanhangwagen worden aangehouden. Als de wijzer zich buiten de markeringen bevindt, rijdt de auto met aanhangwagen pas na nog eens een afstand afgelegd te hebben weer rechtuit. Daarbij moet de richting zo nodig worden gecorrigeerd.
+Houd de rijweg goed in de gaten. Rijd pas weg als de verkeerssituatie het toelaat zie, zie.
+Tijdens het rijden kunt u op elk moment de gewenste richting van de aanhangwagen via het scherm aanpassen.
+Controleer tijdens het manoeuvreren continu de richting van de aanhangwagen op het scherm.
+Let erop dat de donkere wijzer en de richting van de aanhangwagen samenvallen. Bij slecht zicht of sterk gestructureerde ondergronden wordt de indraaihoek mogelijk niet correct herkend.
+Om de aanhangwagenassistent uit te schakelen, drukt u op .
+Lange aanhangwagens met een grote afstand tussen de aanhangwagenas en de auto bereiken tijdens het rijden grotere knikhoeken dan korte aanhangwagens. Ze reageren daarom met een grotere vertraging.
+Bij het achteruitrijden met een aanhangwagen verandert de knikhoek geleidelijk met de afgelegde afstand. Als u weer rechtuit wilt rijden, kan het raadzaam zijn om eerst naar voren te rijden om de aanhangwagen recht te zetten.
+Aanhangwagen inleren
+Als de aanhangwagen met een grote knikhoek werd aangekoppeld of het automatische inleren nog niet heeft plaatsgevonden, moet de aanhangwagen eerst door het systeem worden ingeleerd. Dit wordt bij het achteruitrijden door een gereduceerde sector weergegeven, zodra de auto met aanhangwagen beweegt. Daarnaast verschijnt op het centrale beeldscherm de aanwijzing voor de bestuurder Voor het inleren van de aanhangwagen voorzichtig rijden en zelf remmen.
+Inleren is ook nodig als de donkere wijzer in het gebruik de richting van de aanhangwagen niet correct weergeeft.
+Om in te leren moet in voorwaartse richting met lage snelheid een recht stuk en enkele bochten worden gereden om de knikhoek te reduceren. Tijdens het inleren is het systeem met beperkte functionaliteit beschikbaar.
+Het inleerproces kan afhankelijk van externe omstandigheden zoals beperkt licht meer tijd in beslag nemen.
+Aanzicht kiezen
+Om tussen normaalaanzicht en panorama-aanzicht te kiezen, drukt u op de betreffende knop op het beeldscherm. Bij auto's met omgevingscamera's zijn de andere aanzichten niet beschikbaar als de aanhangwagenassistent actief is.
+Automatische veiligheidsremming
+De aanhangwagenassistent kan in bepaalde situaties een automatische veiligheidsremming activeren. In dit geval wordt de parkeerrem vastgezet. Bij het vooruitrijden wordt de parkeerrem automatisch losgezet. Om verder achteruit te rijden, moet u de parkeerrem handmatig loszetten en het systeem via de knop  uitschakelen.
+De bestuurder kan de veiligheidsremming niet overrulen.
+Als u na de eerste veiligheidsremming door handmatig loszetten van de parkeerrem probeert verder achteruit te rijden, volgt nog een veiligheidsremming.
+In de volgende situaties kan het systeem een veiligheidsremming activeren:
+Er wordt in het stuurwiel gegrepen.
+De indraaihoek is te groot.
+Er wordt een storing herkend.
+Er is een bagagedrager gemonteerd.

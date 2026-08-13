@@ -1,0 +1,24 @@
+Starten en rijden
+Hoogvoltsysteem
+Hoogvoltaccu laden
+Storingen bij het laden verhelpen
+Hoogvoltaccu laden
+Storingen bij het laden verhelpen
+Laadsessie start bij aangesloten laadstekker niet of in de noodlaadmodus
+Het is mogelijk dat de laadstekker niet kan worden vergrendeld omdat deze niet volledig erin is gestoken:
+Steek de laadstekker opnieuw in de laadaansluiting van de auto en druk deze gedurende 5 seconden stevig in de laadaansluiting. Hierdoor blijft de laadstekker in de optimale positie en kan deze automatisch worden vergrendeld.
+Laadstekker kan niet uit de laadaansluiting worden getrokken
+Als de laadstekker niet van de auto kan worden losgetrokken, is er mogelijk sprake van een onjuiste werking. Voer achtereenvolgens de volgende stappen uit en probeer na elke stap de laadstekker los te trekken:
+Zorg ervoor dat de laadsessie beëindigd is.
+Druk bij een ontgrendelde auto op de knop 
+1.
+ zie.
+Schakel de auto in en weer uit.
+Ver- en ontgrendel de auto.
+Zorg ervoor dat de voorklimatisering niet is geactiveerd.
+Als de laadstekker nog steeds niet van de auto kan worden losgetrokken, moet u deze noodontgrendelen Laadstekker/laadklep noodontgrendelen.
+Bij temperaturen onder het vriespunt zou de laadstekker vastgevroren kunnen zijn. Schakel de hulp van een (Audi-)specialist in.
+Laadstekker kan niet van het laadstation worden losgetrokken
+Zorg ervoor dat de laadsessie beëindigd is.
+Authenticeer uzelf opnieuw bij het laadstation en probeer de laadstekker los te trekken.
+Als de laadstekker nog niet van het laadstation kan worden losgetrokken, neem dan contact op met de exploitant van het laadstation.

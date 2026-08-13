@@ -1,0 +1,19 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Dynamische snelheidsassistent
+Systeemgrenzen van de dynamische snelheidsassistent
+Dynamische snelheidsassistent
+Systeemgrenzen van de dynamische snelheidsassistent
+Voorbeeld: Inrijden van een bocht
+In sommige rijsituaties is de werking van de dynamische snelheidsassistent beperkt en moet u mogelijk zelf ingrijpen door bijvoorbeeld de auto zelf met het rempedaal af te remmen:
+Bij het inrijden van een bocht zie en bij het uitrijden van een bocht kan het voorkomen dat het systeem op een voertuig op de andere rijstrook reageert en de eigen auto dus wordt afgeremd. U kunt dit overrulen door kort het gaspedaal in te trappen.
+Het systeem werkt met het resultaat van verschillende sensoren en camera's. Voertuigen kunnen pas worden herkend als deze zich in het detectiegebied en binnen het bereik van de sensoren bevinden.
+In scherpe bochten is het mogelijk dat een reeds herkende voorligger niet meer wordt herkend, waardoor de dynamische snelheidsassistent onverwacht kan accelereren.
+Het systeem reageert niet op stilstaande voertuigen in de eigen rijstrook als het systeem aanneemt dat u het stilstaande voertuig met een stuurbeweging makkelijk kunt ontwijken.
+Het systeem reageert niet op personen, dieren, kruisende of tegemoetkomende objecten.
+Op stilstaande obstakels, zoals de staart van een file, kan het systeem, vooral bij hoge snelheden, niet reageren.
+Voorliggers vlak voor u, versprongen rijdende of voor u invoegende voorliggers kan het systeem slechts beperkt herkennen.
+Moeilijk herkenbare objecten, zoals voor u rijdende tweewielers, auto's met een grote bodemvrijheid of uitstekende lading, worden vaak pas laat of helemaal niet herkend.
+Als de maximaal mogelijke helling van de weg voor een veilig gebruik is overschreden, kan het systeem niet worden ingeschakeld resp. wordt het systeem onderbroken.
+De regeling van de dynamische snelheidsassistent is alleen beschikbaar als ESC en ASR ingeschakeld en paraat zijn. Schakel de systemen zo nodig van tevoren in.
+ATTENTIE

@@ -1,0 +1,15 @@
+Infotainment
+Entertainment in het interieur
+Gamecontroller gebruiken
+Systeemgrenzen en functiebeperkingen van de gamecontroller
+Gamecontroller gebruiken
+Systeemgrenzen en functiebeperkingen van de gamecontroller
+Systeemgrenzen
+Gamecontrollers zijn gebonden aan systeemgrenzen en een compatibiliteit kan niet voor alle soorten gamecontrollers worden gegarandeerd. De beschikbaarheid hangt onder andere van de volgende factoren af:
+Het merk en de bouwvariant van de gamecontroller
+Ondersteunt de gamecontroller Bluetooth Low Energy
+De gebruikte spellen-apps
+Functiebeperkingen
+Het spelen met een gamecontroller in het centrale beeldscherm is alleen bij stilstaande auto mogelijk.
+Bij gelijktijdig verbonden Bluetooth-headset kan de werking van de gamecontroller beperkt zijn.
+Bij meerdere verbonden apparaten kan de werking van de gamecontroller beperkt zijn.

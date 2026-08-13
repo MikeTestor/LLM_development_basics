@@ -1,0 +1,9 @@
+Starten en rijden
+Personalisatie
+Hoofdgebruiker
+Inleiding
+Hoofdgebruiker
+Inleiding
+De eigenaar van de auto moet zich voor bepaalde uitrustingsafhankelijke Audi connect wagenaansturingsdiensten als hoofdgebruiker vastleggen.
+U kunt als hoofdgebruiker andere gebruikers autoriseren voor het gebruik van uitrustingsafhankelijke Audi connect wagenaansturingsdiensten.
+Als hoofdgebruiker heeft men automatisch autorisatie voor toegang op afstand. Deze is vereist voor de aansturing van bepaalde uitrustingsafhankelijke functies, bv. Audi connect wagenaansturingsdiensten via de myAudi app.

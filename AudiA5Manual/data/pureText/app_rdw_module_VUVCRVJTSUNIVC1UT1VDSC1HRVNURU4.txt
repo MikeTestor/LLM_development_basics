@@ -1,0 +1,30 @@
+Weergave en bediening
+Touchscreens
+Handgebaren en ingave
+Touchscreens bedienen
+Handgebaren en ingave
+Touchscreens bedienen
+Functie of knop kiezen
+Druk op de gewenste functie of knop.
+Contextmenu openen
+Bij sommige elementen kunt u een contextmenu openen dat niet direct zichtbaar is.
+Druk op een element tot het bijbehorende contextmenu wordt weergegeven.
+Elementen verplaatsen
+Bepaalde elementen kunnen worden verplaatst, bv. om de positie van het element te wijzigen:
+Druk op het element en verplaats het naar de gewenste positie.
+In bepaalde velden kunt u mappen aanmaken met meerdere elementen door op een element te drukken en het naar een ander element te slepen.
+Pagina's wisselen of bladeren
+Om tussen pagina's te wisselen, swipet u met uw vinger naar rechts of links.
+In pagina's of lijsten scrollen
+Om in een pagina of een lijst te scrollen, swipet u met één vinger omhoog of omlaag.
+Verborgen aanzicht openen of sluiten
+Om een verborgen aanzicht te openen, swipet u vanaf de rand van het scherm (bv. vanaf de bovenste rand) naar het midden van het scherm.
+Om een verborgen aanzicht te sluiten, swipet u vanaf het midden van het scherm naar de schermrand.
+Schuifknop bedienen
+Om de stand van een schuifknop te wijzigen, drukt u op de knop en trekt u deze naar de gewenste waarde, of
+U drukt op een willekeurige positie op de schaal en trekt zo de knop naar de gewenste waarde.
+Aanzicht of perspectief wijzigen
+Om een element te vergroten, trekt u het met 2 vingers uit elkaar.
+Om een element te verkleinen, trekt u het met 2 vingers naar elkaar toe.
+Om een element te draaien, draait u het element met 2 vingers.
+Om een 3D-aanzicht te kantelen, swipet u met 2 vingers omhoog of omlaag.

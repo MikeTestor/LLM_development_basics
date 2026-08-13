@@ -1,0 +1,28 @@
+Weergave en bediening
+Audi assistant
+Functies en bediening
+Audi assistant bedienen
+Functies en bediening
+Audi assistant bedienen
+Voorwaarde: de auto en de MMI zijn ingeschakeld. Er is een systeemtaal ingesteld die door de Audi assistant wordt ondersteund. Er wordt geen telefoongesprek gevoerd en de parkeerhulp is niet actief.
+Tijdens een dialoog worden er geen navigatiemeldingen en geen verkeersberichten doorgegeven.
+Activering via stuurwieltoets 
+Druk kort op de toets  op het multifunctiestuurwiel.
+Zeg het gewenste commando.
+Activering via spraakcommando
+Voorwaarde: u heeft de functie activatiewoord in het menu Audi assistant geactiveerd Menu 'Audi assistant' openen.
+Zeg het activatiewoord Hey Audi met het gewenste commando.
+Landspecifiek is de spraakbediening ook mogelijk zonder het activatiewoord te noemen. Daarvoor moet aan de volgende voorwaarden zijn voldaan:
+U zit op de bestuurdersstoel.
+U bent alleen in de auto.
+U heeft de functie Direct praten in het menu Audi assistant geactiveerd Menu 'Audi assistant' openen.
+Activering via centraal beeldscherm 
+Als de auto over een overzichtspagina van de Audi assistant beschikt, kan het systeem als volgt worden geactiveerd:
+Open de overzichtspagina van de Audi assistant door op  te drukken.
+Druk in de overzichtspagina van de Audi assistant op  en zeg het gewenste commando.
+In de overzichtspagina van de Audi assistant worden mogelijke bedieningstips, proactieve voorstellen en routines weergegeven.
+Spraakinvoer annuleren
+Om de spraakinvoer te annuleren, zegt u Annuleren of drukt u op de toets  op het multifunctiestuurwiel.
+Commando's en hulp
+In het menu Audi assistant kunt u hulp krijgen bij het bedienen Menu 'Audi assistant' openen.
+Om contextafhankelijke hulp bij de actuele spraakdialoog te krijgen, zegt u Help.

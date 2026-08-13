@@ -1,0 +1,18 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Reisdoel in de MMI zoeken en kiezen
+Reisdoel ingeven
+Reisdoel in de MMI zoeken en kiezen
+Met de zoekopdracht kunt u uw gewenste reisdoel zoeken en voor de routegeleiding kiezen. Het navigatiesysteem zoekt steeds de snelle route.
+Zoeken openen
+Kies:  > Navigatie > .
+Zoekopties
+Afhankelijk van het land, de voertuiguitrusting en de aangemelde gebruiker kunnen de volgende opties beschikbaar zijn:
+Zoeken: zoeken met behulp van een of meerdere zoekbegrippen via het invoerveld of de Audi assistant.
+Op internet zoeken: zoeken van een reisdoel met behulp van een zoekmachineaanbieder. Voorwaarde: de MMI is met internet verbonden.
+Online Points of Interest: zoeken naar een bijzonder reisdoel in een bijzonder-reisdoelcategorie, zoals tankstations, parkeerplaatsen en restaurants. Om andere categorieën te gebruiken, drukt u op .
+Nadat u het gewenste reisdoel heeft gekozen, wordt de routegeleiding gestart.
+Bijzondere reisdoelen
+Afstanden van bijzondere reisdoelen worden hemelsbreed vanaf uw actuele positie weergegeven. De daadwerkelijke afstand van de actuele voertuigpositie tot het bijzondere reisdoel wordt automatisch aangepast. De lijst met gevonden bijzondere reisdoelen wordt daarbij niet meer opnieuw gesorteerd.
+VOORZICHTIG

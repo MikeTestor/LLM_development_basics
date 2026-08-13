@@ -1,0 +1,11 @@
+Verzorging en onderhoud
+Wielen
+Bandencontrole
+Bandenspanningen in de bandencontrole opslaan
+Bandencontrole
+Bandenspanningen in de bandencontrole opslaan
+Een wijziging in de bandenspanning of het verwisselen van een wiel moet op het centrale beeldscherm worden bevestigd.
+Zorg er vóór het opslaan voor dat de actuele bandenspanningen van alle 4 de banden voldoen aan de voorgeschreven waarden en zijn aangepast aan de actuele belading Informatie over de bandenspanning.
+Schakel de auto in.
+Kies:  > Wagen > Service > Bandenspanning opslaan > Bandenspanning opslaan > Ja, nu opslaan.
+Sla de bandenspanningswaarden niet op als er sneeuwkettingen gemonteerd zijn.

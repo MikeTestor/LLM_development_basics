@@ -1,0 +1,12 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Stoeprandwaarschuwing
+Stoeprandwaarschuwing activeren en deactiveren
+Stoeprandwaarschuwing
+Stoeprandwaarschuwing activeren en deactiveren
+Automatisch activeren en deactiveren
+De stoeprandwaarschuwing wordt automatisch geactiveerd resp. gedeactiveerd, wanneer de parkeerhulp wordt geactiveerd resp. gedeactiveerd.
+Handmatig activeren of deactiveren
+Druk op de knop  in de middenconsole.
+Na een handmatige deactivering is de stoeprandwaarschuwing bij de volgende activering van de parkeerhulp weer automatisch actief.
+ATTENTIE

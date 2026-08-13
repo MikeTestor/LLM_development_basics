@@ -1,0 +1,29 @@
+Starten en rijden
+Rijden
+Remmen
+Informatie over remmen
+Remmen
+Informatie over remmen
+Bedrijfsgeluiden
+Afhankelijk van snelheid, remkracht en omgevingsomstandigheden (bv. temperatuur, vochtigheid) kunnen geluiden bij het remmen ontstaan.
+Als de auto stilstaat en kort na het wegrijden voert het remsysteem regelmatig systeemtests uit. Daarbij kunnen kortstondig geluiden en haptische effecten op het rempedaal ontstaan.
+Remwerking
+Om een optimale remwerking te waarborgen, worden de remblokken bij hogere snelheden en ingeschakelde ruitenwisser korte tijd tegen de remschijven gelegd.
+Is het remsysteem bijvoorbeeld na een rit bij hevige regen vochtig, dan kan dit tot een vertraagde remwerking leiden. Overige oorzaken die een tijdelijke hogere reactietijd van de remmen veroorzaken, zijn bijvoorbeeld:
+Natheid
+Lage temperaturen, ijs en sneeuw
+Met zout bestrooide wegen
+Verontreiniging van de remblokken
+Corrosie
+Bij gering gebruik van het remsysteem, lange perioden van stilstand of weinig gereden kilometers kan roestvorming op de remschijven ontstaan. In dit geval kunt u door meermaals sterk remmen bij hogere snelheid de remschijven reinigen zie.
+Geldt voor auto's met plug-inhybrideaandrijving: Kies daarbij rijstand N, zodat voor het remmen niet de recuperatie wordt gebruikt.
+Remblokken
+Nieuwe remblokken hebben tijdens de eerste 400 kilometer nog niet de volledige remwerking. Ze moeten eerst inremmen. De iets lagere remkracht kunt u compenseren door het rempedaal steviger in te trappen. Tijdens het inrijden extra belasting van de remmen vermijden.
+Geldt voor auto's met plug-inhybrideaandrijving: Omdat voor het remmen ook de recuperatie wordt gebruikt, bedraagt de inrijtijd van nieuwe remblokken 800 km.
+De slijtage van de remblokken is in hoge mate afhankelijk van de gebruiksomstandigheden en de rijstijl. Als u vaak in de stad en op korte trajecten of heel sportief rijdt, neemt de slijtage van de remblokken bijvoorbeeld toe.
+Remassistent vervolgongeval
+De remassistent vervolgongeval kan helpen, het slipgevaar en het gevaar voor verdere aanrijdingen bij een ongeval te verminderen. Als het airbagregelapparaat een aanrijding registreert, wordt de auto door de ESC afgeremd.
+De auto wordt niet automatisch afgeremd als:
+u het gaspedaal intrapt, of
+de remdruk door het ingetrapte rempedaal groter is, dan de door het systeem gestarte remdruk, of
+de ESC, het remsysteem of de elektrische installatie niet werken.

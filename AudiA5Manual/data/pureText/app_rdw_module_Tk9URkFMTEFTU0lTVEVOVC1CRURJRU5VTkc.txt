@@ -1,0 +1,20 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Noodgevalassistent
+Noodgevalassistent bedienen
+Noodgevalassistent
+Noodgevalassistent bedienen
+Automatische activering
+De noodgevalassistent wordt automatisch geactiveerd als binnen de grenzen van het systeem inactiviteit van de bestuurder wordt herkend.
+Bij handmatig rijden zonder stuurondersteunende hulpsystemen kan via de gevoeligheid de tijd tot aan een herkende inactiviteit van de bestuurder worden ingesteld. De gevoeligheid kan in het menu Hulpsystemen  worden ingesteld Menu 'Hulpsystemen' openen. Een lage gevoeligheid betekent dat de noodgevalassistent later wordt geactiveerd als u handmatig rijdt zonder stuurondersteunende hulpsystemen.
+Noodgevalassistent afbreken
+De noodgevalassistent kan onder andere worden afgebroken als
+u aan het stuurwiel draait, of
+u het rempedaal intrapt, of
+u duidelijk het gaspedaal intrapt.
+Bij stilstand kunt u de noodgevalassistent beëindigen door uit rijstand P te schakelen of de parkeerrem los te zetten Parkeerrem.
+Als u het systeem heeft afgebroken, verschijnen  en een overeenkomstige aanwijzing voor de bestuurder.
+In- en uitschakelen
+U kunt de noodgevalassistent in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen.
+Als u het systeem uitschakelt, verschijnen  en een overeenkomstige aanwijzing voor de bestuurder.
+ATTENTIE

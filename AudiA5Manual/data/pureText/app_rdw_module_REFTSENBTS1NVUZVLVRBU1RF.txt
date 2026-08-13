@@ -1,0 +1,8 @@
+Infotainment
+Dashcam
+Dashcam bedienen
+Dashcam op het multifunctiestuurwiel bedienen
+Dashcam bedienen
+Dashcam op het multifunctiestuurwiel bedienen
+Voorwaarde: de toewijsbare stuurwieltoets is met een functie van de dashcam geconfigureerd.
+De -toets op het multifunctiestuurwiel indrukken.

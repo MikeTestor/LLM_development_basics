@@ -1,0 +1,27 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Informatie conform EU-Accuverordening
+Voertuiggegevens
+Informatie conform EU-Accuverordening
+Parameters met betrekking tot elektrochemisch vermogen en houdbaarheid
+De gegevens zijn conform verordening (EU) 2023/1542. De genoemde waarden hebben betrekking op referentievoorwaarden en zijn geen gegarandeerde waarden. De daadwerkelijke waarden bij gebruik van de auto kunnen afhankelijk van verschillende factoren, zoals bv. de omgevings- en accutemperatuur, acculadingstoestand, voertuigconfiguratie en het gebruiksprofiel, variëren. Tips en aanwijzingen voor het gebruik en het opladen van de accu in de auto vindt u in het instructieboekje van de auto.
+	Accutypenaam	Te verwachten (minimale) levensduur 1) van de accu [jaren]	Te verwachten (minimale) levensduur 1) van de accu [cycli 2) ]	Nominale capaciteit 3) [Ah]
+A5 Avant e-hybrid quattro 220 kW	BATTYPA26	8	1777	70
+A5 Avant e-hybrid quattro 270 kW	BATTYPA26	8	1777	70
+A5 Limousine e-hybrid quattro 220 kW	BATTYPA26	8	1777	70
+A5 Limousine e-hybrid quattro 270 kW	BATTYPA26	8	1777	70
+	Capaciteitsverlies 4) [%]	Vermogen [kW]	Vermogensverlies 4) [%]	Inwendige weerstand [mΩ]
+A5 Avant e-hybrid quattro 220 kW	27	165	20	123
+A5 Avant e-hybrid quattro 270 kW	27	165	20	123
+A5 Limousine e-hybrid quattro 220 kW	27	165	20	123
+A5 Limousine e-hybrid quattro 270 kW	27	165	20	123
+	Toename inwendige weerstand 4) [%]	Round Trip rendement	Afname Round Trip rendement 3) [%]
+A5 Avant e-hybrid quattro 220 kW	26	0,91	2
+A5 Avant e-hybrid quattro 270 kW	26	0,91	2
+A5 Limousine e-hybrid quattro 220 kW	26	0,91	2
+A5 Limousine e-hybrid quattro 270 kW	26	0,91	2
+1)Bij deze waarden gaat het om de te verwachten minimale gebruiksduur van de accu in de auto onder bepaalde referentievoorwaarden. De daadwerkelijke gebruiksduur is in de regel langer en hangt o.a. af van de parameters met betrekking tot elektrochemisch vermogen en houdbaarheid.
+2)Cyclus = Volcyclus-equivalent. Het volcyclus-equivalent komt overeen met de totale ontladingssnelheid in verhouding tot de nominale accucapaciteit.
+3)De waarde heeft betrekking op de brutocapaciteit van de accu, de daadwerkelijk bruikbare waarde is eventueel lager.
+4)De waarde heeft betrekking op de bij de te verwachten (minimale) levensduur aangegeven cycli resp. jaren.

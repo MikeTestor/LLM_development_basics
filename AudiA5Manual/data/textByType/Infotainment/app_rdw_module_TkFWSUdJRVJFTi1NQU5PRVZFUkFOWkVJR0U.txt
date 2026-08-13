@@ -1,0 +1,8 @@
+Infotainment
+Navigatie
+Functies bij een actieve routegeleiding gebruiken
+Manoeuvreweergave gebruiken
+Functies bij een actieve routegeleiding gebruiken
+Manoeuvreweergave gebruiken
+Als de manoeuvreweergave in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen is ingeschakeld, worden aanstaande rijmanoeuvres (bv. afslaan, wisselen van rijstrook) op de kaart weergegeven.
+Druk op de manoeuvreweergave om de navigatiemelding opnieuw te laten weergeven.

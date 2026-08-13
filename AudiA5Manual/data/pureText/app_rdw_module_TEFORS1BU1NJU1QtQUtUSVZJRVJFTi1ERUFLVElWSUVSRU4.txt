@@ -1,0 +1,45 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Rijstrookgeleiding
+Rijstrookgeleiding gebruiken
+Rijstrookgeleiding
+Rijstrookgeleiding gebruiken
+Bedieningshendel: Knop voor rijstrookgeleiding en waarschuwing voor verlaten rijstrook
+Instrumentenpaneel: Rijstrookgeleiding in de omgevingsweergave
+Rijstrookgeleiding in- en uitschakelen
+Voorwaarde: de dynamische snelheidsassistent is ingeschakeld Inschakelen.
+Om de rijstrookgeleiding in of uit te schakelen, de knop 
+1
+ op de bedieningshendel kort indrukken.
+Koppeling van de rijstrookgeleiding aan de dynamische rijassistent
+Afhankelijk van de uitrusting kunt u de activering en deactivering van de rijstrookgeleiding in het menu Hulpsystemen  koppelen aan de activering en deactivering van de afstands-/snelheidsregeling.
+Koppeling ingeschakeld: de rijstrookgeleiding wordt samen met de afstands-/snelheidsregeling in- en uitgeschakeld.
+Koppeling uitgeschakeld: de rijstrookgeleiding kan onafhankelijk van de afstands-/snelheidsregeling worden in- en uitgeschakeld.
+Gedrag van rijstrookgeleiding instellen
+Afhankelijk van de uitrusting kunt u de sterkte van de stuuringrepen van zacht tot sterk in het menu Hulpsystemen  instellen Menu 'Hulpsystemen' openen.
+Rijstrookgeleiding verschuiven
+Afhankelijk van de uitrusting kunt u naar wens de positionering van de rijstrookgeleiding binnen de rijstrook verschuiven 1) . Daarmee is het mogelijk om het rijspoor van de auto precies te regelen.
+Om de gewenste positionering binnen uw rijstrook tijdelijk te verschuiven, stuurt u enkele seconden licht in de richting van de gewenste positionering.
+De aangeleerde positionering wordt afhankelijk van de situatie teruggezet, bv. als u terug naar het midden van de rijstrook stuurt of vanwege te scherpe bochten.
+Overzicht van de weergaven
+Weergave omgevingsweergave	Controlelampjes	Betekenis
+
+2
+ Witte
+driehoekjes		De rijstrookgeleiding is aan de betreffende zijde ingeschakeld, maar niet actief.
+
+3
+ Groene
+driehoekjes		De rijstrookgeleiding aan de betreffende zijde actief.
+
+4
+ Rode
+driehoekjes		Neem direct actief de besturing over. Een systeemgrens is bereikt Overnameopdracht besturing van de rijstrookgeleiding.
+-		Neem direct actief de besturing over. Er werd geen stuuractiviteit herkend Overnameopdracht besturing van de rijstrookgeleiding.
+-	
+De omgevingsweergave verschijnt alleen als deze in het instrumentenpaneel is geselecteerd.
+Meer informatie
+Laat uw handen altijd op het stuurwiel, zodat u steeds klaar bent om te sturen. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+Audi adviseert u de rijstrookgeleiding alleen op goede wegen in te schakelen.
+ATTENTIE
+1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

@@ -1,0 +1,23 @@
+Infotainment
+Overige instellingen
+Software-update
+Software-update uitvoeren
+Software-update
+Software-update uitvoeren 1)
+Met de software-update kunt u de software direct in de auto bijwerken.
+Software-update downloaden
+Voorwaarde: de MMI is met internet verbonden.
+Het downloaden gebeurt automatisch zonder aanwijzing vooraf en wordt eventueel bij het opnieuw inschakelen van de auto automatisch voortgezet. Nadat het downloaden is afgerond, wordt er een melding op het centrale beeldscherm weergegeven.
+Software-update installeren
+Voorwaarde: er wordt een melding over een software-update op het centrale beeldscherm weergegeven. De auto staat stil en is uitgeschakeld.
+Druk op de melding, of
+Om de software-update te openen, kiest u:  > Instellingen.
+Druk op de gewenste software-update en volg de aanwijzingen van het systeem op.
+Houd er rekening mee dat er mogelijk aan bepaalde voorwaarden moet worden voldaan om de software-update te installeren. Deze worden op het centrale beeldscherm weergegeven.
+Om de software-update te starten, stapt u uit de auto en vergrendelt u de auto.
+De MMI start de installatie. Tijdens de installatie van de software-update zijn de voertuigfuncties beperkt.
+Als de software-update succesvol is beëindigd, wordt er een melding op het centrale beeldscherm weergegeven. U kunt informatie over de geïnstalleerde software laten weergeven.
+Als de software-update is mislukt, wordt er een melding op het centrale beeldscherm weergegeven. Volg de aanwijzingen van het systeem op.
+ATTENTIE
+VOORZICHTIG
+1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

@@ -1,0 +1,11 @@
+Infotainment
+Overige instellingen
+Software-update
+Aanwijzingen voor de bestuurder met betrekking tot de software-update
+Software-update
+Aanwijzingen voor de bestuurder met betrekking tot de software-update
+Afhankelijk van de voertuiguitrusting kunnen de volgende aanwijzingen voor de bestuurder verschijnen:
+ Software-update: niet volledig. Let op! Rijden niet mogelijk. Zie instructieboekje
+Bij de installatie van de software-update is een fout opgetreden. De auto is niet rijklaar. Neem contact op met een (Audi-)specialist en laat de storing verhelpen.
+ Software-update: niet volledig. Let op! Voertuigfuncties beperkt. Zie instructieboekje
+Bij de installatie van de software-update is een fout opgetreden. De auto is klaar om te rijden, maar mogelijk zijn bepaalde voertuigfuncties niet beschikbaar. Rijd naar een (Audi-)specialist en laat de storing verhelpen.

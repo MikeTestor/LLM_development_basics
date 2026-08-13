@@ -1,0 +1,16 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Positie van het motornummer
+Voertuiggegevens
+Positie van het motornummer
+Het motornummer met de motorcode zit op de volgende positie in de motorruimte:
+Motor	Positie van het motornummer
+TFSI-motor
+110 kW	Op de scheidingsnaad van motor en versnellingsbak en op een sticker op de afdekking van de distributieketting.
+150 kW
+185 kW
+200 kW
+270 kW	Op een sticker op de linkerlaadluchtkoeler en achter boven op het cilinderblok (motornummer pas zichtbaar als motorafdekking en hitteschild zijn uitgebouwd).
+TDI-motor
+150 kW	Op de scheidingsnaad van motor en versnellingsbak.

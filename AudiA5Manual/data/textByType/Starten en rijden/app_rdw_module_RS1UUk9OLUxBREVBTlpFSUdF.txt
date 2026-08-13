@@ -1,0 +1,31 @@
+Starten en rijden
+Hoogvoltsysteem
+Hoogvoltaccu laden
+Weergave van de laadstatus
+Hoogvoltaccu laden
+Weergave van de laadstatus
+De laadstatus kan op de laadeenheid of in het instrumentenpaneel worden afgelezen.
+Laadstatus van de laadeenheid aflezen
+In de laadeenheid zit een led, die de actuele laadstatus aangeeft 
+2
+ zie. Een sticker 
+3
+ op de laadeenheid geeft informatie over de verschillende indicaties.
+Led in de laadeenheid	Betekenis
+Uit	Laadsysteem van de auto is in de rustmodus. De laadsessie is niet actief.
+Wit	Pulserend	Laadsessie wordt gestart resp. beëindigd.
+Brandend	Laadsessie onderbroken. Laadstekker nog steeds vergrendeld.
+Groen	Pulserend	Hoogvoltaccu wordt geladen.
+Knipperend	Wacht op laadsessie, omdat rekening wordt gehouden met vertrektijd of positiespecifieke instelling.
+Brandend	Het ladingsdoel is bereikt en de laadsessie is beëindigd.
+Houd rekening met de instellingen voor de automatische stekkerontgrendeling AC-stekker automatisch ontgrendelen.
+Rood	Brandend	Door een storing kan de auto niet worden geladen. Neem de aanwijzingen voor de bestuurder in het instrumentenpaneel in acht Aanwijzingen voor de bestuurder met betrekking tot het hoogvoltsysteem.
+Laadstatus van het instrumentenpaneel aflezen
+Het symbool  laat dezelfde laadstatus zien als de led in de laadeenheid.
+Daarnaast kan afhankelijk van het gekozen aanzicht de volgende informatie over de laadsessie worden weergegeven:
+Symbool	Betekenis
+	Actieradius
+	Resterende laadduur
+	Acculadingstoestand
+	Datum, tijd van beëindigde laadsessie/geplande vertrektijd
+ 	Laadvermogen bij AC-laadsessie

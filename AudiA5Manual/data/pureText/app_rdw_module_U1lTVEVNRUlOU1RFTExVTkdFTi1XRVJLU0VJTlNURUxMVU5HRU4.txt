@@ -1,0 +1,15 @@
+Infotainment
+Overige instellingen
+Systeeminstellingen
+Systeem op fabrieksinstellingen terugzetten
+Systeeminstellingen
+Systeem op fabrieksinstellingen terugzetten
+Voorwaarde: de auto staat stil en is ingeschakeld. De MMI is met het internet verbonden.
+Om de auto op de fabrieksinstellingen terug te kunnen zetten moet u een eventueel aanwezig hoofdapparaat voor het beheer van digitale sleutels ontkoppelen.
+Hoofdapparaat ontkoppelen
+Kies:  > Digitale sleutel > Beheer > Beheer hoofdapparaten.
+Fabrieksinstellingen herstellen
+U kunt het systeem in het menu Instellingen op de fabrieksinstellingen terugzetten Menu 'Instellingen' openen.
+Volg de aanwijzingen van het systeem op.
+Het systeem wordt op de fabrieksinstellingen teruggezet en opnieuw opgestart. Dit kan enige tijd in beslag nemen. Hierbij worden niet alleen instellingen, maar eventueel ook opgeslagen gegevens gewist.
+VOORZICHTIG

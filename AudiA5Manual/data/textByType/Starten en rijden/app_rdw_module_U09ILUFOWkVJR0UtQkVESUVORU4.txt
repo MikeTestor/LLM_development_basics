@@ -1,0 +1,18 @@
+Starten en rijden
+Hoogvoltsysteem
+Veilige omgang met het hoogvoltsysteem
+Informatie over hoogvoltaccu tonen
+Veilige omgang met het hoogvoltsysteem
+Informatie over hoogvoltaccu tonen
+Menu Accugegevens openen
+Kies:  > Wagen > Service > Voertuiggegevens > Accugegevens.
+Verouderingstoestand van de hoogvoltaccu
+Onder het bereik verouderingstoestand van de hoogvoltaccu wordt weergegeven welke energie-inhoud de hoogvoltaccu ten opzichte van de gecertificeerde energie-inhoud in nieuwtoestand heeft. De waarde wordt in procenten aangegeven. Daarnaast wordt de afgelegde afstand sinds de laatste update van de verouderingstoestand van de hoogvoltaccu getoond. Het gebruikersspecifieke laadgedrag kan invloed hebben op de nauwkeurigheid van de weergave. Om een zo duidelijk mogelijke waarde te verkrijgen, adviseert Audi de hoogvoltaccu te kalibreren, bv. voor een eventuele verkoop van de auto.
+Om de hoogvoltaccu zelf te kalibreren, voert u de volgende stappen uit. Let erop, dat de buitentemperatuur op de plaats waar de auto wordt neergezet niet lager mag zijn dan -5°C.
+Zet de auto neer met een ladingstoestand van minder dan 7%.
+Vergrendel de auto en laat de auto ten minste 3 uren vergrendeld en stil staan.
+Laad de hoogvoltaccu met wisselstroom tot 100%.
+Vergrendel de auto en laat de auto ten minste 3 uren vergrendeld en stil staan.
+Na de rusttijd is de kalibratie afgerond. De weergave van de afgelegde afstand sinds de laatste update is teruggezet.
+Laadvermogen van de hoogvoltaccu
+Onder het bereik Laadvermogen van de hoogvoltaccu wordt het actueel maximaal mogelijke laadvermogen ten opzichte van het daadwerkelijke laadvermogen tijdens het laden weergegeven.

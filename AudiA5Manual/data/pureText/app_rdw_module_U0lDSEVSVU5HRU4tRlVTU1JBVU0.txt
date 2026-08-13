@@ -1,0 +1,69 @@
+Zelf problemen verhelpen
+Zekeringen en gloeilampjes
+Zekeringen vervangen
+Zekeringenoverzicht voetenruimte
+Zekeringen vervangen
+Zekeringenoverzicht voetenruimte
+Voetenruimte links: Afdekking
+Voetenruimte links: Zekeringenhouder
+Zekeringenhouder 
+1
+ (zwart)
+Nr.	Verbruiker
+1	Thermomanagement, waterpomp hoogvoltaccu
+2	Thermomanagement
+3	Hoogvoltverwarming, thermomanagement
+4	Sensoren thermomanagement
+5	Airconditioning
+6	Thermomanagement
+7	Regelapparaat laagvoltvermogensverdeling, startmotorrelais, elektrische aandrijving
+8	Regelapparaat elektrische installatie, diagnoseaansluiting, binnenspiegel, stoelelektronica voorin
+9	USB-aansluitingen achterin
+Zekeringenhouder 
+2
+ (beige)
+Nr.	Verbruiker
+1	Regelapparaat noodoproep en communicatie
+2	Hoogvoltaccu
+3	Airbag
+4	Koplamp links
+5	Regelapparaat aandrijving en onderstel
+6	Centraal regelapparaat bestuurdershulpsystemen
+7	Koplamp rechts
+8	Ruitenwissers
+9	Radarsensoren voorste voertuighoeken
+10	Diagnoseaansluiting
+11	Regelapparaat linkervoorportier
+12	Regelapparaat linkerachterportier
+Zekeringenhouder 
+3
+ (zwart)
+Nr.	Verbruiker
+1	Automatische versnellingsbak
+2	Airconditioning, thermomanagement
+3	Binnenverlichting, parkeerhulp
+4	Vierwielaandrijving
+5	Versnellingsbakoliekoeling
+6	Aircocompressor
+7	Dashboard
+8	Licht-regensensor
+9	Regelapparaat comforttoegang
+10	Regelapparaat aandrijving
+11	Sensoren voor bestuurdershulpsystemen
+12	Gordelspanner bijrijderszijde
+Zekeringenhouder 
+4
+ (wit)
+Nr.	Verbruiker
+1	Garagedeuropener
+2	Startmotorrelais, spanningsomvormer
+3	Interieurvoorverwarming, elektronisch tolheffingsysteem (ETC)
+4	Koplampsproeiers, stoelverwarming
+5	Camera achter de voorruit
+6	Centrale vergrendeling
+7	Claxon, alarmsysteem
+8	Telefoonopbergvak met inductielaadfunctie
+9	Koelluchtventilator
+10	Gordelspanner bestuurderszijde
+11	Buitensoundgenerator
+12	Regelapparaat afstandsregeling

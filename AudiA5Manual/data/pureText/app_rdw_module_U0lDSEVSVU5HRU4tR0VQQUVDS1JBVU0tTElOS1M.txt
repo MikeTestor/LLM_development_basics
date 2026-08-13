@@ -1,0 +1,58 @@
+Zelf problemen verhelpen
+Zekeringen en gloeilampjes
+Zekeringen vervangen
+Zekeringenoverzicht bagageruimte
+Zekeringen vervangen
+Zekeringenoverzicht bagageruimte
+Bagageruimte links: Afdekking
+Bagageruimte links: Zekeringenhouder
+Modelafhankelijk kunnen kabels over de zekeringen lopen. Schuif de kabels voorzichtig opzij om de eronder liggende zekeringen te vervangen.
+Nr.	Verbruiker
+1	Achterruitverwarming
+5	Centraal regelapparaat comfortsysteem
+6	Trekhaaksysteem (verlichting links)
+7	Regelapparaat rechterachterportier
+8	Centraal regelapparaat comfortsysteem
+9	Ontkoppelpunt hoogvoltaccu voor hulpdiensten
+10	Trekhaaksysteem (verlichting rechts)
+11	Regelapparaat rechtervoorportier
+12	Antiblokkeersysteem (ABS), elektronische stabiliseringscontrole (ESC)
+17	Radarsensoren achterste voertuighoeken
+18	Regelapparaat portieren bestuurderszijde
+19	Regelapparaat portieren bijrijderszijde
+20	Sensor voor bestuurdersactiviteit
+21	Regelapparaat afstandsregeling
+22	Dashcam
+23	Dakelektronica
+24	Regelapparaat elektrische installatie
+25	Bedieningseenheid airconditioning achterin
+26	Uitlaatgasreiniging, bedieningseenheid acculading
+27	Alarmsysteem
+28	Koppeling 4-wielaandrijving
+29	Aanhangwagenstopcontact
+30	Regelapparaat voor bestuurdershulpsystemen
+32	Infotainmentsysteem
+33	Centraal regelapparaat comfortsysteem
+34	Centraal regelapparaat comfortsysteem, stopcontacten
+35	Sperdifferentieel
+37	Soundsysteem
+39	Binnenverlichting, ambianceverlichting
+40	Keuzehendel
+41	Regelapparaat bagageruimteklep
+42	Regelapparaat voor toegang en startbevoegdheid
+43	Regelapparaat omgevingscamera
+44	Bandenspanningscontrolesysteem
+45	MMI-bedieningselement
+46	Vermogens- en regelelektronica elektrische aandrijving
+47	Regelapparaat laadklep en laadstopcontact
+51	Motorcomponenten
+52	USB-aansluitingen
+55	Hoogvoltaccu
+57	Aandrijflijndynamo
+58	Regelapparaat portieren
+59	Regelapparaat voor datacommunicatie en telematica
+60	Schakelaarlijst middenconsole
+62	Accu 48 V, elektrische aandrijving
+63	Ontgrendeling trekhaaksysteem
+65	Stoelverwarming achterin
+66	Soundsysteem

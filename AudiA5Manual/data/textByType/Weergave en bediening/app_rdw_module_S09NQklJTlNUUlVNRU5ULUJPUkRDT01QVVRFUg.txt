@@ -1,0 +1,23 @@
+Weergave en bediening
+Instrumentenpaneel
+Beschrijving van de weergaven
+Informatie over de boordcomputer
+Beschrijving van de weergaven
+Informatie over de boordcomputer
+Andere weergave in de boordcomputer kiezen
+Draai het linkermenuwieltje op het multifunctiestuurwiel, totdat de gewenste weergave wordt getoond.
+Weergaven in de boordcomputer
+Voorbeeldweergaven:
+Rit- en reisgeheugen
+Verbruik
+Trajecten
+Waarden op nul zetten
+Om de waarde van een geheugen op nul te zetten, drukt u een seconde op het linkermenuwieltje op het multifunctiestuurwiel.
+Informatie over trajecten
+De dagteller geeft de afstand aan die gereden is nadat de dagteller voor de laatste keer is teruggezet. Deze waarde kan handmatig worden teruggezet.
+De kilometerteller geeft de afstand aan die de auto in totaal heeft afgelegd.
+Informatie over het verbruik
+Het actuele verbruik kan in een staafdiagram worden weergegeven. Bovendien wordt het gemiddelde verbruik uit het ritgeheugen weergegeven.
+Informatie over het ritgeheugen en reisgeheugen
+Het ritgeheugen verzamelt de ritinformatie vanaf het inschakelen tot aan het uitschakelen van de auto. Als de rit binnen 2 uur nadat de auto is uitgeschakeld, wordt voortgezet, worden de waarden die er nieuw zijn bijgekomen bij de actuele ritinformatie meegerekend.
+Het reisgeheugen wordt in tegenstelling tot het ritgeheugen niet automatisch teruggezet. Hierdoor kunt u de periode voor de analyse van uw ritinformatie zelf bepalen.

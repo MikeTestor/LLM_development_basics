@@ -1,0 +1,58 @@
+Starten en rijden
+Openen en sluiten
+Bagageruimteklep
+Bagageruimteklep met voetbeweging (schopbeweging) openen en sluiten
+Bagageruimteklep
+Bagageruimteklep met voetbeweging (schopbeweging) openen en sluiten
+Achterzijde van de auto: Voetbeweging (voorbeeld)
+Voorwaarde: uw auto heeft een sensorgestuurde bagageruimteklep.
+De bagageruimteklep kan elektrisch worden geopend en gesloten zie.
+Voorwaarde: de auto is uitgeschakeld. U draagt uw comfortsleutel resp. digitale sleutel bij u, de functie voetbeweging en de functie comfortsleutel zijn in de MMI geactiveerd. U staat links 
+1
+ van het midden van de auto achter de bagageruimteklep.
+Als u links de achterzijde van de auto nadert, ziet u afhankelijk van het model als het donker is een lichtpunt op de grond dat het schopgebied voor de voetbeweging aanduidt.
+Functie activeren/deactiveren
+U kunt de met voetbeweging aangestuurde bagageruimteklep in het menu Centrale vergrendeling Centrale vergrendeling instellen resp. Wagen in- en uitschakelen Menu 'Wagen' openen.
+Bagageruimteklep openen en sluiten
+Bij het openen knipperen de knipperlichten.
+Bij het sluiten volgt er een akoestische terugmelding. Als de auto vóór het openen vergrendeld was, wordt deze na het sluiten automatisch weer vergrendeld.
+Om de bagageruimteklep te openen of te sluiten, beweegt u uw voet in een vloeiende beweging heel dicht onder de bumper 
+1
+ één keer naar voren en naar achteren (voetbeweging) zie. Raak de achterbumper daarbij niet. Zorg ervoor dat u stevig staat. Als het systeem de beweging heeft herkend, gaat de bagageruimteklep open of dicht.
+Bij volledig geopende bagageruimteklep sluit de klep met vertraging zodra u zich van de auto verwijdert en er zich geen sleutel in de buurt van de bagageruimteklep bevindt. Tot de klep begint te sluiten klinkt er een waarschuwingsgeluid. Als u tijdens de automatische beweging terugloopt naar de auto, is het mogelijk dat de bagageruimteklep weer opengaat.
+Als u voor het sluiten van de bagageruimteklep de voetbeweging heeft gebruikt, maar langer in de directe omgeving van de bagageruimteklep blijft staan, wordt het automatische, tijdvertraagde sluiten afgebroken. Dit gaat gepaard met een akoestisch signaal.
+Automatische beweging stoppen
+De automatische beweging van de bagageruimteklep wordt gestopt als
+u de beschreven voetbeweging opnieuw uitvoert.
+u de knop 
+3
+ zie resp. de greep 
+1
+ zie in de bagageruimteklep opnieuw bedient, of
+u de knop  op de comfortsleutel indrukt, of
+zwaar bewegen of een obstakel de handeling blokkeert.
+Als u nu de knop 
+3
+ zie resp. de greep in de bagageruimteklep 
+1
+ zie opnieuw bedient, wordt de bagageruimteklep weer geopend of gesloten.
+Aanwijzingen voor een correcte bediening met voetbeweging
+De bagageruimteklep gaat alleen open of dicht als de beweging zoals beschreven wordt uitgevoerd. Zo wordt voorkomen dat de bagageruimteklep bij gelijksoortige bewegingen open of dicht gaat, bijvoorbeeld als u tussen de achterzijde van de auto en de garagedeur loopt. In sommige situaties is de werking van het systeem beperkt of tijdelijk niet beschikbaar. Dit is bijvoorbeeld het geval, indien:
+u te dicht bij of te ver van de bumper staat.
+de bagageruimteklep vlak daarvoor werd gesloten of geopend.
+u dicht bij een heg parkeert en de takken daarvan gedurende langere tijd onder de auto bewegen.
+u uw auto met bijvoorbeeld een hogedrukreiniger of in een wasstraat schoonmaakt.
+het hard regent.
+de bumper erg smerig is, bv. na ritten op met zout gestrooide wegen.
+het radiografische signaal van de comfortsleutel resp. digitale sleutel door andere zenders, bv. mobiele telefoons of afstandsbedieningen, wordt gestoord.
+de comfortsleutel resp. digitale sleutel zich bij geopende bagageruimteklep in de bagageruimte resp. passagiersruimte bevindt. In dit geval kan de bagageruimteklep niet met een voetbeweging worden gesloten.
+Aanwijzingen voor bedieningsfouten
+In de volgende gevallen zou de bagageruimteklep onbedoeld kunnen openen als u een comfortsleutel resp. digitale sleutel bij u draagt, bv.:
+Als de laadkabel voor het laden onder de achterbumper door wordt geleid.
+Bij het vegen onder de achterbumper.
+Door een krachtige water- of stoomstraal.
+Bij onderhouds- en reparatiewerkzaamheden in de buurt van de achterbumper.
+Door bewegende poorten in de buurt van de bumper.
+ATTENTIE
+VOORZICHTIG
+VOORZICHTIG

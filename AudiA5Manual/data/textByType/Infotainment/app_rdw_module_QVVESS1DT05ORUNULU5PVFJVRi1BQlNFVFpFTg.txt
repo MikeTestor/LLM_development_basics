@@ -1,0 +1,28 @@
+Infotainment
+Noodoproep
+Noodoproepsystemen
+Noodoproep versturen
+Noodoproepsystemen
+Noodoproep versturen
+Hemelbekleding voorin: Afdekking voor de noodoproepknop
+Handmatige noodoproep
+Voorwaarde: de auto is ingeschakeld.
+Tip de afdekking 
+1
+ aan om deze te openen.
+Druk op de noodoproeptoets tot de led 
+2
+ knippert. De noodoproep wordt verstuurd.
+Mocht u de noodoproepknop per ongeluk hebben ingedrukt, drukt u deze dan direct opnieuw in totdat de led permanent brandt. De noodoproep wordt geannuleerd.
+Automatische noodoproep
+De voertuigelektronica start onder bepaalde voorwaarden de automatische noodoproep, als bijvoorbeeld een airbag is geactiveerd. De led 
+2
+ knippert. De noodoproep wordt verstuurd. De noodoproep kan niet worden geannuleerd.
+Als vanwege een slechte verbinding de noodoproep wordt afgebroken, maakt het systeem automatisch opnieuw verbinding.
+Ledgedrag
+Groen – de noodoproepfunctie is in de auto beschikbaar.
+Rood – er is sprake van een storing in de noodoproepfunctie. Raadpleeg een (Audi-)specialist. Let voor de beschikbaarheid van de noodoproepfunctie op de aanwijzingen voor de bestuurder Aanwijzingen voor de bestuurder met betrekking tot de noodoproepsystemen.
+Uit – de noodoproepfunctie is niet beschikbaar, omdat er bijvoorbeeld geen netwerk beschikbaar is.
+Waarschuwingen
+Bij een kritieke storing in de noodoproepsystemen ontvangen de personen in de auto de volgende waarschuwing: zie en Aanwijzingen voor de bestuurder met betrekking tot de noodoproepsystemen.
+Geldt voor EU-eCall: Bij een kritieke systeemstoring, waardoor het op de 112-noodoproep gebaseerde eigen eCall-systeem buiten werking zou worden gesteld, ontvangen de personen in de auto de volgende waarschuwing: zie en Aanwijzingen voor de bestuurder met betrekking tot de noodoproepsystemen.

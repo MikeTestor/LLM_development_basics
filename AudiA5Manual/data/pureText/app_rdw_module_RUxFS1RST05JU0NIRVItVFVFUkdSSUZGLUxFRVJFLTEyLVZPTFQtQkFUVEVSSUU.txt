@@ -1,0 +1,29 @@
+Starten en rijden
+Openen en sluiten
+Portieren noodontgrendelen en -vergrendelen
+Bestuurdersportier noodontgrendelen bij een lege 12 volt accu
+Portieren noodontgrendelen en -vergrendelen
+Bestuurdersportier noodontgrendelen bij een lege 12 volt accu
+Voorbumper: Afdekkap met vastgeklikte 12 volt aansluitingen
+Stroombron aansluiten
+Als de 12 volt stroomvoorziening uitvalt, moeten de portieren apart worden ontgrendeld.
+Centrale vergrendeling van noodstroom voorzien
+Om de auto te kunnen noodontgrendelen moet de auto via contacten in de bumper van noodstroom worden voorzien.
+Druk de afdekkap met een stevige, korte zet naar binnen zie. De afdekkap komt los uit de bumper.
+Maak de beide contactpennen los uit de afdekkap.
+Maak de pluspool 
++
+ van de 12 volt stroombron vast aan de pluspool 
++
+ van de contactpen (rode kabel) van uw auto.
+Maak de minpool 
++
+ van de 12 volt stroombron vast aan de minpool 
++
+ van de contactpen (bruine kabel) van uw auto.
+Open zoals gebruikelijk het portier van de auto.
+Maak de klemmen van de stroombron weer los.
+Steek de contactpennen weer in de afdekkap.
+Plaats de afdekkap weer terug in de bumper.
+Open de motorkap en laad de 12 volt accu.
+ATTENTIE

@@ -1,0 +1,23 @@
+Hulpsystemen
+Verdere hulpsystemen
+Gevareninformatie
+Weergavenoverzicht van de gevareninformatie
+Gevareninformatie
+Weergavenoverzicht van de gevareninformatie
+Waarschuwingssymbolen van de gevareninformatie
+De waarschuwingssymbolen van de gevareninformatie wijzen u op verschillende gevaren in de buurt van de auto.
+	Betekenis
+
+1
+	Ongeval: de gevareninformatie waarschuwt u voor een bij een ongeval betrokken voertuig.
+
+2
+	Pech: de gevareninformatie waarschuwt u voor een voertuig met pech.
+
+3
+	Slipgevaar: de gevareninformatie waarschuwt u voor bijvoorbeeld glibberige of gladde wegcondities.
+
+4
+	Zichtbeperking: de gevareninformatie waarschuwt u voor slecht zicht, bv. door mist of zware regen.
+Afhankelijk van uw snelheid, het soort weg en het gevaarlijke punt wordt mogelijk alleen de belangrijkste gevareninformatie weergegeven.
+Als de routegeleiding actief is, worden gevaarlijk punten die op uw route liggen als gekleurde waarschuwingssymbolen op de kaart weergegeven. Gevaarlijke punten die niet op uw route liggen, worden als grijze waarschuwingssymbolen weergegeven. Als de routegeleiding niet actief is, worden alle gevaarlijk punten gekleurd op de kaart weergegeven.

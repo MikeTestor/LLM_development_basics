@@ -1,0 +1,12 @@
+Klantinformatie
+Gegevensbescherming
+Privacyinstellingen
+Privacybeschermingsinstellingen in de auto beheren en controleren
+Privacyinstellingen
+Privacybeschermingsinstellingen in de auto beheren en controleren
+Voorwaarde: de auto is ingeschakeld.
+Om centrale privacybeschermingsinstellingen aan te passen, kiest u:  > Instellingen > Gegevensbescherming > Voertuigrelevante onlinediensten.
+Om voertuigrelevante onlinediensten individueel in te stellen, kiest u:  > Instellingen > Gegevensbescherming > Voertuigrelevante onlinediensten > Dienstenoverzicht.
+Om infotainmentdiensten individueel in te stellen, kiest u:  > Instellingen > Gegevensbescherming > Voertuigrelevante onlinediensten > Dienstenoverzicht > Geïnstalleerde infotainmentdiensten. Druk op de betreffende knop om alle apps weer te geven.
+Om gedetailleerde informatie in de menu’s te openen, drukt u in de MMI op  of op .
+Privacybeschermingsinstellingen worden afhankelijk van de aangemelde gebruiker geladen. De verantwoordelijkheid voor de privacybeschermingsinstellingen ligt te allen tijde bij de bestuurder.

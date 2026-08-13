@@ -1,0 +1,20 @@
+Starten en rijden
+Rijdynamiek
+Audi drive select
+Audi drive select-modus kiezen
+Audi drive select
+Audi drive select-modus kiezen
+De knop  zit in de middenconsole boven de keuzehendel.
+Druk de knop  zo vaak in dat de gewenste modus in het instrumentenpaneel of in de MMI verschijnt, of
+Druk op de knop  en druk op de gewenste modus in de MMI.
+Kies:  > Wagen > Audi drive select.
+Om een + modus te activeren, kiest u zo nodig eerst de overeenkomstige basismodus en vervolgens de + modus in de MMI.
+U kunt een bepaalde Audi drive select modus als favoriet vastleggen. Als u de programmeerbare stuurwieltoets hebt geconfigureerd, drukt u op de toets  op het multifunctiestuurwiel. U kunt wisselen tussen de laatst gekozen Audi drive select modus en de favoriet.
+U kunt de modus bij stilstaande auto of tijdens het rijden veranderen. Als het verkeer dit toelaat, laat u na het wisselen kort het gaspedaal los, zodat de nieuw gekozen modus ook voor de aandrijving wordt geactiveerd.
+Afhankelijk van de uitrusting zijn de volgende modi beschikbaar:
+balanced – biedt een evenwichtige rijervaring van comfort en sportiviteit voor het dagelijkse gebruik.
+individual – maakt het mogelijk geselecteerde voertuigsystemen naar uw wensen in te stellen. Druk op  om de modus individual te configureren met uw favoriete voertuigafstelling Informatie over individuele instellingen. Bij het uitschakelen van de auto wordt de modus weer verlaten.
+dynamic – geeft een sportief rijgevoel. Schakelprogramma S wordt gekozen. Bij het uitschakelen van de auto wordt de modus weer verlaten.
+dynamic+ – past de voertuiginstellingen aan voor een zeer sportieve rijstijl buiten de openbare weg. De ESC wordt beperkt om een oversturend rijgedrag van de auto mogelijk te maken. Rijprogramma D is in deze modus niet beschikbaar. Bij het uitschakelen van de auto wordt de modus weer verlaten.
+comfort - leidt tot een comfortgeoriënteerde voertuigafstelling en is zeer geschikt voor bijvoorbeeld lange snelwegritten. Bij het uitschakelen van de auto wordt de modus weer verlaten.
+efficiency – past de voertuiginstellingen aan voor een zuinige rijstijl. Schakelprogramma E wordt gekozen. Bij het uitschakelen van de auto wordt de modus weer verlaten.

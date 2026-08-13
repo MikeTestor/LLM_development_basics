@@ -1,0 +1,11 @@
+Hulpsystemen
+Gecombineerde hulpsystemen
+Dynamische rijassistent
+Koppeling van de rijstrookgeleiding aan de dynamische rijassistent
+Dynamische rijassistent
+Koppeling van de rijstrookgeleiding aan de dynamische rijassistent
+U kunt de activering van de rijstrookgeleiding in het menu Hulpsystemen  koppelen aan de activering en deactivering van de afstands-/snelheidsregeling .
+Koppeling ingeschakeld: de rijstrookgeleiding wordt samen met de afstands-/snelheidsregeling in- en uitgeschakeld.
+Koppeling uitgeschakeld: de rijstrookgeleiding kan onafhankelijk van de afstands-/snelheidsregeling worden in- en uitgeschakeld.
+Laat uw handen altijd op het stuurwiel, zodat u steeds klaar bent om te sturen. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+ATTENTIE

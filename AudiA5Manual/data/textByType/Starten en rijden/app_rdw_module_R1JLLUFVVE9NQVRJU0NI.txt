@@ -1,0 +1,81 @@
+Starten en rijden
+Openen en sluiten
+Bagageruimteklep
+Bagageruimteklep openen/sluiten
+Bagageruimteklep
+Bagageruimteklep openen/sluiten
+Greep in de bagageruimteklep 
+1
+, knop in het bestuurdersportier 
+2
+Bagageruimteklep: 
+3
+ sluitknop, 
+4
+ vergrendelingsknop
+De bagageruimteklep kan elektrisch worden geopend en gesloten zie.
+Bagageruimteklep openen
+U kunt de bagageruimteklep op verschillende manieren openen:
+Druk op de greep in de bagageruimteklep 
+1
+ zie. Bij een vergrendelde bagageruimte mag de autosleutel resp. digitale sleutel niet verder dan circa 1,5 m van de bagageruimte verwijderd zijn, of
+Druk bij uitgeschakelde auto tweemaal op de knop  op de autosleutel zie, of
+Trek de knop  
+2
+ in het bestuurdersportier kort omhoog zie, of
+Ontgrendel de auto resp. de bagageruimteklep met de knop  /  op de autosleutel en druk de greep in de bagageruimteklep in 
+1
+.
+Het openen van de bagageruimteklep via de handgreep zie kunt u in de MMI deactiveren/activeren Centrale vergrendeling instellen.
+Bagageruimteklep sluiten
+U kunt de bagageruimteklep op verschillende manieren sluiten:
+Druk op de knop  
+3
+ zie in de bagageruimteklep, of
+Druk bij uitgeschakelde auto op de knop  
+3
+ /  
+4
+ in de bagageruimteklep. De autosleutel resp. digitale sleutel mag zich niet in de auto bevinden. Bij het drukken op knop  
+4
+ wordt de auto na het sluiten van de bagageruimteklep vergrendeld. Als u op de knop  
+4
+ drukt en de autosleutel zich in de bagageruimte of buiten de reikwijdte (verder dan ca. 1,5 m) bevindt, klinkt er een waarschuwingsgeluid en kan de bagageruimteklep niet worden gesloten, of
+Trek bij ingeschakelde auto de knop  
+2
+ in het bestuurdersportier zie omhoog tot de bagageruimteklep gesloten is, of
+Als knop  
+4
+ in de bagageruimteklep aanwezig is, druk dan bij uitgeschakelde auto zo lang op de knop  op de autosleutel tot de bagageruimteklep is gesloten. Het sluiten gebeurt met vertraging. Ga daarbij op voldoende afstand (maximaal 3 m) achter de bagageruimteklep staan.
+Automatische beweging stoppen
+De automatische beweging van de bagageruimteklep wordt gestopt als
+u de knop 
+3
+ resp. de greep 
+1
+ in de bagageruimteklep zie opnieuw bedient, of
+u de knop  op de comfortsleutel eenmaal indrukt. De comfortsleutel is niet voor elke auto beschikbaar, of
+zwaar bewegen of een obstakel de handeling blokkeert.
+Als u nu de knop 
+3
+ resp. de greep in de bagageruimteklep 
+1
+ opnieuw bedient, wordt de bagageruimteklep weer geopend/gesloten.
+Openingsstand van de bagageruimteklep opslaan
+De stand kan pas vanaf een bepaalde hoogte worden opgeslagen.
+Breng de bagageruimteklep in de gewenste openingsstand. Als u de bagageruimteklep naar beneden brengt, beweeg deze daarbij dan langzaam in kleine stappen, anders zou de bagageruimteklep automatisch worden gesloten.
+Druk minimaal 5 seconden op de knop 
+3
+ in de bagageruimteklep om de gewenste openingsstand op te slaan. Er volgt een optisch en akoestisch signaal.
+Om een hogere openingsstand vast te leggen, wacht u 5 seconden en drukt u de bagageruimteklep voorzichtig omhoog.
+Druk opnieuw minimaal 5 seconden op de knop 
+3
+ om de gewenste openingsstand op te slaan.
+Zodra de opgeslagen openingsstand is bereikt, kunt u de bagageruimteklep volledig openen door binnen 3 seconden tweemaal op de knop  te drukken.
+Bagageruimteklep noodopenen en -sluiten
+Als de elektrische aandrijving uitvalt resp. bij een zwakke accu, kan de bagageruimteklep met de hand worden geopend en gesloten. Daarvoor is wel meer kracht dan gewoonlijk nodig. Beweeg de klep langzaam, zo is minder krachtinspanning nodig.
+Trek de bagageruimteklep aan de greep iets omlaag en druk vervolgens op de klep tot deze goed gesloten is.
+Aanwijzingen voor de bagageruimteklep
+Bij vergrendelde auto kan de bagageruimteklep apart worden ontgrendeld door tweemaal op de knop  op de autosleutel te drukken. Als u de bagageruimteklep weer sluit, wordt deze automatisch vergrendeld.
+Als de comfortsleutel resp. digitale sleutel bij geopende bagageruimteklep in de bagageruimte resp. passagiersruimte ligt, is de knop  in de bagageruimteklep buiten werking. De knop  is niet bij alle auto's beschikbaar.
+ATTENTIE

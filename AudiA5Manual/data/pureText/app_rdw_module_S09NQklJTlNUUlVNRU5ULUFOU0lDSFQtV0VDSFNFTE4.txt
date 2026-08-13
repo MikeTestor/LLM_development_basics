@@ -1,0 +1,11 @@
+Weergave en bediening
+Instrumentenpaneel
+Overzicht en bediening
+Weergave van het instrumentenpaneel wisselen
+Overzicht en bediening
+Weergave van het instrumentenpaneel wisselen
+Het instrumentenpaneel beschikt over verschillende aanzichten. Elk aanzicht legt de focus op een bepaalde weergave, bv. de weergave van de kaart of het bestuurdershulpsysteem. Daarnaast kan in elk aanzicht tussen de Audi drive select-specifieke weergaven worden gewisseld.
+U heeft de volgende mogelijkheden om de weergave van het instrumentenpaneel te wijzigen:
+Om een andere aanzicht te kiezen, drukt u op de toets VIEW.
+Om een andere Audi drive select-specifieke weergave te kiezen, wijzigt u de drive select-modus.
+In de Audi drive select-modus balanced of individual kunt u de Audi drive select-specifieke weergave zelf vastleggen.

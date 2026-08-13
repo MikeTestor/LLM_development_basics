@@ -1,0 +1,18 @@
+Starten en rijden
+Opbergen en nuttige zaken
+Informatie over stroombronnen
+Opbergen en nuttige zaken
+Informatie over stroombronnen
+Bij ingeschakelde auto staan u afhankelijk van de voertuiguitrusting meerdere stroombronnen voor externe apparaten ter beschikking.
+Om te voorkomen dat de accu ontlaadt, schakelt het energiebeheer de stroombronnen zo nodig uit.
+12 volt stopcontacten
+De 12 volt stopcontacten zitten in de middenconsole voorin en in de zijbekleding in de bagageruimte. Deze zijn met het symbool  of 12V gemarkeerd.
+Op de 12 volt stopcontacten kunt u elektrische apparaten gebruiken. De vermogensopname van de stopcontacten mag in totaal niet boven 120 W komen. Sluit niet meerdere apparaten tegelijkertijd aan op de stopcontacten van de auto.
+Sluit tijdens het gebruik van de af fabriek meegeleverde compressor geen verdere apparaten op de stopcontacten aan. Bij het gebruik van de compressor mag de vermogensopname van de stopcontacten kortstondig worden overschreden.
+USB-aansluitingen
+De USB-aansluitingen zitten in de middenconsole voorin en achterin.
+Afhankelijk van de auto kunnen USB-aansluitingen met een van de volgende symbolen gemarkeerd zijn:  of .
+Op de USB-aansluitingen kunt u mobiele apparaten laden. Om een optimaal laadvermogen te bereiken, gebruikt u een gecertificeerde USB-C-kabel of een gecertificeerde adapter.
+Als uw auto met USB-aansluitingen met verhoogd laadvermogen is uitgerust, gebruik dan een gecertificeerde USB-C-kabel met laadvermogen van 60 watt resp. 100 watt en E-marker-chip.
+ATTENTIE
+VOORZICHTIG

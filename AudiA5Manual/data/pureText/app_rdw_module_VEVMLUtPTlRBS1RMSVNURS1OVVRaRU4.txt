@@ -1,0 +1,10 @@
+Infotainment
+Telefoon
+Telefoonfuncties gebruiken
+Contactenlijst gebruiken
+Telefoonfuncties gebruiken
+Contactenlijst gebruiken
+Voorwaarde: er is een mobiele telefoon met de MMI verbonden.
+In de contactenlijst worden alle op de mobiele telefoon opgeslagen contacten weergegeven. Bij te veel vermeldingen kunnen contacten in de MMI ontbreken. De contacten kunnen alleen op de mobiele telefoon worden bewerkt.
+In het instellingenmenu Telefoon kunt u de sorteervolgorde instellen en handmatig contacten downloaden Instellingenmenu 'Telefoon' openen. Afhankelijk van de gebruikte mobiele telefoon moet voor het downloaden van de contacten de Bluetooth-verbinding worden verbroken en opnieuw tot stand worden gebracht. Let op eventuele andere meldingen op uw mobiele telefoon.
+Na het uitschakelen en verlaten van de auto worden bij het opnieuw starten van de MMI de contacten van de mobiele telefoon bijgewerkt als de mobiele telefoon bereik heeft en de Bluetooth-functie van de mobiele telefoon en de MMI ingeschakeld is.

@@ -1,0 +1,72 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Snelheidsregelsystemen
+Snelheidsregelsystemen bedienen
+Snelheidsregelsystemen
+Snelheidsregelsystemen bedienen
+Bedieningshendel: Systeem inschakelen
+Bedieningshendel: Afstandsregeling deactiveren
+Systeem in- en uitschakelen
+Om het systeem in te schakelen, trekt u de bedieningshendel naar u toe in stand 
+2
+ tot deze vastklikt.
+Om het systeem uit te schakelen, drukt u de bedieningshendel in stand 
+3
+ tot deze vastklikt. Het controlelampje gaat uit en de ingestelde snelheid wordt gewist.
+Regelsysteem kiezen
+Om tussen de dynamische snelheidsassistent en de snelheidsbegrenzer te wisselen, drukt u op de toets LIM 
+4
+.
+Snelheid opslaan en regeling activeren
+Als u het systeem heeft ingeschakeld, kunt u de actuele snelheid als regelsnelheid instellen en de regeling activeren.
+Druk op de bedieningshendel op de toets SET 
+1
+.
+Snelheid wijzigen
+Voorwaarde: het systeem is ingeschakeld.
+Om de ingestelde snelheid in kleine stappen te verhogen of te verlagen, drukt u de bedieningshendel tot aan de eerste drukstand in stand 
++
+ of 
+-
+ zie.
+Om de ingestelde snelheid in grotere stappen te verhogen of te verlagen, drukt u de bedieningshendel tot aan de tweede drukstand in stand 
++
+ of 
+-
+.
+Om de ingestelde snelheid continu te verhogen of te verlagen, drukt u de bedieningshendel tot aan de eerste of tweede drukstand in stand 
++
+ of 
+-
+ en houdt u de hendel vast.
+Snelheid vooraf selecteren
+U kunt de snelheid ook vooraf selecteren als de snelheidsregelsystemen niet geactiveerd zijn.
+Druk de bedieningshendel richting 
++
+ of 
+-
+ zie.
+Om de vooraf geselecteerde snelheid te activeren, trekt u de hendel naar u toe in stand 
+2
+.
+Regeling tijdelijk overrulen
+Voorwaarde: het systeem is ingeschakeld en de regelsnelheid is geactiveerd.
+Om de regeling tijdelijk te overrulen, trapt u het gaspedaal over de weerstand heen in (kickdown).
+Om de regeling weer te activeren, trekt u de bedieningshendel naar u toe in stand 
+2
+.
+Zodra de regelsnelheid wordt onderschreden, wordt de opgeslagen regelsnelheid resp. de actueel herkende snelheidsbeperking automatisch weer geactiveerd.
+Herkende snelheidsbeperkingen overnemen
+Voorwaarde: de snelheidsbegrenzer is ingeschakeld. De automatische overname maximumsnelheid is in het menu gedeactiveerd.
+Als er een snelheidsbeperking wordt herkend, wordt deze in de weergave naast het symbool  getoond.
+Om een herkende snelheidsbeperking over te nemen, trekt u de hendel naar u toe in stand 
+2
+.
+De herkende snelheidsbeperking en het symbool  worden na korte tijd verborgen. De herkende snelheidsbeperking kan dan niet meer worden overgenomen.
+Regeling kort onderbreken
+Voorwaarde: het systeem is ingeschakeld en de regelsnelheid is geactiveerd.
+Druk de bedieningshendel in stand 
+3
+ (niet vastgeklikt).
+Als u het systeem korte tijd deactiveert, blijft uw regelsnelheid opgeslagen.
+ATTENTIE

@@ -1,0 +1,8 @@
+Weergave en bediening
+Instrumentenpaneel
+Beschrijving van de weergaven
+Informatie over de motorolietemperatuurweergave
+Beschrijving van de weergaven
+Informatie over de motorolietemperatuurweergave
+Afhankelijk van de auto wordt de weergave voor motorolietemperatuur  alleen in bepaalde Audi drive select modi getoond, bv. in de Audi drive select-modus dynamic. De weergave bevindt zich in de statusregel.
+De motor heeft de bedrijfstemperatuur bereikt als bij een normale rijstijl de motorolietemperatuur tussen 80°C en 120°C ligt. Bij sterke motorbelasting en hoge buitentemperaturen kan de motorolietemperatuur hoog oplopen. Dit kan geen kwaad zolang de controlelampjes  of  niet branden.

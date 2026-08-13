@@ -1,0 +1,10 @@
+Hulpsystemen
+Waarschuwingssystemen
+Afleidingswaarschuwing
+Overzicht van de weergaven van de afleidingswaarschuwing
+Afleidingswaarschuwing
+Overzicht van de weergaven van de afleidingswaarschuwing
+De volgende weergaven verschijnen in het instrumentenpaneel:
+Weergave	Beschrijving
+	Het systeem heeft een geringe afleiding herkend.
+	Het systeem heeft een sterke afleiding herkend. Bovendien klinkt er een akoestisch signaal.

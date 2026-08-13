@@ -1,0 +1,25 @@
+Hulpsystemen
+Verdere hulpsystemen
+Stoplichtinformatie
+Systeemgrenzen van de stoplichtinformatie
+Stoplichtinformatie
+Systeemgrenzen van de stoplichtinformatie
+Voor de stoplichtinformatie gelden systeemgrenzen en deze is in de volgende gevallen niet of slechts beperkt beschikbaar:
+De toegestane maximumsnelheid werd overschreden.
+Er werd een bepaalde snelheid onderschreden.
+Het volgende stoplicht is minder dan ca. 30 m verwijderd.
+De wachttijd bij een stoplicht bedraagt minder dan 4 seconden.
+Er zijn geen stoplichtgegevens beschikbaar.
+Het kaartmateriaal van het navigatiesysteem is verouderd of de navigatiegegevens zijn niet up-to-date.
+Voertuigen van hulpdiensten of plaatselijk openbaar vervoer krijgen een voorkeursbehandeling.
+De stoplichten bevinden zich in de servicestand.
+De dataverbinding werd onderbroken.
+De privacybeschermingsinstellingen in uw auto zijn niet compatibel.
+De licentie voor de stoplichtinformatie is verlopen.
+Aanwijzingen voor de stoplichtinformatie
+De stoplichtinformatie is niet in het hele land beschikbaar, maar alleen in een paar geselecteerde steden.
+Bepaalde stoplichten kunnen zich op de actuele verkeerssituatie instellen. In deze gevallen kan de weergave van de stoplichtinformatie ineens wijzigen.
+Verouderd kaartmateriaal van het navigatiesysteem kan een ontbrekende, onaannemelijke of verkeerde weergave op het display tot gevolg hebben.
+Aangebrachte verkeerstekens hebben altijd voorrang op de weergave op het scherm. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+Onafhankelijk van de stoplichtinformatie moet u met behulp van de snelheidsmeter erop letten dat u zich aan de wettelijk voorgeschreven maximumsnelheid houdt.
+Maateenheden en taalinstellingen worden zo weergegeven, zoals deze via de systeeminstellingen van de MMI werden vastgelegd.

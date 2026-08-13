@@ -1,0 +1,44 @@
+Starten en rijden
+Hoogvoltsysteem
+Laadequipment
+Veiligheidsaanwijzingen voor het laadequipment
+Laadequipment
+Veiligheidsaanwijzingen voor het laadequipment
+Toepassing Audi-laadsystemen
+Lader voor de laadfunctie modus 2 voor het laden van Audi's met hoogvoltaccu die aan de algemeen geldende normen en richtlijnen voor elektrische auto's voldoen.
+Aanwijzingen voor de omgang met het laadequipment
+Neem voor een veilige omgang met het laadequipment de volgende aanwijzingen in acht:
+Koppel de laadsystemen indien mogelijk tijdens een onweer los van de laadinfrastructuur.
+Bescherm het laadequipment tegen belastingen door overrijden, vallen, trekken, knikken en beknellen.
+Stel de laadsystemen niet permanent aan directe zonnestraling bloot om oververhitting tijdens het gebruik te voorkomen. Bij oververhitting van de bedieningseenheid wordt de laadsessie automatisch onderbroken totdat de temperatuur weer tot normale waarden is gedaald.
+Dompel het laadequipment niet onder in water en bescherm het tegen sneeuw en ijs.
+Als u de laadkabel van de auto en de stroomvoorziening losmaakt, trek dan alleen aan de stekkers en niet aan de kabel.
+Steek na gebruik van de laadkabel de beschermkappen erop.
+Gebruik het Audi-laadsysteem alleen in een stroomnet met een netfrequentie van 50 Hz/60 Hz.
+Gebruik het Audi-laadsysteem alleen resp. berg het alleen op bij een luchtvochtigheid tussen 5% en 95% (niet-condenserend).
+Het Audi-laadsysteem is beveiligd tegen stof en waterstralen (IP55).
+Voor een laadfunctie zonder onderbrekingen adviseert Audi alleen via stopcontacten te laden die op een apart gezekerd stroomcircuit zijn aangesloten.
+Audi adviseert om laadsystemen tijdens het gebruik in de wandhouderclip te plaatsen.
+Landafhankelijk kunnen verschillende waarschuwingen op het laadequipment zijn aangebracht:
+Symbool	Betekenis
+	Het Audi-laadsysteem in een temperatuurbereik van -30°C tot +50°C gebruiken resp. opbergen.
+	Het Audi-laadsysteem op een hoogte van maximaal 4000 m boven NAP gebruiken resp. opbergen.
+	Het Audi-laadsysteem op een hoogte van maximaal 5000 m boven NAP gebruiken resp. opbergen.
+	Het Audi-laadsysteem is met een niet-geschakelde randaarde uitgerust.
+	Het Audi-laadsysteem is met een geschakelde randaarde uitgerust.
+	Het Audi-laadsysteem niet in ongeaarde stroomnetwerken (bv. IT-netwerken) gebruiken. Het Audi-laadsysteem uitsluitend in geaarde stroomnetwerken gebruiken.
+	Oppervlakken kunnen bij directe zonnestraling zeer heet worden.
+
+
+	Gevaar voor een elektrische schok door ondeskundig gebruik.
+
+
+	Betreffende instructieboekje in acht nemen, in het bijzonder de veiligheidsaanwijzingen.
+
+	Bij de afvalverwerking alle geldende voorschriften voor afvalverwerking in acht nemen.
+	Geen verlengkabels en kabelhaspels gebruiken.
+	Geen stopcontact-adapter gebruiken, bv. reisadapters of tijdschakelklokken.
+	Geen meervoudige contactdozen gebruiken.
+	Geen laadkabels met schade aan de elektronica of de aansluitkabels gebruiken.
+ATTENTIE
+Milieu-aanwijzing

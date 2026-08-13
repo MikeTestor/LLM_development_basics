@@ -1,0 +1,9 @@
+Hulpsystemen
+Verdere hulpsystemen
+Proactieve inzittendenbescherming
+Inleiding
+Proactieve inzittendenbescherming
+Inleiding
+De proactieve inzittendenbescherming kan binnen de grenzen van het systeem gevaarlijke rijsituaties herkennen en maatregelen activeren om de inzittenden te beschermen.
+Als het systeem maatregelen voor de bescherming van de inzittenden activeert, verschijnt in het instrumentenpaneel en eventueel op het head-updisplay de weergave .
+ATTENTIE

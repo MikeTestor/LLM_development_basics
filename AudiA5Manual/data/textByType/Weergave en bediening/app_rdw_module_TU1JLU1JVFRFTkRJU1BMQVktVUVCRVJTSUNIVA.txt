@@ -1,0 +1,29 @@
+Weergave en bediening
+Touchscreens
+Weergavenoverzicht van de Multi Media Interface
+Gebruikersinterface van het centrale beeldscherm
+Weergavenoverzicht van de Multi Media Interface
+Gebruikersinterface van het centrale beeldscherm
+Centraal beeldscherm: Gebruikersinterface
+1
+ Weergaveveld
+Voorbeelden van weergaven in het weergaveveld:
+Overzichtspagina's
+App-overzicht
+App-inhoud
+2
+ Bedieningsbalk van de airconditioning
+De bedieningsbalk van de airconditioning is altijd zichtbaar, ook bij uitgeschakeld scherm.
+3
+ Statusregel
+In de statusregel wordt verschillende informatie over de auto en aangesloten apparaten weergegeven, bv. de verbindingsstatus van een telefoon of dat er een aanwijzing voor de bestuurder in de berichtencentrale is.
+4
+ Snelkeuzeveld
+In het snelkeuzeveld kunnen apps uit het app-overzicht worden geplaatst. De elementen  en  kunnen niet worden verplaatst.
+Om een app in het snelkeuzeveld te plaatsen, verplaatst u de app van het app-overzicht naar het snelkeuzeveld.
+5
+ Tabbladen in een app
+Boven in de app kunnen zich tabbladen bevinden. De verschillende elementen van de tabbladen dienen voor het navigeren binnen een app.
+6
+ Berichtencentrale met Snelle toegang
+In de berichtencentrale worden alle systeem- en app-berichten weergegeven. Een symbool informeert over een nieuw bericht. Een extra Snelle toegang biedt een selectie van functies en apps voor directe bediening.

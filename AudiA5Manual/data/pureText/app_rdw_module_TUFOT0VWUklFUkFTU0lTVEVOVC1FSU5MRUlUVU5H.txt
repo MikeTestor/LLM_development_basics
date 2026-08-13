@@ -1,0 +1,10 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Manoeuvreerhulp
+Inleiding
+Manoeuvreerhulp
+Inleiding
+De manoeuvreerhulp ondersteunt u bij het manoeuvreren en parkeren. Dreigt er een botsing met een ander object, dan grijpt het systeem binnen de systeemgrenzen in en probeert middels een remingreep een botsing te voorkomen.
+De manoeuvreerhulp is automatisch actief, als de parkeerhulp met de knop  of door het inschakelen van de achteruitversnelling werd geactiveerd.
+Voor de omgevingsherkenning worden de omgevingscamera’s en de ultrasoonsensoren rondom de auto gebruikt.
+ATTENTIE

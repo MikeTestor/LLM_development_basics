@@ -1,0 +1,15 @@
+Hulpsystemen
+Verdere hulpsystemen
+Gevareninformatie
+Systeemgrenzen van de gevareninformatie
+Gevareninformatie
+Systeemgrenzen van de gevareninformatie
+Voor de functie gevareninformatie gelden systeemgrenzen. Niet in alle verkeerssituaties en rijfuncties kan een onbeperkt gebruik worden gegarandeerd. De beschikbaarheid hangt onder andere van de volgende factoren af:
+De voor u rijdende voertuigen zijn technisch in staat om gevareninformatie te versturen.
+De voor u rijdende voertuigen hebben een gevaarlijk punt herkend.
+De gevareninformatie wordt correct door de externe aanbieder aan uw auto doorgegeven.
+Mogelijke oorzaken van niet herkende gevaarlijke punten
+Ongeval: de noodoproep werd niet geactiveerd door het bij een ongeval betrokken voertuig.
+Pech: de alarmlichten werden niet ingeschakeld door het voertuig met pech.
+Slipgevaar: door de voor u rijdende voertuigen werd geen verminderde wrijving tussen banden en wegdek geconstateerd.
+Zichtbeperking: het mistachterlicht of de ruitenwissers werden niet ingeschakeld door voor u rijdende voertuigen.

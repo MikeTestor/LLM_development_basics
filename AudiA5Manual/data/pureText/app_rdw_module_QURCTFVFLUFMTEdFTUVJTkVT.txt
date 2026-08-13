@@ -1,0 +1,25 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Selective Catalytic Reduction (AdBlue/DEF)
+Informatie over Selective Catalytic Reduction (SCR)
+Selective Catalytic Reduction (AdBlue/DEF)
+Informatie over Selective Catalytic Reduction (SCR)
+Bij auto's met Selective Catalytic Reduction wordt een ureumoplossing (AdBlue/DEF) vóór een stikstofoxidekatalysator in het uitlaatsysteem ingespoten om de uitstoot van stikstofoxide te verminderen. Met behulp van de ureumoplossing AdBlue/DEF zet de katalysator stikstofoxide om in stikstof en water. De ureumoplossing staat als AdBlue of DEF (Diesel Exhaust Fluid) bekend. Hierna spreken we over AdBlue.
+De AdBlue zit in een aparte tank in de auto. Het AdBlue-verbruik ligt normaal tussen 1,0 l – 2,5 l/1000 km. In individuele gevallen kan het verbruik afhankelijk van de rijstijl, de gebruiks- en de omgevingstemperatuur ook daarvan afwijken.
+AdBlue moet onafhankelijk van de servicesoorten worden bijgevuld. Dit kan vaker en tussen de service-intervallen in noodzakelijk zijn.
+Zodra op het display in het instrumentenpaneel een aanwijzing voor de bestuurder voor het bijvullen van AdBlue verschijnt, moet er AdBlue worden bijgevuld, door uzelf of door een specialist AdBlue bijvullen – voorbereidende werkzaamheden.
+Actieradius afvragen
+Het AdBlue-verbruik is afhankelijk van de rijstijl, de bedrijfs- en omgevingstemperatuur. De vermoedelijke resterende actieradius kan op het display in het instrumentenpaneel worden opgevraagd Instrumentenpaneel bedienen resp. 
+1
+ zie.
+Juridische informatie
+Er mogen geen technische wijzigingen aan het uitlaatgasreinigingssysteem worden uitgevoerd die invloed hebben op de uitlaatgasreiniging door AdBlue.
+Alleen het gebruik van AdBlue dat voldoet aan ISO-22241-1, is door Audi vrijgegeven en komt overeen met het voor dit voertuigtype opgestelde Certificaat van Overeenstemming.
+Het kan strafbaar zijn om de auto zonder AdBlue dat voldoet aan ISO-22241-1 te gebruiken.
+Als het uitlaatgasreinigingssysteem niet zoals bedoeld wordt gebruikt, kunnen de uitlaatgasemissies verslechteren.
+AdBlue is voor het gebruik van deze auto wettelijk verplicht.
+Informatie over AdBlue
+U wordt op het scherm in het instrumentenpaneel op de resterende actieradius gewezen AdBlue-peil laag. Als de AdBlue-tank helemaal leeg is, kan de motor niet meer worden gestart als het contact eenmaal is uitgeschakeld. Rijd de AdBlue-tank nooit leeg.
+Neem ook de informatie van de AdBlue-fabrikant voor het gebruik en de opslag in acht.
+Aangezien AdBlue vanaf -11 °C bevriest, kunnen bij zeer lage temperaturen beperkingen bij het tanken ontstaan.
+Tijdens het rijden wordt het systeem verhit om de uitlaatgasreiniging ook bij zeer lage temperaturen te waarborgen.

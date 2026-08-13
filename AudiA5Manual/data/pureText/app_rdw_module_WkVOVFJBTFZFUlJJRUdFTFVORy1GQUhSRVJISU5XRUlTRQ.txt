@@ -1,0 +1,22 @@
+Starten en rijden
+Openen en sluiten
+Centrale vergrendeling
+Aanwijzingen voor de bestuurder over de centrale vergrendeling
+Centrale vergrendeling
+Aanwijzingen voor de bestuurder over de centrale vergrendeling
+Afhankelijk van de voertuiguitrusting kunnen de volgende aanwijzingen voor de bestuurder verschijnen:
+ Voertuigelektronica: storing! Voor het uitstappen P inschakelen. Service opzoeken a.u.b.
+Er is sprake van een storing in de voertuigelektronica. Beveilig de auto voordat u uitstapt door de parkeerrem in te schakelen. Hierdoor wordt automatisch rijstand P ingeschakeld. Rijd op korte termijn naar een (Audi-)specialist en laat de storing verhelpen.
+ Centrale vergrendeling: storing! Zie instructieboekje
+Er is sprake van een storing in de centrale vergrendeling. Indien de portieren niet kunnen worden vergrendeld, kunt u de portieren noodvergrendelen Portieren noodvergrendelen. Rijd naar een (Audi-)specialist en laat de storing verhelpen.
+ Portierslot: Openen tijdens het rijden alleen mogelijk via noodontgrendeling. Zie instructieboekje
+Vanaf een snelheid van ongeveer 15 km/h is het niet mogelijk de portieren elektrisch te ontgrendelen. Als u in geval van nood bij een hogere snelheid het portier moet openen, kunt u het portier noodontgrendelen door de slotgreep tweemaal stevig over een voelbare weerstand heen te trekken. Druk de slotgreep daarna zo nodig weer in de uitgangsstand terug.
+ Kinderbeveiliging: storing! Binnenkort service opzoeken a.u.b.
+Er is sprake van een storing in de kinderbeveiliging. Knop  opnieuw indrukken.
+Als de aanwijzing voor de bestuurder nog steeds verschijnt, rijd dan op korte termijn naar een (Audi-)specialist en laat de storing verhelpen Veiligheidsaanwijzingen voor de centrale vergrendeling.
+Voertuigsleutel in voertuiginterieur herkend
+Of
+Voertuigsleutel in kofferbak herkend
+De aanwijzing voor de bestuurder verschijnt als bij het vergrendelen en naderhand sluiten van een portier of de bagageruimteklep een autosleutel resp. digitale sleutel in de auto werd herkend. Daarnaast reageert de auto door meermaals te knipperen en een waarschuwingsgeluid 1) . Pak de autosleutel resp. digitale sleutel direct anders wordt de auto automatisch vergrendeld en de autosleutel resp. digitale sleutel in de auto ingesloten. Zo wordt een ongewilde permanente ontgrendeling voorkomen.
+ATTENTIE
+1)Geldt voor auto's met alarmsysteem

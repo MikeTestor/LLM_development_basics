@@ -1,0 +1,17 @@
+Starten en rijden
+Openen en sluiten
+Inzittendenherkenning
+Inzittendenherkenning instellen
+Inzittendenherkenning
+Inzittendenherkenning instellen
+U kunt de inzittendenherkenning in het menu Wagen individueel instellen Menu 'Wagen' openen.
+De instellingen zijn afhankelijk van de voertuiguitrusting.
+De volgende instellingen zijn mogelijk:
+Waarschuwingstoon achterkant
+Bij auto's met indirecte inzittendenherkenning kunt u de waarschuwingstoon van de aanwijzing voor de bestuurder in het instrumentenpaneel in- of uitschakelen.
+Waarschuwingstoon bij verlaten van voertuig
+Bij auto's met directe inzittendenherkenning kunt u de waarschuwingstoon van waarschuwingsniveau 1 in- of uitschakelen.
+Aanwijzing bij begin van de rit
+Bij auto's met directe inzittendenherkenning kunt u instellen of bij het begin van de rit een aanwijzing voor de bestuurder verschijnt als er personen op de achterbank zijn herkend.
+Detectie inzittenden achterin
+Bij auto's met directe inzittendenherkenning kunt u het systeem in-of uitschakelen. Als het systeem is gedeactiveerd, wordt er telkens als de auto wordt ingeschakeld een overeenkomstige aanwijzing voor de bestuurder weergegeven.

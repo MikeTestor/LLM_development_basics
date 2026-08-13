@@ -1,0 +1,35 @@
+Starten en rijden
+Openen en sluiten
+Centrale vergrendeling
+Centrale vergrendeling instellen
+Centrale vergrendeling
+Centrale vergrendeling instellen
+U kunt de centrale vergrendeling in het menu Wagen individueel instellen Menu 'Wagen' openen. De instellingen zijn afhankelijk van de voertuiguitrusting.
+Portierontgrendeling
+Als u Alle kiest, worden bij het ontgrendelen alle portieren en de bagageruimteklep ontgrendeld.
+Als u Bestuurdersportier kiest, wordt alleen het bestuurdersportier ontgrendeld. Om alle portieren en de bagageruimteklep te ontgrendelen, drukt u tweemaal op de knop  op de autosleutel. Bij auto's met comfortsleutel wordt alleen het bestuurdersportier ontgrendeld als u de portiergreep van het bestuurdersportier vastpakt. Als u een van de andere portiergrepen vastpakt, wordt de complete auto ontgrendeld.
+Als u de knop  indrukt, wordt altijd de gehele auto vergrendeld.
+Ruit openen door lang indrukken
+U kunt instellen of alle ruiten met de autosleutel kunnen worden geopend Ruiten comfortopenen en -sluiten.
+Vergrendelen tijdens rijden (Auto Lock)
+Om binnendringen van buitenaf te voorkomen (bv. bij het stoppen voor een stoplicht), kunt u instellen dat de auto vanaf een snelheid van ongeveer 15 km/h automatisch wordt vergrendeld.
+De auto wordt weer ontgrendeld als  in de knop voor centrale vergrendeling wordt bediend.
+U kunt de portieren van binnenuit afzonderlijk ontgrendelen door aan de slotgreep te trekken.
+Na een ongeval met airbagactivering worden de portieren automatisch ontgrendeld om hulpverleners toegang tot de auto te verschaffen.
+Achterklepgreep blokkeren
+U kunt instellen of de bagageruimteklep via de handgreep kan worden geopend zie. Als u de functie activeert, kan de bagageruimteklep alleen nog met de knop  op de autosleutel of in het bestuurdersportier worden geopend. Bij auto's met comfortsleutel resp. digitale sleutel kunt u de bagageruimteklep nog steeds met de handgreep openen als een geautoriseerde comfortsleutel resp. digitale sleutel wordt herkend Bagageruimteklep.
+Spiegels inklappen
+U kunt instellen dat de buitenspiegels bij het vergrendelen automatisch inklappen.
+Vergrendelingstoon 1)
+U kunt instellen dat bij het vergrendelen van de auto een akoestisch signaal klinkt.
+Openen met comfortsleutel
+U kunt het ontgrendelen per sensor bij het portier deactiveren. Het vergrendelen per sensor is nog steeds mogelijk.
+Achterklep bedienen met voetbeweging
+U kunt de functie 'met voetbeweging aangestuurde bagageruimteklep' in- en uitschakelen.
+Interieurbewaking
+U kunt de interieurbewaking, het afsleepalarm en safelock in- en uitschakelen Informatie over het alarmsysteem.
+Toegang met extra comfort - Bij naderen automatisch ontgrendelen
+U kunt instellen, dat de auto bij nadering automatisch ontgrendelt Auto automatisch ont- en vergrendelen.
+Toegang met extra comfort - Bij verlaten automatisch vergrendelen
+U kunt instellen, dat de auto bij verlating automatisch vergrendelt Auto automatisch ont- en vergrendelen.
+1)Deze functie is niet in alle landen beschikbaar.

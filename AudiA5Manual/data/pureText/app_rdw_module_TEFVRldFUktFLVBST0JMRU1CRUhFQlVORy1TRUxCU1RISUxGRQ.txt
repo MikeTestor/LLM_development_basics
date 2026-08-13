@@ -1,0 +1,15 @@
+Infotainment
+Media
+Zelf problemen verhelpen voor media
+Media
+Zelf problemen verhelpen voor media
+Hierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.
+Thema	Tip
+Mobiel apparaat wordt niet als bron herkend.	Bij sommige mobiele apparaten is geluidsweergave niet mogelijk als de ladingstoestand te laag is. Laad het mobiele apparaat eerst voldoende op.
+Storing in de audioweergave van een mobiel apparaat dat via de USB-aansluiting is verbonden.	Het apparaat is ingesteld op gebruik als Bluetooth-audiospeler. Schakel deze functie uit Verbindingsmanager als u het mobiele apparaat niet als Bluetooth-audiospeler gebruikt.
+Geen audioweergave mogelijk van een mobiel apparaat dat via de USB-aansluiting is verbonden.	Zorg ervoor dat in de instellingen van uw mobiele apparaat de USB-modus MTP is gekozen.
+Storing in de titelweergave en audioweergave van een Bluetooth-audiospeler.	Als er een app van derden voor de muziekweergave is geopend, kunnen zich storingen voordoen. Audi adviseert om de geïntegreerde mediaspeler op uw mobiele apparaat (bv. smartphone) te gebruiken.
+Lange laadtijden van de mediabestanden van een mobiel apparaat.	Hoe meer bestanden, mappen en afspeellijsten er op een mobiel apparaat staan, des te langer zijn de laadtijden. Om de laadtijden van de mediabestanden te verkorten, gebruikt u een mobiel apparaat (bv. USB-stick) dat uitsluitend mediabestanden bevat en maakt u submappen aan (bv. per artiest of per album).
+Extra informatie of albumcover wordt niet weergegeven.	Als er geen extra informatie op het betreffende mobiele apparaat staat, schakelt u de online extra gegevens in het Media instellingenmenu in Instellingenmenu 'Media' openen. Toch kan het soms voorkomen dat bepaalde extra informatie niet wordt weergegeven.
+Storing in de bediening van mobiele apparaten via de MMI.	Storingen bij mobiele apparaten kunnen ook effect hebben op de MMI. Reset uw mobiele apparaat in deze gevallen.
+Zoeken werkt niet.	De zoekopdracht is niet voor alle soorten bronnen beschikbaar. Gebruik een bron die het zoeken ondersteunt.

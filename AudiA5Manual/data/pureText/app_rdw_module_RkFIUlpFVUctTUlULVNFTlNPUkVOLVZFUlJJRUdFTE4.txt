@@ -1,0 +1,14 @@
+Starten en rijden
+Openen en sluiten
+Ont- en vergrendeling
+Auto met sensoren ont- en vergrendelen
+Ont- en vergrendeling
+Auto met sensoren ont- en vergrendelen
+Portiergreep: Sensor voor ont- en vergrendelen
+Voorwaarde: uw auto beschikt over een comfortsleutel en sensoren in de portieren. Rijstand P is ingeschakeld. De comfortsleutel is niet verder dan ca. 1,5 m van de portiergreep resp. de bagageruimte verwijderd. Om te voorkomen dat de accu ontlaadt, schakelt het energiebeheer niet-benodigde comfortfuncties uit. U kunt uw auto mogelijk niet meer via de sensor ontgrendelen.
+Om de auto te ontgrendelen, grijpt u in de uitsparing onder de portiergreep 
+1
+ zie.
+Om de auto te vergrendelen, sluit u het portier en raakt u eenmaal de sensor 
+2
+ in de portiergreep aan. Grijp daarbij niet in de uitsparing, anders wordt de auto niet vergrendeld. Het portier opnieuw openen is direct na de sluitprocedure korte tijd niet mogelijk. Hierdoor heeft u de mogelijkheid om de correcte vergrendeling van de portieren te controleren.

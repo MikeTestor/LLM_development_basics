@@ -1,0 +1,12 @@
+Infotainment
+Navigatie
+Functies bij een actieve routegeleiding gebruiken
+Routecriteria gebruiken
+Functies bij een actieve routegeleiding gebruiken
+Routecriteria gebruiken
+U kunt de routecriteria in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen instellen.
+Automatische routeaanpassing gebruiken
+De MMI kan door de ontvangst van verkeersinformatie een betere route en de mogelijke tijdsbesparing ten opzichte van de actuele routegeleiding berekenen.
+Voorwaarde: de MMI is met internet verbonden.
+Als de automatische routeaanpassing is ingeschakeld, wordt de betere route automatisch overgenomen, mits deze beschikbaar is. De MMI meldt geen betere route als de berekende route geen tijdsbesparing oplevert ten opzichte van de actuele routegeleiding.
+VOORZICHTIG

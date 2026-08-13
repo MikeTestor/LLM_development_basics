@@ -1,0 +1,12 @@
+Infotainment
+Radio
+Zelfhulp voor de radio
+Radio
+Zelfhulp voor de radio
+Hierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.
+Thema	Tip
+Geen audioweergave van de radio mogelijk.	Controleer of het geluid van de MMI wordt onderdrukt Audio- en systeemvolume instellen.
+Controleer of de radio in de afspeelmodus staat zie.
+Controleer of de huidige zender te ontvangen is zie.
+De favorieten worden zonder zenderlogo's weergegeven.	Als op het moment van opslaan geen zenderlogo beschikbaar was, wordt de zender met het standaardlogo opgeslagen. Om de favorieten bij te werken, wist u de zender uit de favorietenlijst en slaat u deze opnieuw op.
+De radio begint altijd op de frequentie 88,3 MHz.	Als u zich in de auto als gastgebruiker of met geen gebruiker heeft aangemeld, wordt de laatst ingestelde radiozender niet opgeslagen. Meld u in de auto aan als gebruiker zodat radio-instellingen, favorieten en de laatste zenders worden opgeslagen en weergegeven.

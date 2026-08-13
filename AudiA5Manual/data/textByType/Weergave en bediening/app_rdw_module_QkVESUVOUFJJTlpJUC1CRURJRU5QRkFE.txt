@@ -1,0 +1,18 @@
+Weergave en bediening
+Touchscreens
+Handgebaren en ingave
+Informatie over padaanduidingen
+Handgebaren en ingave
+Informatie over padaanduidingen
+In dit instructieboekje laten padaanduidingen zien, hoe u een gewenste app en de instellingen en functies hiervan kunt openen.
+Als een menu of symbool in de padaanduiding tussen haakjes staat, bv. (), gaat het om een optioneel menupunt dat niet in alle systemen hoeft te worden bediend.
+Voorbeeld van een padaanduiding
+Kies:  > Wagen > Meer > Toewijzing stuurwieltoets.
+Gebruik van de padaanduiding
+Eerst ziet u, voor welk scherm het pad kan worden gebruikt. Als in de padaanduiding geen scherm wordt genoemd, bv. Kies:, heeft de padaanduiding in eerste instantie betrekking op het centrale beeldscherm en eventueel ook op het bijrijdersdisplay. Als in de padaanduiding een scherm wordt genoemd, heeft de padaanduiding uitsluitend betrekking op het genoemde scherm.
+Druk in het snelkeuzeveld op . Het app-overzicht verschijnt.
+Kies in het app-overzicht de genoemde app, in dit voorbeeld Mijn voertuig. Als de app Mijn voertuig niet wordt weergegeven, swipet u met een vinger naar boven of beneden tot deze verschijnt.
+In een app kan de verdere padaanduiding zich in een lijst of in een tabblad bevinden. In dit voorbeeld bevindt zich het menu Meer in een tabblad.
+Druk op Meer.
+Als de knop Toewijzing stuurwieltoets niet wordt weergegeven, swipet u met een vinger naar boven of beneden tot deze verschijnt.
+Druk op de knop Toewijzing stuurwieltoets.

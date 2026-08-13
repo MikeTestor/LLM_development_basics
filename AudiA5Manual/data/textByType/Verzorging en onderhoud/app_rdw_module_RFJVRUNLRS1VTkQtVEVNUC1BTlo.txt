@@ -1,0 +1,16 @@
+Verzorging en onderhoud
+Wielen
+Bandenspanningscontrolesysteem
+Bandenspanning en -temperaturen weergeven
+Bandenspanningscontrolesysteem
+Bandenspanning en -temperaturen weergeven
+Voorwaarde: de auto rijdt.
+Kies:  > Wagen > Service > Bandenspanningscontrole > Bandenspanning opslaan.
+De actuele bandenspanningen worden met groene, gele of rode getallen weergegeven:
+groen: de actuele bandenspanning en normspanning zijn ongeveer gelijk.
+geel: de actuele bandenspanning is lager dan de normspanning.
+rood: de actuele bandenspanning is aanzienlijk lager dan de normspanning.
+De normspanning is de laatst opgeslagen bandenspanning Bandenspanningen in het bandenspanningscontrolesysteem opslaan.
+Houd er rekening mee dat de bandenspanning ook afhankelijk is van de temperatuur van de band. Tijdens het rijden wordt de band warm en neemt de bandenspanning toe.
+Bij stilstand en in de inleerfase wordt de bandenspanning resp. de bandentemperatuur niet weergegeven. Bij spanning en temperatuur worden horizontale strepen --,-- weergegeven.
+ATTENTIE

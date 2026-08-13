@@ -1,0 +1,25 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Selective Catalytic Reduction (AdBlue/DEF)
+Aanwijzingen voor de bestuurder over AdBlue/DEF
+Selective Catalytic Reduction (AdBlue/DEF)
+Aanwijzingen voor de bestuurder over AdBlue/DEF
+De weergave informeert u over een laag AdBlue-peil en een systeemstoring.
+Afhankelijk van de voertuiguitrusting kunnen de volgende aanwijzingen voor de bestuurder verschijnen:
+AdBlue-peil laag
+Als de AdBlue-hoeveelheid in de tank onder een bepaald niveau komt, wordt u middels een meervoudig waarschuwingsconcept hierover geïnformeerd. Vul altijd AdBlue bij wanneer er een opdracht hiertoe op het display in het instrumentenpaneel verschijnt.
+ Bij de volgende tankbeurt ten minste x l AdBlue/DEF bijvullen. Actieradius x km
+Deze aanwijzing voor de bestuurder verschijnt als met de hoeveelheid AdBlue in de tank alleen nog de in het instrumentenpaneel weergegeven afstand kan worden gereden. Vul AdBlue bij.
+ Ten minste x l AdBlue/DEF bijvullen! Geen motorstart over x km. Zie instructieboekje
+Deze aanwijzing voor de bestuurder verschijnt als met de hoeveelheid AdBlue in de tank alleen nog de in het instrumentenpaneel weergegeven afstand kan worden gereden. Vul AdBlue bij. Anders kan de motor na de aangegeven afstand niet meer worden gestart als deze eenmaal is afgezet. U kunt de resterende afstand bovendien in de boordcomputer opvragen.
+ Ten minste x l AdBlue/DEF bijvullen! Motorstart niet mogelijk. Zie instructieboekje
+Deze aanwijzing voor de bestuurder verschijnt als er geen AdBlue meer in de tank aanwezig is. Vul AdBlue bij. Anders kan de motor niet meer worden gestart als u deze heeft afgezet.
+Als in de tank het minimale AdBlue-peil bereikt is, moet AdBlue worden bijgevuld AdBlue bijvullen – voorbereidende werkzaamheden.
+Verkeerde vulling / systeemstoring
+Als de AdBlue-tank met een andere vloeistof dan AdBlue wordt gevuld en het systeem een verkeerde vulling of een systeemstoring herkent, wordt u hierover geïnformeerd middels een aanwijzing voor de bestuurder.
+ AdBlue/DEF controleren a.u.b. Zie instructieboekje
+Deze aanwijzing voor de bestuurder verschijnt wanneer een verkeerde vulling (AdBlue voldoet niet aan de standaard of verkeerde vloeistof) of een systeemstoring wordt herkend. Rijd naar de dichtstbijzijnde (Audi-)specialist en laat de storing verhelpen.
+ AdBlue/DEF: storing! Geen motorstart over x km. Zie instructieboekje
+Deze aanwijzing voor de bestuurder verschijnt als een verkeerde vulling (AdBlue voldoet niet aan de standaard of verkeerde vloeistof) is herkend of als er sprake is van een systeemstoring en nog slechts de in het instrumentenpaneel aangegeven actieradius kan worden gereden. Rijd naar de dichtstbijzijnde (Audi-)specialist en laat de storing verhelpen. Anders kan de motor na de aangegeven afstand niet meer worden gestart als deze eenmaal is afgezet.
+ AdBlue/DEF: storing! Motorstart niet mogelijk! Zie instructieboekje
+Deze aanwijzing voor de bestuurder verschijnt wanneer een foutieve vulling (AdBlue voldoet niet aan de standaard of verkeerde vloeistof) wordt herkend of er sprake is van een systeemstoring. Rijd direct naar de dichtstbijzijnde (Audi-)specialist en laat de storing verhelpen. De motor kan anders niet meer worden gestart als u deze heeft afgezet.

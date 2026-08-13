@@ -1,0 +1,45 @@
+Starten en rijden
+Openen en sluiten
+Sleutels
+Informatie over de digitale sleutel
+Sleutels
+Informatie over de digitale sleutel
+U kunt uw auto met uw mobiele apparaat ontgrendelen, vergrendelen en starten.
+Voorwaarde: uw auto beschikt over de functie Digitale sleutel. Een door de dealer geverifieerde hoofdgebruiker is vastgelegd. U en alle gebruikers gebruiken een compatibel mobiel apparaat.
+Om te voorkomen dat de accu ontlaadt, schakelt het energiebeheer niet-benodigde comfortfuncties uit. U kunt de digitale sleutel mogelijk slechts beperkt gebruiken. De ont- en vergrendeling met het mobiele apparaat werkt ook bij ontladen voertuigaccu via de sensor op de portiergreep van het bestuurdersportier en het starten via de sensor in het telefoonopbergvak.
+Digitale sleutel in de auto in- en uitschakelen
+U kunt de functie Digitale sleutel voor uw auto in- en uitschakelen. Als u de functie uitschakelt, kunnen alle verstrekte digitale sleutels en de digitale sleutelkaart tijdelijk niet meer worden gebruikt. Zodra u de functie opnieuw inschakelt, kunnen alle verstrekte digitale sleutels en de digitale sleutelkaart weer gebruikt worden.
+Kies:  > Digitale sleutel > Beheer.
+Om de functie Digitale sleutel in en uit te schakelen, drukt u op /.
+Volg de aanwijzingen van het systeem op.
+Gebruik van de digitale sleutel voorbereiden
+U heeft de volgende mogelijkheden om de digitale sleutels te activeren:
+Digitale sleutel via de MMI instellen
+Kies:  > Digitale sleutel > Hoofdapparaat instellen.
+De hoofdgebruiker ontvangt een bericht op het mobiele apparaat. Volg de aanwijzingen in het bericht op.
+Volg de aanwijzingen op het mobiele apparaat op om de digitale sleutel te activeren.
+Volg de aanwijzingen van het systeem op.
+Digitale sleutel via de myAudi app instellen
+Open de myAudi app en stel de digitale sleutel in.
+Volg de aanwijzingen op het mobiele apparaat op om de digitale sleutel te activeren.
+Volg de aanwijzingen van het systeem op.
+De hoofdgebruiker ontvangt een bericht op het mobiele apparaat. Druk zo nodig op de link of volg de aanwijzingen op.
+Digitale sleutel delen
+Open op uw mobiele apparaat de app om digitale sleutels te beheren.
+Deel de gewenste digitale sleutel.
+Volg de aanwijzingen op het mobiele apparaat op om de digitale sleutel te activeren.
+Digitale sleutel in de MMI weergeven
+Kies:  > Digitale sleutel > Beheer > Sleutellijst.
+Digitale sleutel verwijderen
+De digitale sleutel kan via het mobiele apparaat door de hoofdgebruiker worden ingetrokken resp. door de ontvanger worden teruggegeven.
+De hoofdgebruiker kan in de MMI digitale sleutels intrekken.
+Voorwaarde: de auto is ingeschakeld.
+Kies:  > Digitale sleutel > Beheer > Sleutellijst.
+Hoofdapparaat ontkoppelen
+Om de auto op de fabrieksinstellingen terug te zetten, kan het evt. nodig zijn, de digitale sleutel van hoofdapparaat te ontkoppelen.
+Kies:  > Digitale sleutel > Beheer > Beheer hoofdapparaten.
+Informatie over de digitale sleutel
+Afhankelijk van het land kunt u de digitale sleutel via de myAudi app beheren.
+De hoofdgebruiker kan gedeelde digitale sleutels op elk moment deactiveren.
+Als een ontladen mobiel apparaat meerdere dagen niet werd geladen, kan de digitale sleutelfunctie uitvallen.
+De beschikbaarheid van de functie hangt ook af van de fabrikant van het mobiele apparaat.

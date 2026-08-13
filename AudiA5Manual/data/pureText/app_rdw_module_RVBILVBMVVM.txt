@@ -1,0 +1,28 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Parkeerhulpsystemen met afstandsindicatie
+Parkeerhulp met afstandsindicatie gebruiken
+Parkeerhulpsystemen met afstandsindicatie
+Parkeerhulp met afstandsindicatie gebruiken
+Middenconsole: Knop voor parkeerhulpsystemen
+Handmatig activeren of deactiveren
+Geldt voor auto's met parkeerhulp plus
+Voorwaarde: de rijsnelheid is lager dan ca. 10 km/h. Afhankelijk van de uitrusting kan het systeem ook bij hogere snelheden worden geactiveerd.
+Druk op de knop  
+1
+ in de middenconsole 1) .
+Automatisch activeren bij het achteruitrijden
+Schakel bij gestarte auto de achteruitversnelling in. Het systeem activeert automatisch.
+Automatisch activeren vóór
+Geldt voor auto's met parkeerhulp plus
+Als de automatische activering vóór in het menu Parkeerhulp is ingeschakeld Menu 'Parkeerhulp' openen en de auto bij het vooruitrijden met een snelheid lager dan ca. 10 km/h een obstakel nadert, wordt de parkeerhulp automatisch geactiveerd. Akoestische signalen klinken daarbij pas als het obstakel zich reeds duidelijk in het detectiegebied van de sensoren bevindt.
+Automatisch deactiveren
+Het systeem wordt automatisch gedeactiveerd als u sneller dan ca. 10 km/h vooruit rijdt.
+Voorwaarden voor een nieuwe automatische activering
+Als de parkeerhulp wordt uitgeschakeld, vindt de automatische activering alleen opnieuw plaats, indien aan een van de volgende voorwaarden is voldaan:
+Een snelheid van 10 km/h wordt overschreden.
+De auto wordt uit- en weer ingeschakeld.
+De parkeerrem wordt vastgezet en weer losgezet.
+Rijstand P wordt ingeschakeld en weer verlaten.
+ATTENTIE
+1)Afhankelijk van het land en afhankelijk van de rijstand kan de deactivering niet beschikbaar zijn.

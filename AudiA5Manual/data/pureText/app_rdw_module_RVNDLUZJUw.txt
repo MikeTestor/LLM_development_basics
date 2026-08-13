@@ -1,0 +1,12 @@
+Starten en rijden
+Rijdynamiek
+Elektronische stabiliseringscontrole
+Aanwijzingen voor de bestuurder met betrekking tot de elektronische stabiliseringscontrole
+Elektronische stabiliseringscontrole
+Aanwijzingen voor de bestuurder met betrekking tot de elektronische stabiliseringscontrole
+Afhankelijk van de voertuiguitrusting kunnen de volgende aanwijzingen voor de bestuurder verschijnen:
+  Stabiliseringscontrole (ESC/ABS): storing! Zie instructieboekje
+Er is sprake van een storing in het ABS of de EDS. Hierdoor is er ook een storing in de ESC. Er kan nog met het normale remvermogen, echter zonder ABS, worden geremd.
+Rijd onmiddellijk naar een (Audi-)specialist en laat de storing verhelpen.
+Verdere controlelampjes
+Als  tijdens het rijden knippert, grijpt de ESC regelend in. Daarbij kunnen afhankelijk van de bedrijfsomstandigheden geluiden optreden. Als het controlelampje permanent brandt, is de ESC door het systeem uitgeschakeld. Als het controlelampje uitgaat, is het systeem weer bedrijfsklaar.

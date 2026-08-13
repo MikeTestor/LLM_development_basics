@@ -1,0 +1,106 @@
+Klantinformatie
+Overige informatie
+Zendontvanginstallaties
+Informatie over de EU-richtlijn 2014/53/EU
+Zendontvanginstallaties
+Informatie over de EU-richtlijn 2014/53/EU
+Vereenvoudigde EU-conformiteitsverklaring
+Uw auto beschikt afhankelijk van de uitrusting over verschillende zendontvanginstallaties. De fabrikanten van deze zendontvanginstallaties verklaren dat deze zendontvanginstallaties, voor zover wettelijk verplicht, voldoen aan de Richtlijn 2014/53/EU. De volledige tekst van de EU-conformiteitsverklaring is via het volgende internetadres beschikbaar:
+www.audi.com/generalinfo	
+Frequentieoverzicht
+Radiodienst	Frequentiegebied	Max. zendvermogen	Leverancier
+Audi Connect Key	13,56 MHz	< 42 dBµA/m @ 10 m	28, 37
+Telefoonopbergvak met inductielaadfunctie	LTE/NR FDD-Band 20: 832 - 862 MHz	23dBm	37
+LTE/NR FDD-Band 8: 880 - 915 MHz	23dBm	37
+LTE/NR FDD-Band 3: 1710 - 1785 MHz	23dBm	37
+LTE/NR FDD-Band 1: 1920 - 1980 MHz	23dBm	37
+NR TDD-Band 78: 3300 - 3800 MHz	23dBm - only for EU	37
+Bluetooth	2400 – 2483,5 MHz	9,1 dBm	12
+ConBox/cGW/OCU	GSM 900: 880 MHz - 915 MHz	33 dBm	12
+LTE FDD B20: 832 MHz - 862 MHz	23 dBm	12
+LTE FDD B28: 703 MHz - 748 MHz	23 dBm	12
+LTE TDD B38: 2570 MHz - 2620 MHz	23 dBm	12
+LTE TDD B40: 2300 MHz – 2400 MHz	23 dBm	12
+5G FDD N1: 1920 MHz – 1980 MHz	24dBm	12
+5G FDD N3: 1710 MHz – 1785MHz	24dBm	12
+5G FDD N7: 2500 MHz – 2570 MHz	24dBm	12
+5G FDD N8: 880 MHz – 915 MHz	24dBm	12
+5G FDD N28: 703 MHz – 748 MHz	24 dBm	12
+5G TDD N77: 3300 MHz – 4200 MHz	24dBm	12
+GSM 1800: 1710 MHz - 1785 MHz	30 dBm	12
+5G TDD N78: 3300 MHz – 3800 MHz	24dBm	12
+UMTS FDD I: 1920 MHz - 1980 MHz	24 dBm	12
+UMTS FDD III: 1710 MHz - 1785 MHz	24 dBm	12
+UMTS FDD VIII: 880 MHz - 915 MHz	24 dBm	12
+LTE FDD B1: 1920 MHz - 1980 MHz	23 dBm	12
+LTE FDD B3: 1710 MHz - 1785 MHz	23 dBm	12
+LTE FDD B7: 2500 MHz - 2570 MHz	23 dBm	12
+LTE FDD B8: 880 MHz - 915 MHz	23 dBm	12
+CPD Child Presence Detection	57 - 64 GHz	13 dBM	39
+Frontradar 1	76-77 GHz	30,49 dBm (F5CP42)	46
+Frontradar 2	76-77 GHz	37,79 dBm (FR5CUEC)	46
+Sleutel met radiografische afstandsbediening	433,05 MHz - 434,79 MHz	<10 mW E.R.P.	38
+6 GHz - 8,5 GHz	< -41,3 dBm/MHz (meanPSD)	38
+125 kHz	<29,7 dBµA/m (quasipeak) @ 10m	38
+Garagedeuropener	433,05 MHz - 434,79 MHz	0,04 mW E.R.P.	11
+868,00 MHz - 868,60 MHz	1,05 mW E.R.P.	11
+868,70 MHz - 869,20 MHz	1,05 mW E.R.P.	11
+Module diefstalbeveiliging RSAD	6 GHz - 8,5 GHz	< -41,3 dBm/MHz (meanPSD)	38
+2402 MHz - 2480 MHz	< 10 dBm EIRP	38
+Bandenspanningscontrolesysteem	433,92 MHz	10 mW	14
+Omgevingsradar 1	76-77 GHz	25 dBm (RS5,3)	36
+Omgevingsradar 2	76-77 GHz	30 dBm (RS5,5)	36
+Wireless Charging	WBT: 125,35 kHz - 129,75 kHz	<55,77 dBµA/m	37
+NFC: 13,56 MHz	<42 dBµA/m	37
+Wifi	2400 – 2483,5 MHz	9,8 dBm	12
+5150 MHz – 5250 MHZ	17,5 dBm	12
+5725 MHz – 5875 MHz	13,954 dBm	12
+Centraal regelapparaat	433,05 MHz - 434,79 MHz	<10 mW E.R.P.	38
+125 kHz	<29,7 dBµA/m (quasipeak) @ 10m	38
+Leveranciersoverzicht
+Nummer	Adres
+11	Gentex Corp.
+600 North Centennial Street
+Zeeland, MI 49464
+USA
+
+12	Harman Becker Automotive Systems GmbH
+Becker-Göring-Str. 16
+76307 Karlsbad
+Germany
+
+14	Huf Baolong Electronics Bretten GmbH
+Gewerbestr. 40
+75015 Bretten-Gölshausen
+Germany
+
+28	Huf Hülsbeck & Fürst GmbH & Co. KG
+Steeger Straße 17
+42551 Velbert
+Germany
+
+36	HELLA GmbH & Co. KGaA
+Rixbecker Straße 75
+59552 Lippstadt
+Germany
+
+37	Molex Technologies GmbH
+Mizarstraße 3
+12529 Schönefeld
+Germany
+
+38	Continental Automotive Technologies GmbH
+Siemensstr.12
+93055 Regensburg
+Germany
+
+39	VALEO INTERIOR CONTROLS (SHENZHEN) CO., LTD.
+CUIGANG INDUSTRIAL PARK SIX, HUAIDE, FUYONG STREET
+BAO'AN DISTRICT, SHENZHEN CITY 518103, GUANGDONG PROVINCE
+China
+
+46	Bosch Car Multimedia
+Rua Max Grundig 35
+Lomar 4705-820 Braga
+Portugal
+Op het internetadres www.audi.com/generalinfo vindt u ook overige informatie, bv. over productcodes.

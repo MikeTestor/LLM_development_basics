@@ -1,0 +1,23 @@
+Starten en rijden
+Licht en zicht
+Buitenverlichting
+Buitenverlichting instellen
+Buitenverlichting
+Buitenverlichting instellen
+U kunt de functies van de buitenverlichting in het menu Wagen in- en uitschakelen of individueel instellen Menu 'Wagen' openen. De instellingen zijn afhankelijk van het land en de uitrusting.
+Afhankelijk van de uitrusting kunnen sommige menupunten in het instellingenmenu  staan.
+Digitale lichtsignaturen
+U kunt uit verschillende lichtsignaturen kiezen. De lichtsignatuur is afhankelijk van de uitrusting in combinatie met de dagrijverlichting en/of het achterlicht actief.
+Afhankelijk van het land vindt de wissel naar de nieuw ingestelde lichtsignatuur pas kort na het verlaten van de auto plaats.
+De signaturen in het keuzemenu kunnen afwijken van de signaturen in de verlichtingssystemen.
+Grootlichtassistent
+U kunt de grootlichtassistent in- en uitschakelen.
+In- en uitstaplicht
+Het in- en uitstaplicht verlicht de omgeving als de auto werd ontgrendeld of als bij uitgeschakelde auto het bestuurdersportier werd geopend. Het in- en uitstaplicht werkt alleen als het donker is en als de lichtfunctie AUTO is ingesteld. De koplampen en achterlichten schakelen zichzelf onafhankelijk van het omgevingslicht telkens bij ontgrendeling van de auto in.
+Communicatielicht
+Het communicatielicht laat lichtsignaturen afhankelijk van de uitrusting via de dagrijverlichting en de achterlichten zien. Via de dagrijverlichting aan de voorzijde en via de achterlichten kan een lichtsignatuur de status van het geautomatiseerd parkeren weergeven. Via de achterlichten kan een waarschuwingssignatuur worden weergegeven als er een gevaarlijke situatie werd herkend.
+Inschakeltijdstip dimlicht
+U kunt het inschakeltijdstip van het dimlicht instellen. Daardoor wordt de gevoeligheid van de lichtsensor gewijzigd.
+Verlichting voor rechts of links rijdend verkeer
+Als u in een land rijdt waar aan de andere zijde van de weg wordt gereden dan in het thuisland, hoeft u de koplamp-asymmetrie niet te veranderen. De koplampen zijn zowel voor links als voor rechts rijdend verkeer geconstrueerd.
+Uitzondering: stel bij ritten op snelwegen in de lichtschakelaarmodule het dimlicht  in om verblinding van het tegemoetkomend verkeer te voorkomen.

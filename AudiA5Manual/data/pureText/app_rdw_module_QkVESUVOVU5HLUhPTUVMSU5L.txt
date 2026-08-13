@@ -1,0 +1,14 @@
+Starten en rijden
+Openen en sluiten
+Garagedeuropener
+Garagedeuropener bedienen
+Garagedeuropener
+Garagedeuropener bedienen
+Voorwaarden: de betreffende handzender is geprogrammeerd Garagedeuropener programmeren, de auto is binnen het bereik van het systeem en de auto is ingeschakeld.
+Er zijn meerdere mogelijkheden beschikbaar om het systeem (bv. garagedeur) te openen en te sluiten.
+U kunt de garagedeuropener in het menu Wagen bedienen Menu 'Wagen' openen. Druk daarna op  van het betreffende systeem, of
+Open de Snelle toegang. Activeer de gewenste functie, of
+Klik in het weergaveveld op de gewenste functie, of
+Voorwaarde: uw auto beschikt over een gps-koppeling. Als u de positie van het systeem heeft opgeslagen, drukt u op het centrale beeldscherm op de berichtencentrale. Kort voordat u bij het systeem bent aangekomen, wordt de knop van de berichtencentrale in de MMI weergegeven, of
+Voorwaarde: uw auto beschikt over een parkeerhulp/achteruitrijcamera/omgevingscamera. Bij het inschakelen van de achteruitversnelling wordt op het centrale beeldscherm de parkeerhulp/achteruitrijcamera/omgevingscamera getoond. Om de knoppen van de eerste 3 garagedeuropeners te tonen, drukt u op de knop  en daarna op de betreffende knop van het systeem.
+Als een zendprocedure succesvol werd uitgevoerd, verschijnt een aanwijzing voor de bestuurder van het betreffende systeem.

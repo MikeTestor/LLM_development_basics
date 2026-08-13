@@ -1,0 +1,7 @@
+Infotainment
+Dashcam
+Dashcamfuncties gebruiken
+Gebeurtenis-opname met grootlichtsignaal starten
+Dashcamfuncties gebruiken
+Gebeurtenis-opname met grootlichtsignaal starten
+U kunt in het Instellingenmenu Dashcam Instellingenmenu 'Dashcam’ openen instellen, dat de dashcam automatisch een gebeurtenis-opname start, wanneer het grootlichtsignaal wordt bediend.

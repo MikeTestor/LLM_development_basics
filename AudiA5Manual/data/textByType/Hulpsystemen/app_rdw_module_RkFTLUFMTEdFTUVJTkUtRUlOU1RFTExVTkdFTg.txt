@@ -1,0 +1,12 @@
+Hulpsystemen
+Algemene informatie over hulpsystemen
+Menu 'Hulpsystemen'
+Algemene bestuurdershulpinstellingen
+Menu 'Hulpsystemen'
+Algemene bestuurdershulpinstellingen
+ Informatie over automatisch herstelde bestuurdershulpinstellingen
+Bij de voertuigstart wordt informatie gegeven over alle systemen die automatisch sinds de laatste rit op de voorgeschreven standaardwaarden werden teruggezet. In de aanwijzing kan worden gekozen voor herstel van de laatst ingestelde punten.
+De directe weergave van de informatie na de voertuigstart kunt u in het menu Hulpsystemen  uit- en inschakelen Menu 'Hulpsystemen' openen.
+Instellingen voor bestuurdershulpsystemen terugzetten
+U kunt alle instellingen voor bestuurdershulpsystemen gelijktijdig onder  in het menu Hulpsystemen  op de fabrieksinstellingen terugzetten Menu 'Hulpsystemen' openen.
+ATTENTIE

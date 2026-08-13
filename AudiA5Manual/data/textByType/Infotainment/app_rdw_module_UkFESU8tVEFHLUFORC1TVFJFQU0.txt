@@ -1,0 +1,13 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+Muziekstreamingfuncties in de radio gebruiken
+Radiofuncties gebruiken
+Muziekstreamingfuncties in de radio gebruiken
+In het weergaveaanzicht in de radio kunt u voor het nummer dat op dat moment wordt afgespeeld verschillende functies van een muziekstreamingdienst gebruiken, bv. het actuele nummer als favoriet opslaan of andere nummers van hetzelfde album streamen.
+Voorwaarde: de MMI is met internet verbonden. De automatische muziekherkenning in het instellingenmenu Radio is ingeschakeld Instellingenmenu 'Radio' openen.
+Muziekstreamingdienst verbinden
+Kies:  > Radio > een zenderlijst > een zender > .
+Volg de aanwijzingen van het systeem op.
+Na een succesvolle aanmelding wordt in plaats van  het symbool van de muziekstreamingdienst in het weergaveaanzicht weergegeven.
+VOORZICHTIG

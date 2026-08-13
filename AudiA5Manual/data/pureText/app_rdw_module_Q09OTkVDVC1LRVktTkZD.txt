@@ -1,0 +1,16 @@
+Starten en rijden
+Openen en sluiten
+Sleutels
+Informatie over digitale sleutelkaart
+Sleutels
+Informatie over digitale sleutelkaart
+Voorwaarde: u beschikt over een digitale sleutel. Uw auto beschikt over een digitale sleutelkaart en de sleutelkaart is geactiveerd. U kunt uw auto met uw digitale sleutelkaart openen, sluiten en starten.
+Zodoende hoeft u uw mobiel apparaat bijvoorbeeld bij pech of onderhoud niet af te geven. De geactiveerde sleutelkaart is bruikbaar tot de auto weer met een autosleutel resp. digitale sleutel werd ingeschakeld.
+De auto kan dan met de digitale sleutelkaart worden gereden en vergrendeld of ontgrendeld. Het apart ontgrendelen van de bagageruimteklep is echter niet mogelijk.
+Digitale sleutelkaart activeren/deactiveren
+Ontgrendel de auto.
+Schakel de auto via de digitale sleutel (mobiel apparaat) in Inleiding.
+Leg de sleutelkaart in het telefoonopbergvak. Volg nu de aanwijzingen in de MMI.
+De sleutelkaart wordt automatisch weer gedeactiveerd, zodra de auto met een digitale sleutel of een autosleutel wordt ingeschakeld. Als de sleutelkaart gedeactiveerd is, kunt u deze in de auto opbergen.
+U kunt de status van uw sleutelkaart in de MMI opvragen Status van de digitale sleutel opvragen.
+Milieu-aanwijzing

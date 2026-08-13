@@ -1,0 +1,23 @@
+Klantinformatie
+Gegevensbescherming
+Privacyinstellingen
+Consequenties van de privacybeschermingsinstellingen
+Privacyinstellingen
+Consequenties van de privacybeschermingsinstellingen
+Uw auto beschikt over de volgende soorten onlinediensten: voertuigrelevante onlinediensten en infotainmentdiensten. Deze onlinediensten kunnen gegevens uit de auto naar Audi of naar dienstverleners sturen als dit noodzakelijk is voor de betreffende onlinedienst.
+Als de functie Mobiele gegevens is uitgeschakeld, worden de voertuigrelevante onlinediensten gedeactiveerd. Wat de infotainmentdiensten betreft, wordt alleen het verzenden van gegevens uit de auto gedeactiveerd. De infotainmentdiensten zelf blijven actief. Dit heeft de volgende consequenties:
+Gegevens worden nog steeds lokaal in uw auto verwerkt.
+Lokale gegevens die offline zijn opgeslagen, kunnen na het inschakelen van de functie Mobiele gegevens uit de auto worden verzonden.
+Als u dit niet wilt, heeft u de volgende opties:
+U kunt afzonderlijke infotainmentdiensten individueel instellen en deactiveren.
+U kunt een lokale gebruiker kiezen.
+Andere consequenties van de functie Mobiele gegevens
+Als in de privacybeschermingsinstellingen de functie Mobiele gegevens is uitgeschakeld, ontvangt uw auto afhankelijk van de uitrusting geen certificaten en veiligheidsupdates meer voor de opbouw van een beveiligde verbinding. Om de veiligheidsupdates en certificaten te blijven ontvangen, schakelt u de functie ten minste eenmaal per 12 maanden gedurende ten minste 2 minuten in. Zorg ervoor dat uw auto met internet is verbonden.
+Invloed op bepaalde onlinediensten
+Wijzigingen in de privacy-instellingen hebben geen of slechts beperkte invloed op bepaalde onlinediensten.
+Om de lijst met deze onlinediensten te tonen, kiest u:  > Instellingen > Gegevensbescherming > Voertuigrelevante onlinediensten > Meer informatie.
+Invloed op bepaalde gegevensinterfaces
+Wijzigingen in de privacybeschermingsinstellingen hebben geen invloed op gegevensinterfaces.
+De volgende draadloze interfaces, indien aanwezig, worden niet geraakt door wijzigingen in de privacybeschermingsinstellingen: Bluetooth, Bluetooth Low Energy (BLE), wifi, Near Field Communication (NFC), Electronic Toll Collect (ETC), Integrated Toll Module (ITM), indien aanwezig.
+De volgende bekabelde dataoverdrachten, indien aanwezig, worden niet geraakt door wijzigingen in de privacybeschermingsinstellingen: USB, laadcommunicatie (hoogvoltsysteem), diagnosesysteem resp. On-Board-Diagnose (OBD).
+VOORZICHTIG

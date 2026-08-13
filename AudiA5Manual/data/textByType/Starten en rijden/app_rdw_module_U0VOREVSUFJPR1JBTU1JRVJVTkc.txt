@@ -1,0 +1,55 @@
+Starten en rijden
+Openen en sluiten
+Garagedeuropener
+Garagedeuropener programmeren
+Garagedeuropener
+Garagedeuropener programmeren
+In de MMI kunt u met de beschreven werkvolgorde zowel vaste code- als ook wisselcodesystemen inleren.
+Voorwaarde: de auto is ingeschakeld en het gebruik van de actuele positie voor de voertuigapp is actief.
+Inleren van handzenders
+Voorwaarde: de handzender moet aanwezig zijn en de auto is binnen het bereik van het systeem (bv. van de garagedeur) dat u wilt inleren. Als u meer dan 3 handzenders programmeert, wijs dan de eerste 3 plaatsen toe aan de systemen die u ook bij het achteruitrijden wilt gebruiken.
+U kunt bij de garagedeuropener systemen in het menu Wagen inleren Menu 'Wagen' openen. Druk daarna op 
++
+. Volg de aanwijzingen in de MMI.
+U kunt bij de garagedeuropener al ingeleerde systemen in het menu Wagen Menu 'Wagen' openen herprogrammeren. Druk daarna op de knop  van het systeem dat u wilt herprogrammeren. Kies: Inleren. Volg de aanwijzingen in de MMI.
+Bij sommige systemen is de garagedeuropener na het inleren direct beschikbaar. Bij andere systemen moet de garagedeuropener ook worden gesynchroniseerd.
+Synchroniseren 1) van handzenders
+Voorwaarde: de handzender is al ingeleerd en de auto is binnen het bereik van het systeem (bv. van de garagedeur).
+Als de synchronisatie van het systeem direct na het inleren wordt uitgevoerd, volgt u de instructies in de MMI.
+Indien u op een later tijdstip wilt synchroniseren:
+U kunt handzenders in het menu Wagen Menu 'Wagen' openen synchroniseren.
+Druk daarna op de knop  van het systeem dat u wilt synchroniseren en druk op Synchroniseren.
+Volg de aanwijzingen in de MMI.
+Positie opslaan
+Voorwaarde: uw auto beschikt over een gps-koppeling. Voor een comfortabelere bediening kunt u de positie van uw systeem inprogrammeren (gps-koppeling).
+Voorwaarden: de betreffende handzender is ingeleerd en de auto bevindt zich voor het betreffende systeem.
+Als u uw systeem zojuist heeft ingeleerd, volgt u de instructies in de MMI, of
+Als u de positie naderhand wilt opslaan:
+U kunt de locatie in het menu Wagen Menu 'Wagen' openen opslaan.
+Druk daarna op de knop  van het systeem waar uw auto op dat moment voor staat en druk op Positie wijzigen.
+Volg de aanwijzingen in de MMI.
+In de berichtencentrale kunnen maximaal 3 geprogrammeerde systemen worden weergegeven. Als u alle systemen wilt laten weergeven, drukt u op Alle garagedeuren.
+Indeling hernoemen
+U kunt de ingeleerde systemen individueel benoemen (max. 10 tekens).
+Als u uw systeem zojuist heeft ingeleerd, volgt u de instructies in de MMI, of
+Als u de hernoeming naderhand wilt doorvoeren:
+U kunt de indeling in het menu Wagen Menu 'Wagen' openen hernoemen.
+Druk daarna op de knop  van het systeem dat u wilt hernoemen en druk op Naam wijzigen. Zo nodig moet de eerder ingestelde naam, bv. Garagedeuropener 1, worden gewist.
+Volg de aanwijzingen in de MMI.
+Indeling wissen
+De ingeleerde systemen kunnen afzonderlijk of samen worden gewist.
+U kunt de indeling in het menu Wagen Menu 'Wagen' openen wissen.
+Druk daarna op de knop  van het systeem dat u wilt wissen en druk op .
+Aanwijzingen voor het inleren van de handzender
+Zorg er vóór het inleerproces voor dat de batterijen van de handzender zijn geladen.
+Het inleerproces kan maximaal 30 seconden duren. Het kan zijn dat u de handzender tussendoor opnieuw moet bedienen.
+Mogelijk moet na het inleren de garagedeuropener met het systeem worden gesynchroniseerd. Raadpleeg daarvoor de handleiding van de producent.
+Aanwijzingen voor de universele ontvanger
+Indien een universele ontvanger is ingebouwd, moet het systeem via de UR-mode worden ingeleerd.
+Schakel de auto in.
+U kunt de alternatieve modus in het menu Wagen Menu 'Wagen' openen inleren.
+Druk daarna lang op de knop 
++
+.
+Kies: Ja in UR-Mode en volg de aanwijzingen in de MMI.
+1)Geldt alleen voor wisselcodesystemen

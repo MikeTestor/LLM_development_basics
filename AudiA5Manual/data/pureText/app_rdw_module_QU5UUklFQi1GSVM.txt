@@ -1,0 +1,19 @@
+Starten en rijden
+Rijden
+Aandrijving
+Aanwijzingen voor de bestuurder met betrekking tot de aandrijving
+Aandrijving
+Aanwijzingen voor de bestuurder met betrekking tot de aandrijving
+Afhankelijk van de voertuiguitrusting kunnen de volgende aanwijzingen voor de bestuurder verschijnen:
+ Aandrijving: storing! Voertuig veilig parkeren
+Er is sprake van een storing in het aandrijfsysteem. De auto mag niet meer worden gebruikt. Verder gebruik kan schade aan het aandrijfsysteem veroorzaken. Zet de auto zo snel mogelijk op een veilige plaats neer. Beveilig de auto tegen onbedoeld wegrollen voordat u deze verlaat. Schakel de hulp van een (Audi-)specialist in.
+ Aandrijving: storing! Service opzoeken
+Er is sprake van een storing in het aandrijfsysteem. Het rijvermogen kan beperkt zijn. Rijd met verminderde snelheid naar een (Audi-)specialist en laat de storing verhelpen.
+ Aandrijving: storing! Rijvermogen beperkt. Service opzoeken a.u.b.
+Er is sprake van een storing in het aandrijfsysteem. Het rijvermogen is beperkt. Rijd met verminderde snelheid naar een (Audi-)specialist en laat de storing verhelpen.
+ Aandrijving: storing! Rijvermogen beperkt. Geen achteruitversnelling. Service opzoeken a.u.b.
+Er is sprake van een storing in het aandrijfsysteem. Het rijvermogen is beperkt. U kunt de achteruitversnelling niet meer inschakelen. Rijd met verminderde snelheid naar een (Audi-)specialist en laat de storing verhelpen.
+ Aandrijving: let op! Rijvermogen tijdelijk beperkt. Rijstijl aanpassen a.u.b. Zie instructieboekje
+Het rijvermogen is vanwege de omgevingstemperatuur resp. de temperatuur van de aandrijvingscomponenten tijdelijk beperkt. Pas uw rijstijl aan.
+ Voertuiggeluid: storing! Voertuig voor voetgangers niet hoorbaar. Service opzoeken a.u.b.
+Er is sprake van een storing in de motorsound. Rijd uiterst voorzichtig, omdat andere verkeersdeelnemers de auto bij elektrisch rijden mogelijk niet kunnen horen. Rijd onmiddellijk naar een (Audi-)specialist en laat de storing verhelpen.

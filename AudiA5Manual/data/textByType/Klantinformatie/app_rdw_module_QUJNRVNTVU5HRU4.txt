@@ -1,0 +1,11 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Afmetingen
+Voertuiggegevens
+Afmetingen
+	Lengte (mm)	Breedte (mm)	Breedte over de spiegels (mm)	Hoogte in onbeladen toestand (mm)
+A5 Avant	4829 – 4835	1860	2099	1424 – 1478
+A5 Limousine	4829 – 4835	1860	2099	1410 – 1463
+S5 Avant	4829 – 4835	1860	2099	1424 – 1476
+S5 Limousine	4829 – 4835	1860	2099	1410 – 1461

@@ -1,0 +1,30 @@
+Starten en rijden
+Hoogvoltsysteem
+Hoogvoltaccu laden
+Laadmanieren en laadkabels
+Hoogvoltaccu laden
+Laadmanieren en laadkabels
+Overzicht laadmogelijkheden
+Laadaansluitingen kunnen op de volgende posities in de auto 
+6
+ zitten:
+Zijkant linksachter
+Laadmanieren
+Afhankelijk van de laadaansluiting zijn de volgende laadmanieren mogelijk:
+Laadmanier	Laadaansluiting op de auto
+
+1
+ Laden aan huishoudelijke en industriële stopcontacten	Links
+
+2
+ + 
+3
+ Laden aan openbare laadstations met wisselstroom (AC)	Links
+Laadkabels
+Afhankelijk van de laadmanier kunnen er verschillende laadkabels voor het laden worden gebruikt.
+4
+ Laadsystemen (mode 2) voor het laden aan huishoudelijke en industriële stopcontacten. Laad alleen in uitzonderingsgevallen aan huishoudelijke stopcontacten als er geen andere laadmogelijkheid beschikbaar is. Zo bereikt u een hogere efficiëntie en een aanzienlijk kortere laadtijd.
+5
+ Laadkabels (mode 3) 1) voor het laden aan openbare laadstations met wisselstroom (AC) als er geen laadkabel bij het laadstation beschikbaar is.
+Laadkabels van laadstations voor het laden aan openbare laadstations met wisselstroom (AC).
+1)Afhankelijk van het land

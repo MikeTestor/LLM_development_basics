@@ -1,0 +1,17 @@
+Infotainment
+Navigatie
+Predictieve routegeleiding gebruiken
+Navigatie
+Predictieve routegeleiding gebruiken
+De MMI vaak bezochte reisdoelen, bv. de werkplek, leren en deze afhankelijk van de actuele voertuigpositie en tijd voor de routegeleiding voorstellen. Dit is onafhankelijk van het feit of u de navigatie gebruikt. Regelmatige tussenstops worden eveneens geleerd en er wordt in de voorgestelde route rekening mee gehouden. De geleerde reisdoelen worden gebruikersafhankelijk opgeslagen.
+Voorwaarde: de MMI is met internet verbonden. U bent met een myAudi gebruiker in de auto aangemeld.
+U kunt de predictieve routegeleiding in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen in- en uitschakelen. Bij een uitgeschakelde functie worden uw reisdoelen niet meer geregistreerd. Al geregistreerde reisdoelen blijven opgeslagen.
+Ook bij niet-actieve routegeleiding kan de MMI de verkeerssituatie controleren en toont mogelijke verkeersopstoppingen voor het waarschijnlijk af te leggen traject.
+Voorgesteld reisdoel overnemen
+Voorwaarde: de routegeleiding is niet actief. Er wordt een reisdoelsuggestie weergegeven.
+Om het voorgestelde reisdoel over te nemen, drukt u op . De routegeleiding wordt gestart.
+Geregistreerde reisdoelen wissen
+U kunt geregistreerde reisdoelen van de aangemelde gebruiker in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen wissen.
+Wis de laatste 24 uur: geregistreerde reisdoelen die niet ouder zijn dan 24 uur, worden gewist.
+Persoonlijke routes en reisdoelen wissen: alle opgeslagen reisdoelen worden gewist.
+VOORZICHTIG

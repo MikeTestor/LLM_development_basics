@@ -1,0 +1,21 @@
+Starten en rijden
+Rijden
+Rijstanden en schakelprogramma's
+Informatie over rijstanden en schakelprogramma's
+Rijstanden en schakelprogramma's
+Informatie over rijstanden en schakelprogramma's
+Middenconsole: Keuzehendel
+Rijstanden
+De rijstanden zijn op de keuzehendel in de middenconsole afgebeeld.
+P (Park): parkeren
+R (Reverse): achteruitrijden
+N (Neutral): neutrale stand
+D (Drive): vooruitrijden
+Schakelprogramma's
+In rijstand D kunnen verschillende schakelprogramma's worden gekozen. Deze beïnvloeden bijvoorbeeld de schakelpunten van de versnellingsbak en het reactiegedrag van het gaspedaal.
+Het gekozen schakelprogramma wordt in het instrumentenpaneel weergegeven.
+D (drive): normaal rijden
+E (efficiency): zuiniger rijden
+S (sport): sportief rijden
+Audi adviseert schakelprogramma D voor de dagelijkse praktijk.
+ATTENTIE

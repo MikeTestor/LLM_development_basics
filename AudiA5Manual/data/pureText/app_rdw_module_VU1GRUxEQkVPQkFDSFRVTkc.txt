@@ -1,0 +1,9 @@
+Klantinformatie
+Gegevensbescherming
+Video-opnames
+Gegevensbescherming voor omgevingsherkenning
+Video-opnames
+Gegevensbescherming voor omgevingsherkenning
+Voor sommige ondersteunende voertuigfuncties is het noodzakelijk dat de rijweg en de omgeving van de auto wordt herkend en beoordeeld. Om deze redenen herkennen vast in de auto ingebouwde camera's objecten in de omgeving van de auto (bv. obstakels, vangrails). De livebeelden van de camera's worden ter verwerking naar het verantwoordelijke regelapparaat gestuurd. Het regelapparaat analyseert het actuele camerabeeld met beeldverwerkingssoftware. Deze beeldverwerkingssoftware berekent anonieme technische meetwaarden, zoals afstanden tot objecten. Het regelapparaat beoordeelt deze technische meetkundige grootheden en maakt mogelijk dat hulpsystemen de auto eventueel aansturen.
+Als bijvoorbeeld door de actieve frontassistent bepaalde systeemacties worden herkend, kunnen de camerabeelden van de omgeving van de auto worden opgeslagen 1) . De beelden worden maar voor zeer korte tijd opgeslagen. De opgeslagen gegevens zijn versleuteld en kunnen alleen worden uitgelezen door een (Audi-)specialist.
+1)Afhankelijk van het land niet beschikbaar

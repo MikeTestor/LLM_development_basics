@@ -1,0 +1,17 @@
+Hulpsystemen
+Verdere hulpsystemen
+Verkeerstekenherkenning met camera
+Weergave van de verkeerstekenherkenning
+Verkeerstekenherkenning met camera
+Weergave van de verkeerstekenherkenning
+Instrumentenpaneel: Verkeerstekenherkenning
+In het instrumentenpaneel worden actueel geldige verkeerstekens 
+1
+ weergegeven.
+Binnen de grenzen van het systeem worden beperkingen onder de volgende voorwaarden weergegeven:
+	Er wordt een snelheidsbeperking herkend die bij natte omstandigheden geldt en een voertuigsensor, bv. de regensensor, herkent dat de snelheidsbeperking daadwerkelijk geldt.
+	Er wordt een snelheidsbeperking herkend die bij mist geldt en de camera achter de voorruit herkent dat de beperking daadwerkelijk geldt.
+	De herkende, tijdelijk geldende snelheidsbeperking valt samen met de in het instrumentenpaneel weergegeven tijd.
+	Er is een aanhangwagen aangekoppeld en op het centrale beeldscherm is Aanhangwagenspecifieke snelheidsbeperkingen ingeschakeld. In dit geval worden de voor het rijden met aanhangwagen relevante verkeerstekens weergegeven. Dit geldt alleen voor af fabriek gemonteerde trekhaaksystemen.
+De weergave in het instrumentenpaneel heeft betrekking op de snelheidseenheid die in het betreffende land geldt. De weergave kan afhankelijk van het land km/h of mph betekenen.
+ATTENTIE

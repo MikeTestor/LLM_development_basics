@@ -1,0 +1,13 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+Achteruitrijassistent
+Inleiding
+Achteruitrijassistent
+Inleiding
+De achteruitrijassistent ondersteunt bij het achteruitrijden uit krappe parkeerruimtes, garages of wegen. Hij slaat continu een zekere afstand langs het laatst gereden traject vooruitrijden op om dit traject desgewenst bij het achteruitrijden weer af te leggen. Terwijl de bestuurder de omgeving in de gaten houdt, neemt het systeem het sturen, accelereren en remmen over.
+Als het systeem op de rijweg objecten, voetgangers en andere verkeersdeelnemers herkent, kan het binnen de systeemgrenzen hierop reageren, door te remmen. Als een obstakel slechts tijdelijk aanwezig is, rijdt de auto vervolgens opnieuw weg.
+Voor de omgevingsherkenning worden de omgevingscamera’s en de ultrasoonsensoren rondom de auto gebruikt.
+Systeemgrenzen
+Neem de systeemgrenzen van de ondersteunende parkeersystemen in acht Systeemgrenzen van de ondersteunende parkeersystemen.
+ATTENTIE
+VOORZICHTIG

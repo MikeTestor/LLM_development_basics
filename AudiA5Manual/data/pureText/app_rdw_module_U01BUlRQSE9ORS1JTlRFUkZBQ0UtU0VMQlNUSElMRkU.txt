@@ -1,0 +1,18 @@
+Infotainment
+Smartphone-interface
+Zelf problemen verhelpen voor de smartphone-interface
+Smartphone-interface
+Zelf problemen verhelpen voor de smartphone-interface
+Hierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.
+Thema	Tip
+Smartphone-interface kan niet worden geopend.	Controleer het batterijniveau van uw smartphone.
+Controleer of Android Auto of Apple CarPlay in uw land beschikbaar is.
+Apple CarPlay: controleer of Apple CarPlay op uw iPhone is geactiveerd.
+Android Auto: controleer of de Android Auto app op uw smartphone is geïnstalleerd en geactiveerd.
+Controleer in de Android Auto app of Android Auto nieuwe auto's toelaat.
+Kabelverbinding van de smartphone met de MMI mislukt.	Controleer of de USB-C-kabel of de USB-adapter niet beschadigd is en correct met uw smartphone en de USB-aansluiting in de middenconsole voorin is verbonden.
+Controleer of in het menu Verbindingsmanager Menu 'Verbindingsmanager' openen het gebruik van het apparaat is ingesteld op Apple CarPlay of Android Auto.
+Draadloze verbinding van de smartphone met de MMI mislukt.	Apple CarPlay: open op uw iPhone de instellingen voor Bluetooth en Apple CarPlay. Verwijder uw auto.
+Android Auto: open op uw smartphone de Android Auto-app en de instellingen voor Bluetooth. Verwijder uw auto.
+Open het menu Verbindingsmanager Menu 'Verbindingsmanager' openen. Wis uw smartphone uit de lijst met bekende apparaten. Herhaal het verbinding maken. Start de MMI opnieuw op. Start de smartphone opnieuw op.
+Open de instellingen voor wifi op uw smartphone. Controleer of uw smartphone is verbonden met de voertuighotspot.

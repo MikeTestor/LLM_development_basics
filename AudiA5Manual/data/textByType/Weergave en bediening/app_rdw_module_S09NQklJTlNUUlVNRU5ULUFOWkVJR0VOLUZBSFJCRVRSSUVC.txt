@@ -1,0 +1,36 @@
+Weergave en bediening
+Instrumentenpaneel
+Beschrijving van de weergaven
+Overzicht weergaven voor rijden
+Beschrijving van de weergaven
+Overzicht weergaven voor rijden
+Geldt voor auto's met plug-inhybrideaandrijving
+Weergaven in de powermeter
+De zichtbaarheid en positie van de volgende weergaven zijn afhankelijk van de gekozen Audi drive select-modus. Afhankelijk van het gekozen rijprogramma en de elektrische vermogensbeschikbaarheid op dit moment kunnen de kleuren en kleurgrenzen variëren.
+Weergaven in de powermeter
+Bij POWER wordt het aandrijfvermogen op dit moment 
+4
+ in verhouding tot het actueel beschikbare aandrijfvermogen 
+5
+ weergegeven. Het actueel beschikbare aandrijfvermogen kan afhankelijk zijn van de betreffende rijmodus en door de bedrijfsomstandigheden geringer zijn dan het maximale vermogen 
+6
+, bv. bij geringe ladingstoestand van de hoogvoltaccu. Voor de weergave van deze waarde geldt: vermogensbeperkingen die door het motortoerental worden veroorzaakt, worden niet weergegeven.
+Bij CHARGE wordt het elektrische recuperatievermogen op dit moment 
+3
+ in verhouding tot het actueel mogelijke recuperatievermogen 
+2
+ weergegeven. Het actueel mogelijke recuperatievermogen kan door de bedrijfsomstandigheden geringer zijn dan het maximale recuperatievermogen 
+1
+.
+Overige weergaven
+Symbool	Betekenis
+	Ladingstoestand van de hoogvoltaccu in procenten.
+ON	Auto is ingeschakeld. Rijklaarstand is niet tot stand gebracht.
+READY	Auto is ingeschakeld. Aandrijving is ingeschakeld en de rijklaarstand is tot stand gebracht.
+BOOST	Boost-functie is actief of beschikbaar
+Weergave voor de boostfunctie
+Het symbool  laat de beschikbare gebruiksduur van de boostfunctie zien. Daarnaast geeft de kleur van het symbool de status van de boostfunctie aan. De positie van de boostweergave in het instrumentenpaneel hangt af van de gekozen lay-out.
+Kleur	Betekenis
+Grijs	Niet beschikbaar
+Wit	Beschikbaar
+Groen	Actief

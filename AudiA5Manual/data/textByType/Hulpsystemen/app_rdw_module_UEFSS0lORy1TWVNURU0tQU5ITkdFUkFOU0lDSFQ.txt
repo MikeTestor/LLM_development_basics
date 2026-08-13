@@ -1,0 +1,25 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Achteruitrijcamera of omgevingscamera's
+Aanhangwagenaanzicht openen
+Achteruitrijcamera of omgevingscamera's
+Aanhangwagenaanzicht openen
+Centraal beeldscherm: Aanhangwagenaanzicht
+Het aanhangwagenaanzicht helpt u de auto voor een aanhangwagen te positioneren.
+Aanhangwagenaanzicht openen
+Voorwaarde: de achteruitrijcamera resp. omgevingscamera's zijn geactiveerd.
+Geldt voor auto's met omgevingscamera’s: Ga naar het aanzicht Cameraweergave: achter.
+Kies bij actieve parkeerhulp  
+1
+ op het centrale beeldscherm.
+Weergaven
+2
+De blauwe oriëntatielijn markeert de te verwachten weg van de trekhaak.
+3
+Met behulp van de witte markeringslijnen kunt u de afstand tot de trekhaak inschatten. Elke markering komt overeen met circa 30 cm.
+4
+De breedte van het vlak geeft de maximale stuurinslag weer.
+Meer informatie
+Als herkend wordt dat er een aanhangwagen aangekoppeld is, vindt er aan de achterzijde en afhankelijk van de uitrusting aan de zijkant geen afstandswaarschuwing plaats. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de functies worden uitgeschakeld. De sensoren aan de voorzijde van de auto blijven actief. De optische weergave schakelt over op rijden met een aanhangwagen.
+ATTENTIE
+VOORZICHTIG

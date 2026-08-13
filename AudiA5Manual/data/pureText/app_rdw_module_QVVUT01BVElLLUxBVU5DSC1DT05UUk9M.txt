@@ -1,0 +1,23 @@
+Starten en rijden
+Rijden
+Rijden
+Launch Control gebruiken
+Rijden
+Launch Control gebruiken
+De Launch Control zorgt voor optimale acceleratiewaarden vanuit stilstand.
+Beschikbaarheid
+De beschikbaarheid van deze functie is afhankelijk van de beschikbaarheid van de aandrijvingscomponenten.
+Na het accelereren met de Launch Control kan de temperatuur van sommige voertuigonderdelen sterk zijn gestegen. De functie is dan mogelijk enkele minuten niet beschikbaar om beschadigingen te voorkomen. Na een afkoelfase is de Launch Control weer beschikbaar.
+Voorwaarden
+Motor is op bedrijfstemperatuur.
+Stuurwiel is niet gedraaid.
+Stilhoudfunctie is gedeactiveerd.
+ESC is beperkt.
+Schakelprogramma S is gekozen en de Audi drive select-modus dynamic is gekozen.
+Launch Control gebruiken
+Trap met uw linkervoet het rempedaal in en houd het ten minste 1 seconde volledig ingetrapt.
+Trap terwijl het rempedaal ingetrapt is tegelijk met uw rechtervoet het gaspedaal snel helemaal in (kickdown).
+Het symbool LAUNCH CONTROL verschijnt. Zodra de motor een constant toerental heeft bereikt, haalt u uw voet van de rem.
+Als u bent weggereden resp. heeft geaccelereerd, activeert u de ESC weer volledig.
+ATTENTIE
+VOORZICHTIG

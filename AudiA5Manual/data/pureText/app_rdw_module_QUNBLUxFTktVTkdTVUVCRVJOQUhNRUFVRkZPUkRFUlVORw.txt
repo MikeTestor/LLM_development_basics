@@ -1,0 +1,13 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Rijstrookgeleiding
+Overnameopdracht besturing van de rijstrookgeleiding
+Rijstrookgeleiding
+Overnameopdracht besturing van de rijstrookgeleiding
+Systeemgrens bereikt
+Als  rood brandt, er een akoestisch signaal klinkt en een geanimeerde waarschuwingsmelding wordt weergegeven, moet u de besturing overnemen. Een systeemgrens is bereikt, bijvoorbeeld omdat de stuurkracht van het systeem in scherpe bochten niet toereikend is. Het systeem is soms na een tijdje niet meer actief en pas later weer beschikbaar.
+Geen stuuractiviteit herkend
+Als  of  brandt en er een overeenkomstige aanwijzing voor de bestuurder verschijnt, neemt u onmiddellijk actief de besturing over. De overnameopdracht kan vergezeld gaan van een geanimeerde waarschuwingsmelding en afhankelijk van de situatie van verdere akoestische en optische signalen. Er is onvoldoende stuuractiviteit herkend. Laat uw handen op het stuurwiel, zodat u steeds klaar bent om te sturen. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften. Als u de besturing niet overneemt, wordt de rijstrookgeleiding onderbroken en wordt bij auto's met parate noodgevalassistent de noodgevalassistent geactiveerd Noodgevalassistent.
+Meer informatie
+De overnameopdrachten kunnen afhankelijk van de situatie vergezeld gaan van verdere akoestische en optische signalen.
+ATTENTIE

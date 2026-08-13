@@ -1,0 +1,9 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Reisdoel uit de kaart overnemen
+Reisdoel ingeven
+Reisdoel uit de kaart overnemen
+U kunt een punt op de kaart resp. een kaartinhoud (bv. bijzonder reisdoel) als reisdoel overnemen.
+Druk op een punt resp. kaartinhoud (bv. ) op de kaart.
+De reisdoeldetails worden getoond. U kunt het reisdoel voor de routegeleiding overnemen.

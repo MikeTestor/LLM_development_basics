@@ -1,0 +1,10 @@
+Hulpsystemen
+Verdere hulpsystemen
+Laptimer
+Informatie over de laptimer
+Laptimer
+Informatie over de laptimer
+Met de laptimer kunt u rondetijden meten en analyseren. Er kunnen maximaal 99 ronden worden gemeten.
+De gereden ronden worden in een lijst in de rondestatistiek gezet. De snelste, langzaamste en de gemiddelde rondetijd uit alle gereden ronden worden eveneens weergegeven.
+Terwijl de stopwatch van de laptimer loopt, kunt u de informatie van de boordcomputer opvragen.
+ATTENTIE

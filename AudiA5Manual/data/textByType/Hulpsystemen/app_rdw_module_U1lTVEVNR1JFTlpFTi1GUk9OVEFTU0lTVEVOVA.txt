@@ -1,0 +1,18 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Actieve frontassistent
+Systeemgrenzen van de actieve frontassistent
+Actieve frontassistent
+Systeemgrenzen van de actieve frontassistent
+De actieve frontassistent kan onder andere in de volgende gevallen beperkt of niet beschikbaar zijn:
+In scherpe bochten of bij dynamische rijmanoeuvres.
+Bij rijden met aanhangwagen.
+Bij het achteruitrijden.
+Bij defecte remlichten.
+Bij een storing in het airbagregelapparaat.
+Bij een storing in de sensoren of in de frontcamera.
+Bij een storing in de ESC of als de ESC beperkt of uitgeschakeld is.
+Bij het afslepen.
+In rijstand P.
+Bij een storing in de stuurinrichting.
+ATTENTIE

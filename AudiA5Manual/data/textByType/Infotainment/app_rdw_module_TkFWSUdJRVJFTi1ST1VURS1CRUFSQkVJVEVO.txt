@@ -1,0 +1,16 @@
+Infotainment
+Navigatie
+Functies bij een actieve routegeleiding gebruiken
+Route bewerken
+Functies bij een actieve routegeleiding gebruiken
+Route bewerken
+U kunt de actuele route bewerken door tussenstops toe te voegen of te wissen, de volgorde van de tussenstops aan te passen of door het reisdoel te vervangen.
+Tussenstop bewerken
+U heeft de volgende opties:
+Reisdoel via zoekopdracht ingeven.
+Reisdoel uit de kaart overnemen.
+Reisdoel via reisdoelinformatie toevoegen of wissen.
+Reisdoel via Route bewerken in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen toevoegen of wissen.
+Als u een tussenstop toevoegt, wordt de reisdoelinformatie bijgewerkt.
+Reisdoel vervangen
+U kunt het tot nu toe aanwezige reisdoel vervangen door een nieuw reisdoel in te geven en op Reisdoel vervangen te drukken. De routegeleiding wordt bijgewerkt.

@@ -1,0 +1,13 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Actieve frontassistent
+Actieve frontassistent bedienen
+Actieve frontassistent
+Actieve frontassistent bedienen
+Actieve frontassistent overrulen
+U kunt geactiveerde maatregelen ter voorkoming van een botsing afbreken door het gaspedaal stevig in te trappen of te sturen.
+Actieve frontassistent instellen
+U kunt de actieve frontassistent en bepaalde maatregelen ter voorkoming van een botsing in het menu Hulpsystemen in- en uitschakelen of individueel instellen Menu 'Hulpsystemen' openen.
+Een uitgeschakeld systeem wordt na het opnieuw inschakelen van de auto automatisch weer ingeschakeld.
+Als het systeem is uitgeschakeld, brandt het controlelampje  en er verschijnt een aanwijzing voor de bestuurder.
+De actieve frontassistent kan tijdens een inparkeer- of uitparkeerhandeling met ondersteuning ingrijpen, ook als de actieve frontassistent van tevoren werd uitgeschakeld. Een uitgeschakelde actieve frontassistent blijft na een inparkeer- of uitparkeerhandeling met ondersteuning uitgeschakeld.

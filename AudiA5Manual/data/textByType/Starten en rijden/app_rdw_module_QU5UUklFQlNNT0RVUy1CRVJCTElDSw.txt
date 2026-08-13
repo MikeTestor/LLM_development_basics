@@ -1,0 +1,11 @@
+Starten en rijden
+Rijden
+Aandrijving
+Symbolenoverzicht van de aandrijvingsmodi
+Aandrijving
+Symbolenoverzicht van de aandrijvingsmodi
+Afhankelijk van de voertuiguitrusting kunnen de volgende controlelampjes verschijnen:
+Symbool	Betekenis
+	De EV-modus is ingeschakeld en actief. U rijdt volledig elektrisch.
+	De EV-modus is ingeschakeld, maar tijdelijk in stand-by. Zodra weer aan de voorwaarden is voldaan, wordt weer elektrisch gereden.
+	De EV-modus is niet beschikbaar, omdat niet aan de voorwaarden voor het elektrisch rijden is voldaan.

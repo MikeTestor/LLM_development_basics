@@ -1,0 +1,27 @@
+Hulpsystemen
+Algemene informatie over hulpsystemen
+Omgevingsherkenning
+Detectiegebieden van de sensoren en camera's
+Omgevingsherkenning
+Detectiegebieden van de sensoren en camera's
+Detectiegebieden van de sensoren
+Detectiegebied van de achteruitrijcamera
+De ondersteunende systemen analyseren de gegevens van verschillende in de auto ingebouwde sensoren en camera's. Gebruik geen ondersteunende systemen als er sprake is van beschadigingen in het gebied van de sensoren en camera's of aan de onderkant van de auto. Deze kunnen functiebeperkingen of storingen in de sensoren en camera's tot gevolg hebben. Laat de functionaliteit door een (Audi-)specialist controleren.
+Radarsensoren
+Afhankelijk van de voertuiguitrusting kan de omgeving rond de gehele auto worden herkend zie.
+De radarsensoren op de achterste hoeken van de auto zijn zo geplaatst dat bij rijstroken van normale breedte de naastgelegen rijstrook aan zowel de linker- als rechterzijde is afgedekt.
+Ultrasoonsensoren
+Met de ultrasoonsensoren kan de meer nabije omgeving rond de auto worden herkend. Afhankelijk van de voertuiguitrusting kunnen sensoren achter, vóór en aan de zijkant zijn ingebouwd. De reikwijdtes zijn afhankelijk van de positie van de ultrasoonsensor. Het gebied aan de zijkant wordt bij het voorbijrijden geregistreerd en geanalyseerd. Als u de auto uit- en weer inschakelt, het portier opent of als de auto een bepaalde tijd stilstaat, kan de omgeving in de tussentijd zijn veranderd. In dat geval wordt het gebied aan de zijkant niet weergegeven.
+Achteruitrijcamera/omgevingscamera's
+Gebruik de cameraweergave op het scherm alleen ter ondersteuning als deze een goed en helder beeld geeft. Houd er ook rekening mee dat het aanzicht op het scherm een vergroot en vertekend beeld weergeeft. Objecten kunnen op het scherm veranderd en onnauwkeurig verschijnen.
+De achteruitrijcamera kan alleen het rood gemarkeerde gebied 
+1
+ registreren zie. Op het centrale beeldscherm wordt uitsluitend dit gebied weergegeven zie.
+Meer informatie
+Geldt voor auto's met omgevingscamera's: Als de buitenspiegels niet volledig zijn uitgeklapt, kunnen er systeembeperkingen optreden. Let erop dat de buitenspiegels tijdens het rijden compleet zijn uitgeklapt.
+Geldt voor auto's met elektrisch inklapbare buitenspiegels: Als de buitenspiegels handmatig worden versteld, kunnen er systeembeperkingen optreden. De buitenspiegels mogen uitsluitend elektrisch worden uit- of ingeklapt.
+Bij auto's met af fabriek aangebrachte kentekenplaathouders aan de voorzijde mogen deze alleen door houders met dezelfde afmetingen en hetzelfde materiaal worden vervangen. Bij auto's zonder af fabriek aangebrachte kentekenplaathouders mogen aan de voorzijde geen houders worden aangebracht. Anders kunnen er systeembeperkingen optreden.
+Meer informatie over de detectiegebieden van de sensoren
+De detectiegebieden van de sensoren zie en camera's zie zijn principeafbeeldingen en zijn geen waarheidsgetrouwe weergave van de reikwijdte van de sensoren.
+ATTENTIE
+VOORZICHTIG

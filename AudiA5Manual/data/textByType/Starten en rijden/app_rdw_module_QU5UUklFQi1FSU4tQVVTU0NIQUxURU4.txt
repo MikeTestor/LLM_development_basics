@@ -1,0 +1,28 @@
+Starten en rijden
+Rijden
+Aandrijving
+Aandrijving in- en uitschakelen
+Aandrijving
+Aandrijving in- en uitschakelen
+Voorwaarde: de sleutel bevindt zich in de auto. Bij de digitale sleutel kan het mobiele apparaat resp. moet de geactiveerde digitale sleutelkaart in het telefoonopbergvak liggen.
+Kortstondige geluiden bij het starten en afzetten van de auto zijn normaal en geen reden voor bezorgdheid.
+Aandrijving inschakelen
+Trap het rempedaal in en houd ingetrapt.
+Druk op de START ENGINE STOP-knop in de middenconsole. De aandrijving wordt ingeschakeld.
+Bij extreem lage buitentemperaturen kan de auto mogelijk niet worden gestart.
+Het vermogen is pas volledig beschikbaar als de motor op bedrijfstemperatuur is. Afhankelijk van de motor kunnen hiervoor bepaalde aandrijvingscomponenten verwarmd worden. Tijdens deze verwarmingsfase wordt  weergegeven.
+Mild-hybrideaandrijving: De verbrandingsmotor start. Situatieafhankelijk wordt alleen de elektrische aandrijving ingeschakeld voor het wegrijden resp. manoeuvreren.
+Plug-inhybrideaandrijving: De elektrische aandrijving wordt ingeschakeld. De verbrandingsmotor start alleen indien nodig. In het instrumentenpaneel wordt getoond of de aandrijving is ingeschakeld.
+Als u de motor start, worden grotere elektrische verbruikers tijdelijk uitgeschakeld. Als de motor niet direct aanslaat, wordt het starten na korte tijd automatisch afgebroken. Herhaal in dit geval het starten na circa 30 seconden.
+Dieselmotor: Het kan voorkomen dat de motor bij lagere temperaturen iets vertraagd start. Houd het rempedaal ingetrapt tot de motor start.
+Aandrijving uitschakelen
+Breng de auto tot stilstand.
+Druk op de START ENGINE STOP-knop. De aandrijving wordt uitgeschakeld.
+Nadat de motor is afgezet, kan de koelluchtventilator ook bij uitgeschakeld contact nog maximaal 10 minuten blijven draaien of na enige tijd weer inschakelen.
+Plug-inhybrideaandrijving: De elektrische aandrijving en de verbrandingsmotor worden afgezet.
+Geldt voor auto's met stuurvergrendeling: De stuurinrichting wordt vergrendeld als u in rijstand P de motor afzet en het bestuurdersportier opent. Door de stuurvergrendeling wordt een mogelijke diefstal van de auto bemoeilijkt.
+Aandrijving uitschakelen in een noodgeval
+Indien dit bij uitzondering noodzakelijk is, kan de motor met de nooduitschakelingsfunctie ook tijdens het rijden worden uitgeschakeld. Afhankelijk van de uitrusting kan de motor pas bij stilstand van de auto weer worden gestart.
+Druk tweemaal kort achter elkaar op de knop START ENGINE STOP of houd deze eenmaal lang ingedrukt.
+ATTENTIE
+VOORZICHTIG

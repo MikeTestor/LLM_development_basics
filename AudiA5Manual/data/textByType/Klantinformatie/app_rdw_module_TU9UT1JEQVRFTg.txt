@@ -1,0 +1,28 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Motorgegevens
+Voertuiggegevens
+Motorgegevens
+	Max. vermogen
+(kW/min-1)	Max. koppel
+(Nm/min-1)	Topsnelheid (km/h)
+A5 Avant TFSI 110 kW	110 / 3900 – 6000	280 / 1400 – 3600	214
+A5 Avant TFSI 150 kW	150 / 4300 – 6000	340 / 2000 – 4000	245
+A5 Avant TFSI quattro 150 kW	150 / 3900 – 6000	340 / 2000 – 4000	242
+A5 Avant TDI 150 kW	150 / 3800 – 4200	400 / 1750 – 3250	240
+A5 Avant TDI quattro 150 kW	150 / 3800 – 4200	400 / 1750 – 3250	236
+A5 Avant TFSI quattro 200 kW	200 / 5000 – 6500	400 / 1600 – 4500	250
+A5 Avant e-hybrid quattro 220 kW	185 / 5000 – 6500 (220 1) )	380 / 1600 – 4500 (450 1) )	250
+A5 Avant e-hybrid quattro 270 kW	185 / 5000 – 6500 (270 1) )	380 / 1600 – 4500 (500 1) )	250
+A5 Limousine TFSI 110 kW	110 / 3900 – 6000	280 / 1400 – 3600	216
+A5 Limousine TFSI 150 kW	150 / 4300 – 6000	340 / 2000 – 4000	248
+A5 Limousine TFSI quattro 150 kW	150 / 3900 – 6000	340 / 2000 – 4000	245
+A5 Limousine TDI 150 kW	150 / 3800 – 4200	400 / 1750 – 3250	242
+A5 Limousine TDI quattro 150 kW	150 / 3800 – 4200	400 / 1750 – 3250	241
+A5 Limousine TFSI quattro 200 kW	200 / 5000 – 6500	400 / 1600 – 4500	250
+A5 Limousine e-hybrid quattro 220 kW	185 / 5000 – 6500 (220 1) )	380 / 1600 – 4500 (450 1) )	250
+A5 Limousine e-hybrid quattro 270 kW	185 / 5000 – 6500 (270 1) )	380 / 1600 – 4500 (500 1) )	250
+S5 Avant TFSI	270 / 5500 – 6300	550 / 1700 – 4000	250
+S5 Limousine TFSI	270 / 5500 – 6300	550 / 1700 – 4000	250
+1)De waarde tussen haken geldt voor het gehele systeem van de plug-inhybrideaandrijving.

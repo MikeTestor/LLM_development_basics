@@ -1,0 +1,34 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Manoeuvreerhulp
+Manoeuvreerhulp gebruiken
+Manoeuvreerhulp
+Manoeuvreerhulp gebruiken
+Centraal beeldscherm: Manoeuvreerhulp
+Overzicht van de weergaven
+De weergaven 
+1
+ - 
+3
+ geven de status en de beschikbaarheid van de manoeuvreerhulp aan.
+1
+Een witte omranding geeft de beschikbaarheid in dit bereik aan.
+2
+Een rode omranding geeft een remingreep aan.
+3
+Een ontbrekende omranding geeft een inactief bereik aan (deelbeschikbaarheid).
+Als er geen omranding om de auto wordt getoond, is de manoeuvreerhulp niet beschikbaar.
+Remingreep
+Een remingreep kan worden ingeleid, wanneer een mogelijke botsing met een herkend statisch obstakel aanstaande is. Wordt de auto tot stilstand afgeremd, dan verschijnt de aanwijzing voor de bestuurder  Manoeuvreerhulp: veiligheidsremming. Obstakel herkend en moet u de verdere besturing van de auto overnemen.
+Als u na een veiligheidsremming verder in de richting van een obstakel rijdt, wordt de manoeuvreerhulp tijdelijk gedeactiveerd. Als u enkele meters gereden hebt, wordt het systeem weer geactiveerd.
+Opdat een remmanoeuvre zachter en minder abrupt wordt uitgevoerd, kunt u een gematigde remingreep in het menu Parkeerhulp instellen Menu 'Parkeerhulp' openen. Daardoor leidt het systeem de remingreep al bij een grotere afstand tot het obstakel in, waardoor de remhandeling zachter wordt.
+Systeemgrenzen
+Laat uw handen altijd op het stuurwiel, zodat u steeds klaar bent om te sturen. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+Functies van het systeem zijn mogelijk niet beschikbaar als de ESC regelend ingrijpt, beperkt of uitgeschakeld is resp. als er sprake is van een storing.
+Objecten met een te geringe hoogte kunnen evt. niet door het systeem worden herkend, bv. stoepranden.
+Het systeem is bij het rijden tot ca. 10 km/h beschikbaar.
+Bij sommige ingeschakelde hulpsystemen of bij het gebruik van ondersteunende parkeersystemen zijn de systemen niet beschikbaar.
+Het systeem is niet beschikbaar, als de veiligheidsgordel van de bestuurder niet is vastgemaakt.
+Als herkend is dat een aanhangwagen is aangekoppeld, is het systeem maar gedeeltelijk beschikbaar. Het witte kader wordt in niet-actieve gebieden uitgeschakeld. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de functies worden uitgeschakeld.
+ATTENTIE
+VOORZICHTIG

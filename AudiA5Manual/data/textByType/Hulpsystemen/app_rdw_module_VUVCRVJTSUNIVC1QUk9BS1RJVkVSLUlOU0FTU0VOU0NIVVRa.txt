@@ -1,0 +1,16 @@
+Hulpsystemen
+Verdere hulpsystemen
+Proactieve inzittendenbescherming
+Functies van de proactieve inzittendenbescherming
+Proactieve inzittendenbescherming
+Functies van de proactieve inzittendenbescherming
+De functie proactieve inzittendenbescherming omvat meerdere deelfuncties, die binnen de grenzen van het systeem op verschillende situaties met maatregelen ter bescherming van de inzittenden kunnen reageren.
+Proactieve inzittendenbescherming
+De basisfunctie van de proactieve inzittendenbescherming reageert in kritieke rijsituaties, bv. bij onderstuur of overstuur, een noodstop door de elektronische parkeerrem of kleine botsingen. Het systeem kan reageren als u ten minste ca. 30 km/h rijdt.
+Proactieve inzittendenbescherming voorzijde
+De deelfunctie proactieve inzittendenbescherming voorzijde reageert bij een botsingsrisico aan de voorzijde van de auto. Het systeem kan reageren als u ten minste ca. 15 km/h rijdt.
+Proactieve inzittendenbescherming achterzijde
+De deelfunctie proactieve inzittendenbescherming achterzijde reageert bij een botsingsrisico aan de achterzijde van de auto veroorzaakt door het achteropkomende voertuig. Het systeem kan reageren als u met een snelheid tot ca. 250 km/h rijdt.
+Proactieve inzittendenbescherming zijkant
+De deelfunctie proactieve inzittendenbescherming zijkant reageert bij een risico van een botsing met een kruisend of van de zijkant komend voertuig. Het systeem kan reageren als u met een snelheid tot ca. 250 km/h vooruit- of ca. 20 km/h achteruitrijdt.
+ATTENTIE

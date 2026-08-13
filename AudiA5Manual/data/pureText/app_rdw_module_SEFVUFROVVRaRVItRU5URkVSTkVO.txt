@@ -1,0 +1,17 @@
+Starten en rijden
+Personalisatie
+Hoofdgebruiker
+Hoofdgebruiker verwijderen
+Hoofdgebruiker
+Hoofdgebruiker verwijderen
+Voorwaarde: er is een hoofdgebruiker vastgelegd.
+Als u de hoofdgebruiker verwijdert, worden alle andere door de hoofdgebruiker aangemaakte gebruikers en hun autorisaties gewist. De uitrustingsafhankelijke Audi connect wagenaansturingsdiensten kunnen niet meer worden gebruikt.
+Afhankelijk van de uitrusting worden alle digitale sleutels gewist.
+U heeft de volgende mogelijkheden om de hoofdgebruiker te verwijderen:
+Hoofdgebruiker in de myAudi app verwijderen
+Open de myAudi app en verwijder de hoofdgebruiker.
+Hoofdgebruiker in de MMI verwijderen
+Druk op het centrale beeldscherm in de statusregel op het symbool van de actuele gebruiker. Alle gebruikers worden weergegeven.
+Druk op het tabblad Hoofdgebruiker.
+Druk op Hoofdgebruiker verwijderen.
+Als u uw auto verkoopt, zet het systeem dan terug op de fabrieksinstellingen.

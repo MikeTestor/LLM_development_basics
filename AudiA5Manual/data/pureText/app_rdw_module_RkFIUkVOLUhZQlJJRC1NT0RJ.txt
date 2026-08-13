@@ -1,0 +1,26 @@
+Starten en rijden
+Rijden
+Aandrijving
+Aandrijvingsmodus instellen
+Aandrijving
+Aandrijvingsmodus instellen
+Aandrijvingsmodus wisselen
+De knop  zit in de middenconsole boven de keuzehendel. Bij ingeschakelde functie brandt het lampje in de knop.
+Om tussen elektrisch en hybride rijden te wisselen,  indrukken, of
+Kies:  > Laden.
+Elektrisch rijden
+Als de EV-modus is ingeschakeld, brandt de knop  groen. De auto kan elektrisch worden aangedreven als aan de voorwaarden daarvoor is voldaan. De EV-modus kan door de bestuurder, bv. door kickdown, worden overruled.
+U kunt vastleggen, of de rit altijd elektrisch moet beginnen:
+Kies:  > Laden >  > Altijd in EV-modus starten.
+Hybride rijden
+Als de knop  niet brandt, rijdt u hybride. De auto kan met de verbrandingsmotor worden aangedreven of elektrisch, wanneer het rijprogramma D of E is gekozen en het rijpedaal niet te ver wordt ingetrapt.
+Als de routegeleiding van de navigatie actief is en er geen gewenste ladingstoestand is gekozen, wordt rekening gehouden met de trajectgegevens bij de keuze van de soort aandrijving. De auto berekent op welke delen van het traject elektrisch moet worden gereden om een zo zuinig mogelijke rijstijl te bereiken. Zo worden stukken met een vermoedelijk lage rijsnelheid, zoals bv. de bebouwde kom of files, bij voorkeur elektrisch gereden. Is de hybride assistent geactiveerd, dan wordt naar het hybride rijden gewisseld, wanneer de resterende afstand tot het reisdoel de resterende elektrische actieradius overschrijdt. Eerder uitgevoerde instellingen van de ladingstoestand worden daarbij overschreven.
+Kies:  > Laden >  > Hybride assistent.
+Als u het systeem uitschakelt, blijft het bij een volgende keer dat de auto wordt ingeschakeld, uitgeschakeld.
+Ladingstoestand in de hybridemodus instellen
+De ladingstoestand kan met de schuifknop worden ingesteld:
+Als de gewenste ladingstoestand onder de werkelijke ladingstoestand is ingesteld, werken elektro- en verbrandingsmotor efficiënt samen. Als de gewenste ladingstoestand is bereikt, wordt de ladingstoestand vastgehouden.
+Als de gewenste ladingstoestand analoog aan de werkelijke ladingstoestand is ingesteld, wordt de auto overwegend met de verbrandingsmotor aangedreven om de ladingstoestand van de hoogvoltaccu zo veel mogelijk te behouden.
+Als de gewenste ladingstoestand boven de huidige ladingstoestand is ingesteld, wordt de auto met de verbrandingsmotor aangedreven om de hoogvoltaccu op te laden. Dit leidt tot een hoger brandstofverbruik.
+De gewenste ladingstoestand kan slechts tot 80% ingesteld worden. Volledig opladen is alleen met de laadkabel mogelijk.
+Is de rijmodus S gekozen, dan wordt modelafhankelijk de gewenste ladingstoestand automatisch op 20% ingesteld. Deze waarde kan altijd handmatig worden aangepast.

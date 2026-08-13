@@ -1,0 +1,7 @@
+Hulpsystemen
+Waarschuwingssystemen
+Snelheidswaarschuwingssysteem
+Aanwijzingen voor de bestuurder met betrekking tot het snelheidswaarschuwingssysteem
+Snelheidswaarschuwingssysteem
+Aanwijzingen voor de bestuurder met betrekking tot het snelheidswaarschuwingssysteem
+Als  met een aanwijzing voor de bestuurder wordt weergegeven en er een akoestisch signaal klinkt, wordt de opgeslagen maximumsnelheid overschreden. Zodra de snelheid weer onder de opgeslagen maximumsnelheid ligt, gaat de weergave uit.

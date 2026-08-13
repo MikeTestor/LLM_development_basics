@@ -1,0 +1,35 @@
+Starten en rijden
+Openen en sluiten
+Ont- en vergrendeling
+Auto automatisch ont- en vergrendelen
+Ont- en vergrendeling
+Auto automatisch ont- en vergrendelen
+Detectiegebied van de sensoren
+Voorwaarde: uw auto beschikt over een comfortsleutel en een alarmsysteem, u draagt uw autosleutel resp. digitale sleutel bij u en de functie 'uitgebreide comforttoegang' is in de MMI geactiveerd.
+Bij gebruik van de uitgebreide comforttoegang wordt de auto bij het naderen resp. verlaten van het mogelijke detectiegebied automatisch ontgrendeld 
+1
+ resp. vergrendeld 
+2
+. Bij het ontgrendelen knipperen de knipperlichten tweemaal, bij het vergrendelen eenmaal.
+Als de knipperlichten bij het vergrendelen niet knipperen, controleer dan of alle portieren resp. kleppen zijn gesloten en of er zich geen andere autosleutel in de auto resp. in het vergrendelingsgebied bevindt.
+Bij het automatisch vergrendelen is Safelock gedeactiveerd als uw auto een alarmsysteem heeft. Als u uw auto met Safelock wilt vergrendelen, vergrendelt u de auto handmatig.
+Functies activeren en deactiveren
+U kunt de uitgebreide comforttoegang in het menu Wagen individueel instellen Menu 'Wagen' openen.
+Ontgrendelingsfunctie tijdelijk deactiveren
+Vergrendel de auto met de knop  op de autosleutel.
+Raak binnen 5 seconden eenmaal de sensor in de portiergreep aan zie. Pak daarbij niet de portiergreep vast, anders wordt de auto niet vergrendeld.
+Om de deactivering te controleren ten minste 10 seconden wachten en opnieuw aan de portiergreep trekken. Het portier mag niet kunnen worden geopend.
+De auto kan bij de volgende keer ontgrendelen alleen met de knop  op de autosleutel worden ontgrendeld. Na het ontgrendelen is de automatisch ontgrendelingsfunctie weer geactiveerd.
+Vergrendelingsfunctie tijdelijk deactiveren
+Druk bij geopend portier de knop  op de autosleutel langer dan 2 seconden in.
+Het automatische vergrendelen is niet beschikbaar tot de volgende keer dat de auto handmatig is vergrendeld.
+Storingen bij het ont- en vergrendelen verhelpen
+Controleer of de batterij van de autosleutel voldoende geladen is Led en batterij in de autosleutel.
+Als de auto bij het naderen niet wordt ontgrendeld:
+Loop eerst van de auto weg en daarna naar de auto toe, of
+Als de auto bij het verlaten niet wordt vergrendeld:
+Controleer of zich een andere autosleutel in het detectiegebied bevindt, of
+Controleer of alle portieren en kleppen gesloten zijn.
+Aanwijzingen voor de uitgebreide comforttoegang
+Als de auto langere tijd niet wordt ontgrendeld, is de functie pas weer beschikbaar na de volgende vergrendeling. Loop een stukje van de auto weg en daarna weer naar de auto toe. Zo nodig moet de auto handmatig worden ontgrendeld.
+VOORZICHTIG

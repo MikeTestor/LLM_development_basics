@@ -1,0 +1,24 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Koelsysteem
+Informatie over de koelvloeistof
+Koelsysteem
+Informatie over de koelvloeistof
+Neem de veiligheidsaanwijzingen in acht Veiligheidsaanwijzingen voor de motorruimte.
+Het koelsysteem is af fabriek met een mengsel van gezuiverd water en koelvloeistofconcentraat gevuld. Deze koelvloeistof hoeft niet te worden vervangen.
+Het koelvloeistofpeil wordt door het controlelampje  bewaakt. Toch dient u het koelvloeistofpeil van tijd tot tijd direct op het reservoir te controleren.
+Koelvloeistofconcentraat
+Het koelvloeistofconcentraat bestaat uit een middel ter bescherming tegen bevriezing en een corrosiewerend middel. Gebruik voor het bijvullen alleen het volgende koelvloeistofconcentraat, in combinatie met gedestilleerd water.
+Koelvloeistofconcentraat	Specificatie	Kleurcode
+G12evo	TL 774 L	Paars
+Hoeveel koelvloeistofconcentraat aan het water moet worden toegevoegd, is afhankelijk van de klimatologische gebruiksomstandigheden van de auto. Als het aandeel koelvloeistofconcentraat te gering is, kan de koelvloeistof bevriezen en kan er schade aan de motor ontstaan.
+Klimaatregio	Koelvloeistofconcentraat
+	Bescherming tegen bevriezing
+Warme
+regio's	Min. 40 %
+Max. 45 %	Min. -25 °C (-13 °F)
+Koude
+regio's	Min. 50 %
+Max. 55 %	Min. -40 °C (-40 °F)
+VOORZICHTIG
+VOORZICHTIG

@@ -1,0 +1,16 @@
+Starten en rijden
+Openen en sluiten
+Garagedeuropener
+Inleiding
+Garagedeuropener
+Inleiding
+Voorwaarde: uw auto beschikt over een garagedeuropener.
+Met de garagedeuropener kunt u vanuit de auto systemen als garagedeuren, beveiligingssystemen of huisverlichtingen activeren. De functies worden in de MMI bediend. Er kunnen meerdere ontvangers worden ingeleerd, die de functies van maximaal 8 1) handzenders overnemen.
+Aanwijzingen voor de verkoop van de auto
+Als u uw auto verkoopt, zet het systeem dan terug op de fabrieksinstellingen Systeem op fabrieksinstellingen terugzetten.
+Aanwijzingen voor de compatibiliteit van de garagedeuropener
+Controleer voordat u uw systeem op de garagedeuropener inleert eerst de compatibiliteit:
+Informeer bij uw (Audi-)specialist of kijk op www.homelink.com. Daar vindt u ook meer informatie over HomeLink.
+In de MMI kunt u informatie (compatibiliteitsniveau/status/landcode/HomeLink-generatie) over HomeLink in het menu Wagen laten weergeven Menu 'Wagen' openen:
+ATTENTIE
+1)Het aantal mogelijk handzenders is afhankelijk van de uitrusting.

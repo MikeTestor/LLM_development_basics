@@ -1,0 +1,12 @@
+Hulpsystemen
+Waarschuwingssystemen
+Vermoeidheidswaarschuwing
+Inleiding
+Vermoeidheidswaarschuwing
+Inleiding
+De vermoeidheidswaarschuwing geeft de bestuurder binnen de grenzen van het systeem aan of deze een pauze nodig heeft.
+Na het begin van de rit analyseert de vermoeidheidswaarschuwing het rijgedrag en bepaalt daaruit een vermoeidheidsinschatting. Deze wordt continu met het actuele rijgedrag vergeleken.
+Afhankelijk van het land herkent een bestuurderbeschikbaarheidscamera ook de kijkrichting tijdens het rijden.
+Wanneer het systeem een geringe vermoeidheid van de bestuurder herkent, adviseert het vanaf een snelheid van 65 km/h middels een weergave in het instrumentenpaneel en bij grotere vermoeidheid ook door een akoestisch signaal een pauze te nemen.
+Als een vermoeidheid van de bestuurder vanwege gesloten ogen werd herkend, wordt bij auto's met gebruiksklare noodgevalassistent deze geactiveerd Noodgevalassistent.
+ATTENTIE

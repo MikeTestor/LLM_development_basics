@@ -1,0 +1,29 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Dynamische snelheidsassistent
+Overzicht van de weergaven van de dynamische snelheidsassistent
+Dynamische snelheidsassistent
+Overzicht van de weergaven van de dynamische snelheidsassistent
+Instrumentenpaneel: Weergavenoverzicht in de omgevingsweergave
+De rijsituatie en de instellingen worden in het instrumentenpaneel en op het head-updisplay getoond. De weergaven zijn afhankelijk van het land en de uitrusting.
+Weergavenoverzicht in de omgevingsweergave
+De omgevingsweergave verschijnt alleen als deze in het instrumentenpaneel is geselecteerd.
+1
+Weergave voor actieve afstandsregeling
+2
+Er is een voorligger herkend. De groene markering wijst in de richting van het voertuig waarop wordt geregeld.
+3
+Markering van het voertuig waarop wordt geregeld
+4
+Eigen auto
+5
+Ingestelde snelheid
+Controlelampjes
+ – De snelheids- of afstandsregeling is actief. Er is geen voorligger herkend. De ingestelde snelheid wordt constant gehouden.
+ – De snelheids- of afstandsregeling is actief. Er is een voorligger herkend. Het systeem regelt de snelheid en de afstand in overstemming met de voorligger en accelereert en remt zelfstandig.
+ – De snelheids- of afstandsregeling is actief maar de auto is niet klaar om weg te rijden. Er is een voorligger herkend. Uw auto staat stil en rijdt niet automatisch weg.
+ – De snelheids- of afstandsregeling is actief maar de auto is niet klaar om weg te rijden. Er is geen voorligger herkend. Uw auto staat stil en rijdt niet automatisch weg.
+ – De auto staat te lang stil en is niet klaar om weg te rijden. Het weergave en een aanwijzing voor de bestuurder geven aan dat de paraatheid om weg te rijden opnieuw kan worden geactiveerd.
+ – U moet ingrijpen. De removernameopdracht of de wegrijcontrole waarschuwt.
+ – De snelheids- of afstandsregeling is tijdelijk overruled of kortstondig onderbroken.
+ATTENTIE

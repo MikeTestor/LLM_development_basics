@@ -1,0 +1,24 @@
+Starten en rijden
+Rijden met aanhangwagen
+Aanhangwagenassistent
+Inleiding
+Aanhangwagenassistent
+Inleiding
+De aanhangwagenassistent ondersteunt bij het rijden en manoeuvreren met een aanhangwagen. Herkenning van de aanhangwagenhoek gebeurt door de achteruitrijcamera. Het systeem leert automatisch tijdens het rijden de eigenschappen van de aanhangwagen.
+De aanhangwagenassistent stuurt de aanhangwagen bij het achteruitrijden en bij eventuele correctiebewegingen in voorwaartse richting zelfstandig in de gewenste richting. U bedient het rij- en rempedaal. De aanhangwagenassistent begrenst de snelheid bij het achteruitrijden afhankelijk van de situatie tussen ca. 3 km/h tot 8 km/h. Ook door het gaspedaal meer in te trappen kan de snelheid niet worden verhoogd.
+Audi adviseert u het gebruik van de aanhangwagenassistent op een verkeersluwe plek of parkeerplaats te oefenen, zodat u met het systeem en de functies vertrouwd raakt.
+Voor elke rit
+Zorg ervoor dat de stekker van de aanhangwagen in het aanhangwagenstopcontact zit, omdat de aanhangwagenassistent anders niet actief is.
+Maak zo nodig de achteruitrijcamera handmatig schoon, door de achterruitsproeier te bedienen Ruitenwissers bedienen of door de schoonmaakfunctie in de MMI te kiezen Schoonmaken achteruitrijcamera starten. Neem de aanwijzingen voor het schoonmaken in acht Reinigings- en verzorgingsaanwijzingen.
+Systeemgrenzen
+In de volgende gevallen is de functie van de aanhangwagenassistent beperkt of niet beschikbaar.
+Als u bij ingeschakelde aanhangwagenassistent sneller dan 10 km/h vooruit rijdt, schakelt het systeem zichzelf uit.
+De aanhangwagenassistent kan na het inschakelen van de auto korte tijd niet beschikbaar zijn.
+Bij defecte aanhangwagenremlichten is de aanhangwagenassistent niet beschikbaar.
+Aanhangwagens met ledachterlichten kunnen om technische redenen niet altijd door de aanhangwagenassistent worden herkend.
+Op steile hellingen is de aanhangwagenassistent mogelijk niet beschikbaar.
+Er is een bagagedrager op de kogelkop van het trekhaaksysteem gemonteerd.
+Functies van het systeem zijn mogelijk niet beschikbaar als de ESC beperkt of uitgeschakeld is resp. als er sprake is van een storing.
+Aanhangwagens met gestuurde assen (draaischamel-dissels) kunnen niet worden gestuurd.
+ATTENTIE
+VOORZICHTIG

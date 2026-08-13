@@ -1,0 +1,31 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Assistent voor kruisend verkeer achter
+Assistent voor kruisend verkeer achter gebruiken
+Assistent voor kruisend verkeer achter
+Assistent voor kruisend verkeer achter gebruiken
+Centraal beeldscherm: Weergave van de assistent voor kruisend verkeer achter
+Activeren
+Schakel bij gestarte auto de achteruitversnelling in. Het systeem activeert automatisch.
+Weergaven, waarschuwingen en afremmingen
+Weergave: de weergave 
+1
+ verschijnt alleen bij geactiveerde parkeerhulp. Bij auto's met omgevingscamera's verschijnt de weergave alleen in de camera-aanzichten Cameraweergave: achter en Cameraweergave: schuin achter. Pijlen geven de richting aan, waaruit het kruisend verkeer nadert. Afhankelijk van het niveau van gevaar wordt de weergave verschillend geaccentueerd.
+Akoestische waarschuwingen: als extra aanwijzing kan bij het achteruitrijden een akoestisch signaal klinken.
+Actieve remingreep: als u bij een waarschuwing niet reageert, kan een remingreep een mogelijke botsing voorkomen of de botssnelheid verminderen. De actieve remingreep kan in het menu Hulpsystemen worden in- en uitgeschakeld Menu 'Hulpsystemen' openen.
+De akoestische waarschuwingssignalen en de actieve remingreep vinden alleen bij achteruitrijden plaats.
+De registratiegebieden van de sensoren zie zijn principeafbeeldingen en zijn geen waarheidsgetrouwe weergave van de reikwijdte van de sensoren.
+Actieve remingreep tijdelijk deactiveren
+Om alle ingrepen/waarschuwingen tijdelijk te deactiveren, op  
+2
+ in het centrale beeldscherm drukken en de deactivering bevestigen.
+Het symbool  wordt weergegeven.
+Een tijdelijk gedeactiveerde remingreep wordt automatisch weer geactiveerd, zodra de auto een bepaalde snelheid bereikt.
+Assistent voor kruisend verkeer achter uit- en inschakelen
+U kunt de assistent voor kruisend verkeer achter in het menu Parkeerhulp in- en uitschakelen Menu 'Parkeerhulp' openen.
+Systeemgrenzen
+Het systeem is bij het rijden in de achteruitversnelling tot ca. 10 km/h beschikbaar.
+Functies van het systeem zijn mogelijk niet beschikbaar als de ESC beperkt of uitgeschakeld is resp. als er sprake is van een storing.
+Bij een akoestisch waarschuwingssignaal van de assistent voor kruisend verkeer achter kan de parkeerhulp onder bepaalde omstandigheden niet akoestisch voor herkende obstakels waarschuwen.
+Bij herkend aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de functies worden uitgeschakeld. Gebruik de functies niet bij het rijden met aanhangwagen.
+ATTENTIE

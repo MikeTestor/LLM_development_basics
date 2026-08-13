@@ -1,0 +1,27 @@
+Starten en rijden
+Hoogvoltsysteem
+Hoogvoltaccu laden
+Laadsessie starten
+Hoogvoltaccu laden
+Laadsessie starten
+Linkerachterzijde: Laadklep openen
+Voertuigzijde linksachter: Laadeenheid bestaande uit laadaansluiting, knop en led
+Als u uw auto bij een openbaar laadstation laadt, kan de volgorde van de handelingen afwijken. Neem de aanwijzingen en raadgevingen voor het gebruik van de fabrikant van het laadstation in acht.
+Voorwaarde: rijstand P is ingeschakeld en de auto is tegen wegrollen beveiligd.
+Controleer vóór het aansluiten van de laadkabel of de laadinstellingen voor het komende laadproces naar wens zijn, bv. of de auto onmiddellijk of op een later tijdstip moet worden geladen Laadinstellingen.
+Haal zo nodig de laadkabel van uw auto tevoorschijn.
+Verwijder zo nodig de beschermkappen van de laadkabel.
+Sluit de laadkabel op de stroomvoorziening aan of neem deze uit het laadstation.
+Rol de kabel volledig uit.
+Om de laadklep te openen, drukt u op het rechtergedeelte 
+4
+ van de laadklep.
+Steek de laadstekker in de voertuiglaadaansluiting en druk deze gedurende 5 seconden stevig in de laadaansluiting. De laadstekker wordt vergrendeld. Als er geen vertrektijd is ingesteld, begint de laadsessie direct nadat de laadstekker is vergrendeld en nadat eventueel het laadstation is vrijgegeven.
+Eventuele geluiden bij het aansluiten van de laadstekker zouden eventueel op het vastzetten van de parkeerrem terug te voeren kunnen zijn.
+Tijdens het laden blijft de laadstekker vergrendeld. De leds op de laadeenheid 
+2
+ en het instrumentenpaneel geven informatie over de actuele laadstatus. Een sticker 
+3
+ op de laadeenheid geeft informatie over de verschillende indicaties van de laadstatus.
+Tijdens het laden kunnen beperkingen van de ontvangstsystemen van de auto optreden, bv. in de radio-ontvangst.
+ATTENTIE

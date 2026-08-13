@@ -1,0 +1,18 @@
+Infotainment
+Telefoon
+Zelf problemen verhelpen voor de telefoon
+Telefoon
+Zelf problemen verhelpen voor de telefoon
+Hierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.
+Thema	Tip
+De verbinding van de mobiele telefoon met de MMI mislukt.	Controleer of aan de voorwaarden voor het verbinden van een mobiele telefoon is voldaan Verbindingsmanager of
+controleer of u per ongeluk de pincode voor het tot stand brengen van de verbinding op uw mobiele telefoon heeft afgewezen. Probeer zo nodig opnieuw verbinding te maken Verbindingsmanager.
+Na het verbinden zijn niet alle of geen contacten in de MMI geladen.	Vermijd speciale tekens in namen.
+Vermijd het gebruik van contactgroepen op uw mobiele telefoon.
+Let op aanvragen op uw mobiele telefoon bij het tot stand brengen van de Bluetooth-verbinding.
+Sommige telefoonfuncties zijn grijs resp. niet beschikbaar.	De telefoonfuncties zijn afhankelijk van de provider en de gebruikte mobiele telefoon en het besturingssysteem ervan.
+Sommige telefoonfuncties zijn grijs resp. niet beschikbaar, hoewel de mobiele telefoon deze ondersteunt.	Controleer of de Bluetooth-instellingen van uw mobiele telefoon beperkt resp. of afzonderlijke Bluetooth-instellingen gedeactiveerd zijn. Dit kan bij bedrijfstelefoons het geval zijn.
+Sms-berichten worden niet in de MMI weergegeven.	Controleer of aan de voorwaarden voor het gebruik van de sms-functie is voldaan.
+Het draadloos laden van uw mobiele telefoon werkt niet resp. wordt onderbroken.	Controleer of het draadloos laden van het telefoonopbergvak ingeschakeld is.
+Controleer of uw mobiele telefoon geschikt is voor Qi.
+Controleer of uw mobiele telefoon correct met de achterzijde op het laadsymbool ligt en er geen andere voorwerpen tussen liggen.

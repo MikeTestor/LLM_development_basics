@@ -1,0 +1,20 @@
+Hulpsystemen
+Verdere hulpsystemen
+Gevareninformatie
+Gevareninformatie gebruiken
+Gevareninformatie
+Gevareninformatie gebruiken
+De gevareninformatie wordt in het instrumentenpaneel, op het centrale beeldscherm en eventueel op het head-updisplay weergegeven.
+Voorwaarde: de MMI is met internet verbonden.
+Gevareninformatie in het instrumentenpaneel
+Afhankelijk van de ontvangen gevareninformatie wordt gedurende enkele seconden een waarschuwing in het instrumentenpaneel weergegeven.
+Om de waarschuwing te verbergen, drukt u op het linkerwieltje op het multifunctiestuurwiel.
+Gevareninformatie op het head-updisplay
+Voorwaarde: de gevareninformatie is als weergave op het head-updisplay ingeschakeld Head-updisplay instellen.
+Afhankelijk van de ontvangen gevareninformatie wordt deze op het head-updisplay gedurende enkele seconden als waarschuwing weergegeven.
+Om de waarschuwing te verbergen, drukt u op het linkerwieltje op het multifunctiestuurwiel.
+Gevareninformatie op het centrale scherm
+Gevaarlijk punten door ongevallen, pechgevallen en slipgevaren worden op de kaart weergegeven.
+Kies:  > Navigatie.
+Druk op het overeenkomstige waarschuwingssymbool op de kaart om het gedetailleerde aanzicht van de gevareninformatie weer te geven.
+VOORZICHTIG

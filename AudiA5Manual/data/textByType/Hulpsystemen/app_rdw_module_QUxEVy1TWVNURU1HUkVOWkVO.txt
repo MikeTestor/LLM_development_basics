@@ -1,0 +1,17 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Waarschuwing voor verlaten rijstrook
+Systeemgrenzen en beperkingen van de waarschuwing voor verlaten rijstrook
+Waarschuwing voor verlaten rijstrook
+Systeemgrenzen en beperkingen van de waarschuwing voor verlaten rijstrook
+Als het systeem een eenduidige inhaalsituatie herkent, vinden er geen corrigerende stuuringrepen of stuurwieltrillingen plaats.
+Als  brandt, is de waarschuwing voor verlaten rijstrook ingeschakeld, maar niet waarschuwingsklaar. Dit kan vanwege de volgende systeemgrenzen of voorvallen optreden:
+Het systeem werkt vanaf een snelheid van ca. 65 km/h 1) en is bij zeer hoge snelheden niet beschikbaar.
+De noodzakelijke rijstrookbegrenzingen kunnen niet worden herkend, bv. bij wegwerkzaamheden, door sneeuw, vuil, regen of tegenlicht.
+De rijstrook is te smal of te breed.
+De bocht is te scherp.
+De bergtop of de daling is te onoverzichtelijk.
+Het knipperlicht werd ingeschakeld.
+De ESC is beperkt of uitgeschakeld.
+ATTENTIE
+1)Afhankelijk van het land 55 km/h

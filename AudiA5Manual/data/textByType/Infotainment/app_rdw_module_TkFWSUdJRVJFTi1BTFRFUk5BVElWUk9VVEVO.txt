@@ -1,0 +1,9 @@
+Infotainment
+Navigatie
+Functies bij een actieve routegeleiding gebruiken
+Alternatieve routes gebruiken
+Functies bij een actieve routegeleiding gebruiken
+Alternatieve routes gebruiken
+Als de alternatieve routes in het menu Kaartinhoud Menu 'Kaartinhoud' openen zijn ingeschakeld, worden behalve de berekende route ook 2 alternatieve routes op de kaart weergegeven. Bij de alternatieve routes wordt het tijdsverschil met de actueel gekozen route weergegeven.
+Druk op een route op de kaart. Het informatievenster voor de overeenkomstige routes met de gegeven afstand tot het reisdoel en de berekende aankomsttijd wordt weergegeven. Afhankelijk van het land worden tolbedragen weergegeven.
+Kies de route van uw voorkeur en druk op Start. De routegeleiding wordt bijgewerkt.

@@ -1,0 +1,9 @@
+Weergave en bediening
+Instrumentenpaneel
+Beschrijving van de weergaven
+Schakelindicatormeter
+Beschrijving van de weergaven
+Schakelindicatormeter
+De schakelindicatormeter wijst op het bereiken van de toerentalgrens.
+Stel de modus dynamic+ in.
+De schakelindicatormeter wordt in de hogere gebieden van de toerenteller door gele, oranje en rode gebieden weergegeven. Als toerentallen dicht bij de toerentalbegrenzing komen, knippert de schakelindicatormeter rood. Schakel tijdig op naar de volgende versnelling.

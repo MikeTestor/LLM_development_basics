@@ -1,0 +1,54 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Gewichten
+Voertuiggegevens
+Gewichten
+Dakbelasting
+Geldt voor auto's met dakdragerbevestigingspunten
+De maximaal toegestane dakbelasting bedraagt 90 kg.
+Leeggewicht, totaalgewicht, asbelastingen
+Het leeggewicht inclusief het gewicht van de bestuurder (75 kg) is bepaald conform verordening (EU) 1230/2012. Door meeruitvoeringen kan het leeggewicht hoger worden, waardoor de mogelijke belading overeenkomstig afneemt.
+In de volgende tabellen zijn de waarden in kg aangegeven.
+	Leeggewicht	Maximaal toegestaan gewicht	Toegestane voorasbelasting	Toegestane achterasbelasting
+A5 Avant TFSI 110 kW	1785	2315	1195	1220
+A5 Avant TFSI 150 kW	1785	2315	1195	1220
+A5 Avant TFSI quattro 150 kW	1840	2375	1200	1260
+A5 Avant TDI 150 kW	1910	2430	1235	1290
+A5 Avant TDI quattro 150 kW	1975	2490	1245	1335
+A5 Avant TFSI quattro 200 kW	1925	2460	1240	1320
+A5 Avant e-hybrid quattro 220 kW	2160	2655	1245	1495
+A5 Avant e-hybrid quattro 270 kW	2185	2665	1245	1500
+A5 Limousine TFSI 110 kW	1770	2295	1195	1200
+A5 Limousine TFSI 150 kW	1770	2295	1195	1200
+A5 Limousine TFSI quattro 150 kW	1825	2355	1200	1240
+A5 Limousine TDI 150 kW	1895	2410	1235	1270
+A5 Limousine TDI quattro 150 kW	1960	2470	1245	1315
+A5 Limousine TFSI quattro 200 kW	1910	2440	1240	1300
+A5 Limousine e-hybrid quattro 220 kW	2145	2635	1245	1475
+A5 Limousine e-hybrid quattro 270 kW	2170	2645	1245	1485
+S5 Avant TFSI	2040	2520	1275	1340
+S5 Limousine TFSI	2025	2500	1275	1320
+Aanhangwagengewichten
+De maximaal toegestane kogeldruk van de aanhangwagendissel op de kogelkop van het trekhaaksysteem bedraagt 80 kg.
+In de volgende tabellen zijn de waarden in kg aangegeven.
+	Achterasbelasting bij aanhangwagengebruik	Aanhangwagen
+ongeremd	geremd bij helling tot 8%	geremd bij helling tot 12%
+A5 Avant TFSI 110 kW	1300	750	1700	1500
+A5 Avant TFSI 150 kW	1300	750	1700	1500
+A5 Avant TFSI quattro 150 kW	1340	750	1900	1700
+A5 Avant TDI 150 kW	1370	750	1900	1700
+A5 Avant TDI quattro 150 kW	1415	750	2000	1800
+A5 Avant TFSI quattro 200 kW	1400	750	1900	1700
+A5 Avant e-hybrid quattro 220 kW	1575	750	1900	1700
+A5 Avant e-hybrid quattro 270 kW	1580	750	1900	1700
+A5 Limousine TFSI 110 kW	1280	750	1700	1500
+A5 Limousine TFSI 150 kW	1280	750	1700	1500
+A5 Limousine TFSI quattro 150 kW	1320	750	1900	1700
+A5 Limousine TDI 150 kW	1350	750	1900	1700
+A5 Limousine TDI quattro 150 kW	1395	750	2000	1800
+A5 Limousine TFSI quattro 200 kW	1380	750	1900	1700
+A5 Limousine e-hybrid quattro 220 kW	1555	750	1900	1700
+A5 Limousine e-hybrid quattro 270 kW	1565	750	1900	1700
+S5 Avant TFSI	1420	750	2100	1900
+S5 Limousine TFSI	1400	750	2100	1900

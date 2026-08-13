@@ -1,0 +1,12 @@
+Infotainment
+Entertainment in het interieur
+Gamecontroller gebruiken
+Gamecontroller draadloos verbinden
+Gamecontroller gebruiken
+Gamecontroller draadloos verbinden
+Voorwaarde: de auto staat stil en is ingeschakeld. Het menu Verbindingsmanager wordt getoond Menu 'Verbindingsmanager' openen.
+Zorg ervoor dat de gamecontroller in de Bluetooth-verbindingsmodus is.
+Om uw gamecontroller te verbinden, drukt u op Nieuw apparaat toevoegen.
+Druk op de gamecontroller uit de lijst met beschikbare Bluetooth-apparaten.
+Kies het beeldscherm, waarmee u de gamecontroller wilt gebruiken.
+Na een succesvolle verbinding wordt de gamecontroller in het menu Verbindingsmanager weergegeven.

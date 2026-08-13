@@ -1,0 +1,10 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+Radiotekst gebruiken
+Radiofuncties gebruiken
+Radiotekst gebruiken
+In de radiotekst wordt programmabegeleidende informatie (bv. algemene informatie, artiest, componist, titel) weergegeven.
+Voorwaarde: de gekozen radiozender ondersteunt de functie radiotekst.
+Radiotekst openen
+Kies:  > Radio > een zenderlijst (bv. FM) > een zender > .

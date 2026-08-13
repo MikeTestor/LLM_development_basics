@@ -1,0 +1,10 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Service-intervalindicatie
+Service-intervalindicatie bedienen
+Service-intervalindicatie
+Service-intervalindicatie bedienen
+U kunt de resterende afstand resp. tijd tot de volgende Olieservice en de volgende Inspectie in het menu Wagen opvragen Menu 'Wagen' openen.
+Bij nieuwe auto's is het afvragen van het service-interval pas na 500 km mogelijk.
+Geldt voor auto's met variabele Olieservice
+Nadat er een Olieservice door een specialist is uitgevoerd, wordt het service-interval gereset. De resterende afstand wordt op basis van uw persoonlijke rijstijl berekend. Veel koude starts of veel rijden van korte afstanden belasten de motorolie in hoge mate en leiden ertoe dat de olie vaker moet worden ververst.

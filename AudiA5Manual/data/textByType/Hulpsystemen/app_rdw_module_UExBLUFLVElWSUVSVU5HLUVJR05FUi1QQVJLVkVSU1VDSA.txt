@@ -1,0 +1,18 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+Ingereden gemeten parkeerruimte aan ondersteunend parkeersysteem overdragen
+Ondersteunende parkeersystemen
+Ingereden gemeten parkeerruimte aan ondersteunend parkeersysteem overdragen
+Centraal beeldscherm: Weergave van een ingereden parkeerruimte
+Voorwaarde: de parkeerruimte moet door de auto zijn opgemeten. Hiervoor moet u ver genoeg voorbij de parkeerruimte zijn gereden.
+Als u de parkeerruimte zelfstandig achteruit bent ingereden en de auto ver genoeg in de parkeerruimte staat, kan het systeem de resterende inparkeerhandeling ondersteund voortzetten:
+Rem de auto zo nodig af tot stilstand.
+Druk op de knop  in de middenconsole.
+Om het parkeren met ondersteuning te activeren, drukt u bij geactiveerde parkeerhulp op  
+1
+ op het centrale beeldscherm. Op het centrale beeldscherm verschijnt een visualisatie van uw parkeerruimte 
+2
+ en een bijbehorende aanwijzing voor de bestuurder.
+Om de inparkeerhandeling met ondersteuning te starten, neemt u de handen van het stuurwiel en drukt u op Start op het centrale beeldscherm.
+Inparkeren met ondersteuning Inparkeren met ondersteuning.
+ATTENTIE

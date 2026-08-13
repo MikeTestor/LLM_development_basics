@@ -1,0 +1,19 @@
+Starten en rijden
+Hoogvoltsysteem
+Hoogvoltaccu laden
+Informatie over de laadduur
+Hoogvoltaccu laden
+Informatie over de laadduur
+De duur van de laadsessie kan door de volgende factoren variëren:
+Gebruikt stopcontact (huishoudelijk of industrieel stopcontact).
+Belasting van de laadinfrastructuur.
+Landspecifieke netspanning, stroomsterkte en aantal ter beschikking staande fasen.
+Netaansluitkabel van de huisaansluiting.
+Ingestelde laadstroombegrenzing in de laadinstellingen van de auto of op de bedieningseenheid van het Audi-laadsysteem.
+Schommelingen in de netspanning.
+Omgevingstemperatuur waarin de auto zich bevindt.
+Temperatuur van de hoogvoltaccu en van de bedieningseenheid van het Audi-laadsysteem.
+Verouderingstoestand van de hoogvoltaccu.
+Instellingen voor de klimatisering van de temperatuur in het interieur.
+Maximale stroomsterkte van de laadstekker.
+Auto in-/uitgeschakeld.

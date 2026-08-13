@@ -1,0 +1,8 @@
+Infotainment
+Navigatie
+Systeemgrenzen van de navigatie
+Navigatie
+Systeemgrenzen van de navigatie
+Het navigatiesysteem kent systeemgrenzen. In bepaalde situaties is het mogelijk dat de navigatie tijdelijk niet goed werkt.
+Sneeuw en voorwerpen op de gps-antenne of bomen en hoge gebouwen in de buurt van de auto kunnen de satellietontvangst hinderen en de bepaling van de positie van uw auto beïnvloeden. Ook het uitschakelen of uitvallen van een of meerdere satellieten kan tot storing leiden in de gps-ontvangst.
+Het stratenplan is voortdurend onderhevig aan veranderingen, bv. nieuwe straten, wegwerkzaamheden, wegafsluitingen, veranderingen van straatnamen en huisnummers. Als de navigatiegegevens verouderd zijn, kunnen er fouten of onnauwkeurigheden optreden tijdens de routegeleiding.

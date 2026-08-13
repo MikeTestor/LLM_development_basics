@@ -1,0 +1,8 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Ondersteunde rijstrookwissel
+Overnameopdracht besturing van de ondersteunde rijstrookwissel
+Ondersteunde rijstrookwissel
+Overnameopdracht besturing van de ondersteunde rijstrookwissel
+Als de weergave  resp.  en een overeenkomstige aanwijzing voor de bestuurder verschijnen, neem dan direct actief de besturing over. De ondersteunde rijstrookwissel werd automatisch resp. handmatig afgebroken.
+ATTENTIE

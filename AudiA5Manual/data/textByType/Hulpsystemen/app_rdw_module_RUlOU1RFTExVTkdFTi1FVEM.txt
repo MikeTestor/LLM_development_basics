@@ -1,0 +1,10 @@
+Hulpsystemen
+Verdere hulpsystemen
+Elektronisch tolheffingsysteem (ETC)
+Elektronisch tolheffingsysteem (ETC) instellen
+Elektronisch tolheffingsysteem (ETC)
+Elektronisch tolheffingsysteem (ETC) instellen
+U kunt bepaalde functies van het ETC in- en uitschakelen.
+Kies:  > ETC > Settings.
+Probe data upload
+U kunt het verzenden van voertuig- en positiegegevens die voor het toewijzen van kortingen op de tolbedragen nodig zijn, in- en uitschakelen. Het inschakelen van deze functie wordt nadrukkelijk geadviseerd.

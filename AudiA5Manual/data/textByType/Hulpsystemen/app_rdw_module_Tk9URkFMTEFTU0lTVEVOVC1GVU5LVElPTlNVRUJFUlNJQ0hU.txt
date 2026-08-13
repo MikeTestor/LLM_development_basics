@@ -1,0 +1,34 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Noodgevalassistent
+Maatregelen en beschikbaarheid van de noodgevalassistent
+Noodgevalassistent
+Maatregelen en beschikbaarheid van de noodgevalassistent
+Maatregelen van de noodgevalassistent
+De auto kan binnen de grenzen van het systeem ingrijpen. Afhankelijk van de herkende gevaarlijke situatie en de voertuiguitrusting worden onder bepaalde omstandigheden niet alle maatregelen getroffen. Bepaalde maatregelen kunnen zo nodig worden aangepast of overgeslagen. De volgende maatregelen kunnen stapsgewijs worden getroffen:
+Optische en akoestische waarschuwingen
+Ondersteunende voertuiggeleiding door afstandsregeling en rijstrookgeleiding.
+Stapsgewijze verlaging van de rijsnelheid
+Infotainmentvolume verlagen
+Gordelschokken
+Remschokken
+De alarmlichten worden geactiveerd
+Beschermingsmaatregelen van de proactieve inzittendenbescherming worden geactiveerd
+De auto wordt tot stilstand afgeremd
+De claxon wordt herhaald bediend
+Zodra de auto tot stilstand is gekomen, wordt de parkeerrem vastgezet, wordt rijstand P ingeschakeld, worden de portieren ontgrendeld en wordt de binnenverlichting ingeschakeld. Na enkele seconden in stilstand wordt eventueel de noodoproep 1) gestart.
+Beschikbaarheid van de noodgevalassistent
+De ingeschakelde noodgevalassistent is bij actieve rijstrookgeleiding onafhankelijk van de snelheid automatisch beschikbaar.
+Als de rijstrookgeleiding niet actief is, is de noodgevalassistent vanaf een snelheid van ca. 65 km/h beschikbaar.
+Bij ingeschakelde vermoeidheidswaarschuwing 1) en best besch camera 1) is de noodgevalassistent bij lage snelheden beschikbaar.
+Systeemgrenzen
+De noodgevalassistent kan in de volgende situaties beperkt of niet beschikbaar zijn:
+Als niet meer wordt voldaan aan een voorwaarde voor de dynamische snelheidsassistent, de rijstrookgeleiding of de waarschuwing voor verlaten rijstrook.
+Als de bestuurdersbeschikbaarheidscamera beperkt of niet beschikbaar is.
+Als de noodgevalassistent werd geactiveerd, is deze pas na korte tijd weer beschikbaar.
+Overzicht van de weergaven
+Bij herkende inactiviteit waarschuwt het systeem doordat weergave  met een bijbehorende aanwijzing voor de bestuurder verschijnt.
+De weergave  van de noodgevalassistent geeft aan dat de afstandsregeling en een remingreep actief zijn.
+De weergave  van de noodgevalassistent geeft aan dat de afstandsregeling, een remingreep en de rijstrookgeleiding actief zijn.
+ATTENTIE
+1)Deze functie is niet in alle landen en voertuiguitvoeringen beschikbaar.

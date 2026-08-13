@@ -1,0 +1,11 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Contacten als reisdoel kiezen
+Reisdoel ingeven
+Contacten als reisdoel kiezen
+U kunt het adres van een contact in uw mobiele telefoon als reisdoel kiezen.
+Voorwaarde: er is een mobiele telefoon met de MMI verbonden. Bij een contact is een adres beschikbaar.
+Open het visitekaartje van een contact.
+Druk op het opgeslagen adres om het adres in het zoekveld over te nemen.
+Druk in het zoekveld op het adres om de routegeleiding te starten.

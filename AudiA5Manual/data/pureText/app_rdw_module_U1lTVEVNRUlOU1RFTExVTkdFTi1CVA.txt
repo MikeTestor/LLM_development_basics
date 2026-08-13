@@ -1,0 +1,9 @@
+Infotainment
+Overige instellingen
+Systeeminstellingen
+Bluetooth-instellingen openen
+Systeeminstellingen
+Bluetooth-instellingen openen
+In het menu Bluetooth kunt u de Bluetooth-functies van de MMI in- of uitschakelen en individueel instellen.
+Kies:  > Instellingen > Verbindingen > Bluetooth.
+De voertuignaam voor de Bluetooth-verbinding en de voertuighotspot worden bij wijzigingen automatisch gesynchroniseerd.

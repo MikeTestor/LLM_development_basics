@@ -1,0 +1,26 @@
+Hulpsystemen
+Waarschuwingssystemen
+Uitstapwaarschuwing
+Uitstapwaarschuwing gebruiken
+Uitstapwaarschuwing
+Uitstapwaarschuwing gebruiken
+Herkend naderend verkeer
+Voorportier: Waarschuwingslijst
+Inleiding
+De uitstapwaarschuwing kan binnen de grenzen van het systeem van achteren naderend verkeer, bv. auto's of andere verkeersdeelnemers, herkennen en u bij het uitstappen waarschuwen zie. Het systeem gebruikt de data van de radarsensoren op de achterste hoeken van de auto.
+Weergave en waarschuwingen
+Als rijstand P is ingeschakeld en er een als gevaarlijk beoordeeld object nadert, branden de waarschuwingslijst 
+1
+ en het lampje in de buitenspiegel 
+2
+ aan de betreffende voertuigzijde. Gelijktijdig wordt het openen van het portier zo nodig enigszins vertraagd.
+Als het portier wordt geopend, knipperen de indicaties aan de betreffende voertuigzijde en klinkt er een waarschuwingsgeluid. Als bij een al geopend portier een andere als gevaarlijk beoordeelde verkeersdeelnemer nadert, knipperen de indicaties en klinkt er een waarschuwingsgeluid. Daarna branden de indicaties permanent tot de gevaarlijke situatie voorbij is.
+Uitstapwaarschuwing in- en uitschakelen
+U kunt de uitstapwaarschuwing afhankelijk van de uitrusting in het menu Hulpsystemen  of in het menu Parkeerhulp in- en uitschakelen Menu 'Hulpsystemen' openen.
+U kunt het waarschuwingsgeluid van de uitstapwaarschuwing afhankelijk van de uitrusting in het menu Hulpsystemen  of in het menu Parkeerhulp in- en uitschakelen Menu 'Hulpsystemen' openen.
+Aanwijzingen voor de uitstapwaarschuwing
+De uitstapwaarschuwing kan na het ontgrendelen van de auto en openen van het portier én na het uitschakelen van de auto gedurende ca. 3 minuten ter beschikking staan. Aansluitend schakelt het systeem zichzelf met een kort oplichten van de indicaties uit.
+Elke keer dat de uitstapwaarschuwing wordt ingeschakeld, wordt door kort oplichten van de indicaties aangegeven dat het systeem is geactiveerd.
+Bij aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat het systeem uitgeschakeld wordt. Gebruik de functies niet bij het rijden met aanhangwagen.
+Het detectiegebied van de sensoren zie is een principeafbeelding en is geen maatgetrouwe weergave van de reikwijdte van de sensoren.
+ATTENTIE

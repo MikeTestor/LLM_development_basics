@@ -1,0 +1,17 @@
+Weergave en bediening
+Audi assistant
+Functies en bediening
+Routines en proactieve voorstellen gebruiken
+Functies en bediening
+Routines en proactieve voorstellen gebruiken
+Voorwaarde: u bent met een myAudi gebruiker in de auto aangemeld.
+ Routines
+Als bij bepaalde bedieningen en handelingen een terugkerend patroon wordt herkend, kan de Audi assistant een routine aanbevelen. Een opgeslagen routine wordt automatisch uitgevoerd als aan de voorwaarden voor de routine is voldaan. Zo kan bij een bepaalde buitentemperatuur de airconditioning automatisch worden ingeschakeld. Routines kunnen onder bepaalde omstandigheden niet worden uitgevoerd of worden verleerd.
+U kunt de automatisch aangemaakte routines in het menu Audi assistant in- en uitschakelen of wissen Menu 'Audi assistant' openen. U kunt een uitgevoerde routine annuleren door de functie uit te schakelen of door Hey Audi, routine annuleren te zeggen. Het annuleren via een spraakcommando is maar korte tijd na het uitvoeren van een routine mogelijk.
+ Proactieve voorstellen
+Als bepaalde functies niet worden gebruikt, kan de Audi assistant situatief het gebruik van een functie voorstellen.
+Foutmeldingen die optreden bij interacties met proactieve voorstellen worden alleen akoestisch gegeven.
+Routines en proactieve voorstellen in- en uitschakelen
+U kunt routines en proactieve voorstellen in het menu Audi assistant in- en uitschakelen of evt. wissen Menu 'Audi assistant' openen.
+Systeembeperking
+Bij een onnauwkeurige gps-positie kunnen routines en proactieve voorstellen beperkt zijn.

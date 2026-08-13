@@ -1,0 +1,31 @@
+Starten en rijden
+Warm en koud
+Voorklimatisering
+Voorklimatisering bedienen
+Voorklimatisering
+Voorklimatisering bedienen
+Kies:  > Interieurvoorklimatisering.
+Vertrektijden
+Om de timer juist te laten functioneren, moet u nagaan of de tijd en de datum in de systeeminstellingen kloppen Systeem en taal instellen.
+U kunt maximaal vijf timers voor de vertrektijd instellen om naar keuze te klimatiseren en/of te laden.
+Met een vertrektijd legt u vast, wanneer uw auto de laatst ingestelde temperatuur moet hebben bereikt. De vertrektijd kan maximaal zes dagen in de toekomst liggen. De voorklimatisering blijft na het bereiken van de vertrektijd nog enkele minuten werken.
+Kies Vertrektijden.
+Kies Nieuwe vertrektijd toevoegen.
+Stel de actuele tijd en de dag in.
+Kies Herhalen om een standaardtimer in te stellen.
+Kies Klimatiseren en/of Laden.
+Kies Instelling opslaan.
+De voorklimatisering wordt niet opnieuw uitgevoerd als de auto tweemaal opeenvolgend op de ingestelde tijden niet was ingeschakeld.
+Ook bij een ingestelde vertrektijd kan de voorklimatisering direct worden in- of uitgeschakeld.
+Comfort
+Met deze modus wordt het interieur opgewarmd of gekoeld. De ruiten worden van aanslag ontdaan.
+Eco
+Met deze modus bespaart u energie. Door de energiebesparing neemt het klimaatcomfort af. De ruiten worden van aanslag ontdaan.
+ Interieurvoorklimatisering - Zoneselectie
+Geldt voor auto's met comfort-voorklimatisering
+Hier kiest u de zones waarin de uitgebreide comfortfuncties zoals bv. afhankelijk van de uitrusting de stoelverwarmingen resp. stoelventilaties automatisch inschakelen. Afhankelijk van de uitrusting worden de ruitverwarmingen en de verwarmbare buitenspiegels ingeschakeld. Het inschakelen gebeurt afhankelijk van de omgevingstemperaturen.
+ Interieurvoorklim. Direct starten
+In het vertrekoverzicht en in het voorklimatiseringsmenu kunt u met deze functie de voorklimatisering direct in- of uitschakelen.
+Na de directe start werkt de voorklimatisering maximaal 30 minuten.
+Aanwijzing voor het klimatiseringsvermogen bij het laden
+Afhankelijk van de ladingstoestand van de accu en het laadvermogen kunnen zich beperkingen van de klimatisering of een afname van de ladingstoestand voordoen.

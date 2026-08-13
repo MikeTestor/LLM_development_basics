@@ -1,0 +1,13 @@
+Infotainment
+Noodoproep
+Noodoproepsystemen
+telefoonnummer bij een noodoproep versturen
+Noodoproepsystemen
+telefoonnummer bij een noodoproep versturen
+In geval van een noodoproep kan uw telefoonnummer 1) naar een landelijke alarmcentrale of de alarmcentrale van de politie worden gestuurd om een zo snel mogelijke hulpverlening mogelijk te maken.
+Kies:  > Instellingen > Verbindingen > Verbindingsmanager > .
+Schakel de functie Telefoonnr. bij noodoproep verz. in.
+Om het telefoonnummer op te slaan of te wijzigen, drukt u op Nr. noodoproep invoeren of Nummer noodopr. wijzigen.
+Geef het telefoonnummer in het internationale formaat in.
+De functie moet voor elke verbonden mobiele telefoon apart worden ingeschakeld.
+1)Een compatibiliteit kan niet voor alle soorten telefoons/simkaarten worden gegarandeerd. Het telefoonnummer kan daardoor niet altijd worden uitgelezen en de incompatibiliteit wordt niet aangegeven.

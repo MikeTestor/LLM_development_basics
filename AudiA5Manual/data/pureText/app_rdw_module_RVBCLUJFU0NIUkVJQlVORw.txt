@@ -1,0 +1,24 @@
+Starten en rijden
+Rijden
+Parkeerrem
+Parkeerrem bedienen
+Parkeerrem
+Parkeerrem bedienen
+Parkeerrem met de knop sluiten
+Druk op de toets . De parkeerrem wordt vastgezet. Rijstand P (parkeervergrendeling) wordt ingeschakeld.
+Als  verschijnt, houdt de parkeerrem de auto vast. U kunt de voet van het rempedaal halen.
+Als het rode controlelampje knippert, is de remkracht niet voldoende opgebouwd. Beveilig uw auto bij het stilzetten extra tegen wegrollen.
+Parkeerrem in de MMI vastzetten/loszetten
+U kunt de parkeerrem onafhankelijk van rijstand P (parkeervergrendeling) handmatig vast- en loszetten.
+Kies:  > Wagen > Meer > Remmen > Elektronische parkeerrem.
+Zet de parkeerrem niet handmatig los bij het parkeren op hellingen of met een grote belading om geluiden bij het wegrijden te voorkomen.
+Ervoor zorgen dat de auto kan rollen (neutrale stand)
+Als de parkeerrem niet automatisch vastgezet moet worden, bv. in een autowasstraat, handel dan als volgt:
+Voorwaarde: de auto staat stil, de auto is ingeschakeld, het rempedaal wordt ingetrapt, rijstand N wordt gekozen.
+Bevestig de aanwijzing in de MMI, of
+Kies:  > Wagen > Meer > Remmen > Rolvaardigheid > Auto na uitstappen rolbaar maken.
+Als u de auto verlaat, kan deze nog steeds rollen.
+Om de auto weer tegen wegrollen te beveiligen, drukt u op de knop .
+Om de aanwijzing bij het inschakelen van rijstand N in of uit te schakelen, kiest u:  > Wagen > Meer > Remmen > Rolvaardigheid > Pop-up in Rijstand N weergeven.
+ATTENTIE
+VOORZICHTIG

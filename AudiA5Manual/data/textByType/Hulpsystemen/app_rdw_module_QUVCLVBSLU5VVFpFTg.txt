@@ -1,0 +1,31 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Noodremassistent achter
+Noodremassistent achter gebruiken
+Noodremassistent achter
+Noodremassistent achter gebruiken 1)
+Activeren
+Schakel bij gestarte auto de achteruitversnelling in. Het systeem activeert automatisch.
+Automatische remingreep
+Als een obstakel wordt herkend, kan er een automatische remingreep plaatsvinden om een eventuele botsing te voorkomen of de botssnelheid te verlagen. De ingreep wordt in het instrumentenpaneel en op het centrale beeldscherm weergegeven. De weergave  verschijnt. Neem direct actief de rem over!
+De automatische remingreep kan worden overruled door het gaspedaal kort krachtig in te trappen. Na het overrulen is het systeem enkele seconden lang niet meer actief.
+Tijdelijk deactiveren
+Om alle ingrepen/waarschuwingen tijdelijk te deactiveren, op  
+2
+ zie in het centrale beeldscherm drukken en de deactivering bevestigen.
+Het symbool  wordt weergegeven.
+Een tijdelijk gedeactiveerde automatische remingreep wordt automatisch weer geactiveerd zodra de auto een bepaalde snelheid heeft bereikt of als de achteruitversnelling wordt ingeschakeld.
+Noodremassistent achter uit- en inschakelen
+U kunt de noodremassistent achter in het menu Parkeerhulp in- en uitschakelen Menu 'Parkeerhulp' openen.
+Systeemgrenzen
+Het systeem is bij het rijden in de achteruitversnelling tot ca. 10 km/h beschikbaar.
+Het systeem kan alleen op voetgangers reageren.
+Bij zeer lage snelheden is het systeem niet beschikbaar.
+De auto moet al een korte afstand achteruit hebben gereden voordat het systeem kan ingrijpen.
+Na een automatische remingreep kunnen in sommige gevallen verdere ingrepen pas plaatsvinden nadat de auto enkele meters achteruit heeft gereden.
+Functies van het systeem zijn mogelijk niet beschikbaar als de ESC beperkt of uitgeschakeld is resp. als er sprake is van een storing.
+Bij herkend aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de functies worden uitgeschakeld. Gebruik de functies niet bij het rijden met aanhangwagen.
+Bij geopende bagageruimteklep is het systeem niet beschikbaar.
+Bij de reiniging van de camera is het systeem niet beschikbaar.
+ATTENTIE
+1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

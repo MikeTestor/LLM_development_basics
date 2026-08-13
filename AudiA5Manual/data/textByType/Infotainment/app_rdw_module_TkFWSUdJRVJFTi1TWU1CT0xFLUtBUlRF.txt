@@ -1,0 +1,18 @@
+Infotainment
+Navigatie
+Overzicht van de symbolen van de navigatie
+Navigatie
+Overzicht van de symbolen van de navigatie
+Afhankelijk van het land en de voertuiguitrusting kunnen de volgende symbolen in de MMI beschikbaar zijn:
+Symbool	Beschrijving
+	Reisdoel zoeken en voor de routegeleiding kiezen.
+ / 	Thuis- en werkadres vastleggen of bewerken.
+	Laatste reisdoelen.
+	Reisdoelinformatie (bv. rijtijd en afstand tot reisdoel) resp. reisdoelmarkering in de kaart.
+	Routegeleiding annuleren.
+ / 	Navigatiemelding in- en uitschakelen. U kunt de navigatiemeldingen en het volume van de meldingen in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen instellen. Tijdens een navigatiemelding kunt u het volume wijzigen Audio- en systeemvolume instellen.
+	Kaartoriëntatie instellen: u kunt wisselen tussen de 2D-navigatiekaart, 2D-noordkaart en 3D-navigatiekaart.
+ / 	Kaart vergroten of verkleinen.
+ / AUTO / M	Kaartschaal instellen: u kunt wisselen tussen de overzichtskaart, automatische zoom en handmatige zoom.
+	Kaart op de actuele voertuigpositie centreren.
+	Actuele voertuigpositie.

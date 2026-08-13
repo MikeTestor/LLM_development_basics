@@ -1,0 +1,16 @@
+Infotainment
+Audi connect
+Internet in de auto gebruiken
+Auto met een wifihotspot verbinden
+Internet in de auto gebruiken
+Auto met een wifihotspot verbinden
+U kunt de auto via wifi met een wifihotspot verbinden.
+Voorwaarde: de auto is ingeschakeld.
+Schakel zo nodig de functie Wifihotspot (tethering) resp. Persoonlijke hotspot van uw mobiele apparaat in.
+Kies:  > Instellingen > Verbindingen > WLAN.
+Schakel de functie WLAN in.
+Druk op de gewenste wifihotspot uit de lijst met beschikbare netwerken.
+Volg de aanwijzingen van het systeem op.
+De auto is succesvol via wifi met een wifihotspot verbonden.
+ATTENTIE
+VOORZICHTIG

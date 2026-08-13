@@ -1,0 +1,9 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+Online-zenderinformatie gebruiken
+Radiofuncties gebruiken
+Online-zenderinformatie gebruiken
+Voorwaarde: de MMI is met internet verbonden.
+Als de online-zenderinformatie in het Radio instellingenmenu is ingeschakeld Instellingenmenu 'Radio' openen, worden zenderlogo's ontvangen en weergegeven.
+VOORZICHTIG

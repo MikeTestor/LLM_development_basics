@@ -1,0 +1,15 @@
+Hulpsystemen
+Verdere hulpsystemen
+Elektronisch tolheffingsysteem (ETC)
+Ingebruikname
+Elektronisch tolheffingsysteem (ETC)
+Ingebruikname
+Registratie
+Het ETC wordt in het kader van de voertuigaflevering door uw specialist geregistreerd.
+U kunt de voor de registratie benodigde gegevens laten weergeven.
+Kies:  > ETC > Hardware informatie.
+Bij een wissel van kentekenplaat moet het ETC opnieuw worden geregistreerd.
+Activeren/deactiveren
+De ETC-kaartlezer zit in het dashboardkastje.
+Om het ETC te activeren, voert u de ETC-kaart met de chip naar voren in de opening van de ETC-kaartlezer in. Als de gegevens correct zijn ingelezen, verschijnt het in de statusregel van het centrale beeldscherm.
+Om het ETC te deactiveren, drukt u op de eject-knop van de kaartlezer en verwijdert u de ETC-kaart. Er verschijnt  in de statusregel van het centrale beeldscherm.

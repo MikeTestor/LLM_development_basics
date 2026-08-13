@@ -1,0 +1,18 @@
+Starten en rijden
+Rijdynamiek
+Elektronische stabiliseringscontrole
+Elektronische stabiliseringscontrole (ESC)
+Elektronische stabiliseringscontrole
+Elektronische stabiliseringscontrole (ESC)
+De knop  (modelafhankelijk ) voor de bediening van de ESC zit in de middenconsole boven de keuzehendel. Bij het inschakelen van de auto wordt de ESC automatisch ingeschakeld.
+Bij beperkte resp. uitgeschakelde ESC of een storing in de ESC zijn systemen met automatische remingrepen mogelijk niet volledig beschikbaar.
+Als er sprake is van storingen in andere systemen of bepaalde bestuurdershulpsystemen actief zijn, moet de ESC om systeemredenen ingeschakeld zijn. De ESC wordt zo nodig automatisch ingeschakeld en kan niet via de knop worden bediend.
+ESC beperken
+In sommige situaties kan het zinvol zijn de stabiliseringsfuncties van de ESC te beperken zodat de wielen kunnen doordraaien – bijvoorbeeld voor het losschommelen bij een vastgereden auto of voor het rijden met sneeuwkettingen. Ook voor een sportievere rijstijl met minder stabiliserende regelingrepen kan de ESC beperkt worden.
+Om de ESC te beperken, drukt u de knop  kort in. Het controlelampje  brandt.
+Om de stabiliseringsfuncties van de ESC weer volledig te activeren, drukt u opnieuw op de knop. Het controlelampje gaat uit.
+ESC uitschakelen
+Voor een actievere controle over de auto waarbij de stabiliserende functies van de ESC niet ingrijpen, kan de ESC worden uitgeschakeld.
+Om de ESC uit te schakelen, drukt u de knop  langer dan 3 seconden in. De controlelampjes  en   branden.
+Om de stabiliseringsfuncties van de ESC weer volledig te activeren, drukt u opnieuw op de knop. De controlelampjes gaan uit.
+ATTENTIE

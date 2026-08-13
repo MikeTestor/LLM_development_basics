@@ -1,0 +1,25 @@
+Starten en rijden
+Personalisatie
+Gebruiker
+Gebruiker beheren
+Gebruiker
+Gebruiker beheren
+Gebruiker kiezen
+Druk op het centrale beeldscherm in de statusregel op het symbool van de actuele gebruiker. Alle gebruikers worden weergegeven.
+Druk op de gewenste gebruiker.
+Volg de aanwijzingen van het systeem op.
+Gebruiker toevoegen
+Druk op het centrale beeldscherm in de statusregel op het symbool van de actuele gebruiker. Alle gebruikers worden weergegeven.
+Druk op Gebr. toevoegen.
+Volg de aanwijzingen van het systeem op.
+Gebruiker bewerken
+Voorwaarde: de betreffende gebruiker is gekozen en zijn instellingen zijn geladen.
+Druk op het centrale beeldscherm in de statusregel op het symbool van de actuele gebruiker. Alle gebruikers worden weergegeven.
+Druk op de gebruiker wiens instellingen geladen zijn.
+U heeft afhankelijk van het gebruikerstype de volgende opties:
+Pincodebescherming wijzigen: gebruikers kunnen door middel van een pincode worden beschermd. Als er geen pincode is opgeslagen, kan iedereen in de auto de gebruiker kiezen.
+Gebruiker uit de wagen wissen: de gebruiker wordt alleen in de auto uit het gebruikersbeheer in de MMI gewist.
+Naam wijzigen: u kunt de naam van gebruikers wijzigen. De gast kan niet worden hernoemd.
+Gebruiker verwijderen
+Druk op het centrale beeldscherm in de statusregel op het symbool van de actuele gebruiker. Alle gebruikers worden weergegeven.
+Druk op de gewenste gebruiker en druk op .

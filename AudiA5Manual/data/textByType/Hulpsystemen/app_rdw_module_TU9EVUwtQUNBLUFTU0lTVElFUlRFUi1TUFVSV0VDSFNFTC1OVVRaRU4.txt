@@ -1,0 +1,51 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Ondersteunde rijstrookwissel
+Ondersteunde rijstrookwissel gebruiken
+Ondersteunde rijstrookwissel
+Ondersteunde rijstrookwissel gebruiken
+Instrumentenpaneel: Weergave van de ondersteunde rijstrookwissel
+Overzicht van de weergaven
+De rijsituatie en de beschikbaarheid aan de betreffende zijde worden in het instrumentenpaneel en op het head-updisplay weergegeven. De weergaven zijn afhankelijk van het land en de uitrusting.
+1
+ Grijze pijl - Het systeem heeft geen objecten in het detectiegebied van de sensoren herkend. De ondersteunde rijstrookwissel kan worden gestart.
+2
+ Groene pijl - De ondersteunde rijstrookwissel wordt uitgevoerd.
+3
+ Rode lijn – De ondersteunde rijstrookwissel werd afgebroken. Neem direct actief de besturing over.
+4
+ Verwacht traject van de actieve ondersteunde rijstrookwissel.
+ – De ondersteunde rijstrookwissel wordt uitgevoerd.
+/  – Neem direct actief de besturing over. De ondersteunde rijstrookwissel werd afgebroken.
+Voorwaarden
+De ondersteunde rijstrookwissel is in het menu Hulpsystemen  ingeschakeld Menu 'Hulpsystemen' openen.
+Bepaalde hulpsystemen moeten ingeschakeld zijn.
+De dynamische rijassistent regelt actief en de rijstrookgeleiding is ingeschakeld.
+Het navigatiesysteem heeft een snelweg of een op een snelweg lijkende weg herkend. Het kaartmateriaal van het navigatiesysteem moet regelmatig worden bijgewerkt.
+De omgeving van de auto is voldoende herkend door de omgevingsherkenning.
+Ondersteunde rijstrookwissel starten
+Als aan de voorwaarden is voldaan, wordt de beschikbaarheid van de ondersteunde rijstrookwissel automatisch met een pijl 
+1
+ in het instrumentenpaneel weergegeven.
+Om de ondersteunde rijstrookwissel te starten, bedient u de richtingaanwijzer in de gewenste richting zie.
+De weergave 
+2
+/
+4
+ verschijnt.
+Handmatig annuleren
+De ondersteunde rijstrookwissel kan op elk moment worden geannuleerd:
+Trap het rempedaal in, of
+Grijp in de besturing in, of
+Geef richting aan in tegengestelde richting.
+Automatisch afbreken
+De ondersteunde rijstrookwissel wordt onder andere automatisch onderbroken als
+de rijsnelheid te laag of te hoog wordt,
+een object is herkend of de rijstrook niet beschikbaar is,
+de dynamische rijassistent en de rijstrookgeleiding niet meer actief regelen,
+de alarmlichten worden ingeschakeld,
+niet langer aan de voorwaarden van het systeem wordt voldaan, bv. de omgevingsherkenning is onvoldoende.
+Systeemgrenzen
+Het systeem werkt vanaf een snelheid van ca. 65 km/h en is bij zeer hoge snelheden niet beschikbaar.
+Bij aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de systemen worden uitgeschakeld. Gebruik de functies niet bij het rijden met aanhangwagen.
+ATTENTIE

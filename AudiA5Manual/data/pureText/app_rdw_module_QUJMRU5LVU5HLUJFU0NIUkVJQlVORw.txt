@@ -1,0 +1,12 @@
+Hulpsystemen
+Waarschuwingssystemen
+Afleidingswaarschuwing
+Inleiding
+Afleidingswaarschuwing
+Inleiding
+De afleidingswaarschuwing waarschuwt binnen de systeemgrenzen als het systeem herkent dat de bestuurder afgeleid is van het verkeer.
+Het systeem registreert of u tijdens het rijden handelingen uitvoert die u van het verkeer afleiden, bv. het instellen van de elektrisch verstelbare buitenspiegel 1)
+Afhankelijk van het land herkent een bestuurderbeschikbaarheidscamera ook de kijk- en hoofdrichting tijdens het rijden.
+Als het systeem een geringe afleiding herkent, roept het u vanaf een lage snelheid middels een weergave in het instrumentenpaneel en bij een sterke afleiding daarnaast door een akoestisch signaal op tot concentratie op de verkeerssituatie.
+ATTENTIE
+1)Beschikbaarheid van de afleidingswaarschuwing is landspecifiek en afhankelijk van de softwareversie.

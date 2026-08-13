@@ -1,0 +1,33 @@
+Hulpsystemen
+Verdere hulpsystemen
+Laptimer
+Laptimer gebruiken
+Laptimer
+Laptimer gebruiken
+Laptimer openen
+De laptimer wordt in een van de linkertabbladen in het instrumentenpaneel weergegeven.
+Druk op het multifunctiestuurwiel zo vaak op de toets  /  tot de -inhoud wordt weergegeven.
+Draai op het multifunctiestuurwiel het linkerwieltje, tot Rondetijden wordt weergegeven.
+Om de keuze te bevestigen, drukt u op het linkermenuwieltje. Op het head-updisplay verschijnt een aanvullende weergave.
+Rondetijden meten
+Om de tijdmeting handmatig te starten, kiest u Ronde 1 starten.
+Om bij het wegrijden automatisch met de tijdmeting te starten, kiest u Ronde 1 met wegrijden of Start met wegrijden.
+Om na een gereden ronde een nieuwe rondetijd te meten, kiest u Nieuwe ronde. Hiermee wordt gelijktijdig de meting van de volgende ronde gestart.
+Nadat een ronde is afgesloten, wordt het verschil ten opzichte van de beste rondetijd tot nu toe met een  of + weergegeven. Er kunnen afwijkingen zijn in de door het systeem berekende verschiltijden door afronding.
+Tijdmeting onderbreken (pauze) en tussentijd weergeven
+Om een pauze  in te lassen, kiest u Pauze.
+Om de tijdmeting voort te zetten, kiest u Voortzetten.
+Om een tussentijd  weer te geven, kiest u Tussentijd. De actuele rondemeting loopt ondertussen door.
+Om de lopende rondemeting weer te tonen, kiest u Terug met OK.
+Rondetijden afbreken
+Kies Ronde afbreken. De rondetijd wordt gewist en niet in de statistieken opgenomen.
+Tijdmeting terugzetten
+Kies Rondetijden terugzetten.
+Laptimer verlaten
+Kies Terug, om de laptimer te verlaten.
+Rondestatistieken openen
+Voorwaarde: er zijn al 2 ronden opgenomen.
+Om de rondestatistieken te openen, kiest u Rondestatistieken.
+Het aantal gereden ronden , de snelste ronde +, de langzaamste ronde  en de gemiddelde tijd Ø worden weergeven.
+Om door de lijst met afzonderlijke rondetijden te scrollen, kiest u Alle ronden aangeven.
+Om de rondestatistiek te resetten, kiest u Statistieken terugzetten.

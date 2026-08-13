@@ -1,0 +1,14 @@
+Klantinformatie
+Technische gegevens
+Voertuiggegevens
+Vulhoeveelheden
+Voertuiggegevens
+Vulhoeveelheden
+	Benaderingsvulhoeveelheid (l)
+Brandstoftank 1)	46 / 56 / 60 2)
+AdBlue-tank 3)	20
+Ruitensproeiers	4,6 / 4,7 2)
+Ruiten-/koplampsproeiers	4,6 / 4,7 2)
+1)Reservebrandstof in de brandstoftank leidt ertoe dat bij het tanken de vulhoeveelheid geringer is.
+2)De waarden zijn afhankelijk van het land resp. de uitrusting.
+3)Bij het bijvullen met een navulfles kan de vulhoeveelheid technisch bepaald groter zijn. Bij koude klimatologische omstandigheden kan de vulhoeveelheid technisch bepaald kleiner zijn.

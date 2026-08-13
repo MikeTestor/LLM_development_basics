@@ -1,0 +1,12 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Dynamische snelheidsassistent
+Inleiding
+Dynamische snelheidsassistent
+Inleiding
+De dynamische snelheidsassistent ondersteunt u bij het rijden door binnen de grenzen van het systeem de rijsnelheid op de ingestelde snelheid te regelen. Als er een voorligger wordt herkend, kan de dynamische snelheidsassistent uw auto binnen de grenzen van het systeem afremmen, accelereren en de ingestelde afstand tot een voorligger zoveel mogelijk constant houden.
+Bij langzaam rijdend en stilstaand verkeer en in filesituaties kan tot stilstand worden geremd en daarna onder bepaalde voorwaarden weer automatisch worden weggereden.
+Afhankelijk van de uitrusting kan de vooruitziende snelheidsaanpassing de regelsnelheid aan gebeurtenissen aanpassen.
+Afhankelijk van de uitrusting kan de rijstrookgeleiding ondersteunen.
+Afhankelijk van de uitrusting kan de ondersteunde rijstrookwissel de auto naar een naastgelegen rijstrook laten wisselen.
+ATTENTIE

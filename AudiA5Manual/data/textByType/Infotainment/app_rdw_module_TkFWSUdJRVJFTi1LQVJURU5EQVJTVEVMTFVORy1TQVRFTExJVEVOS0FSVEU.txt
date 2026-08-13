@@ -1,0 +1,11 @@
+Infotainment
+Navigatie
+Kaartfuncties gebruiken
+Satellietkaart gebruiken
+Kaartfuncties gebruiken
+Satellietkaart gebruiken
+U kunt de navigatiekaart met satellietbeelden laten weergeven. De kaartweergave ontstaat door de ontvangst van datapakketten van internet in de vorm van satellietbeelden die met het wegennet uit de standaardkaartweergave worden gecombineerd.
+Voorwaarde: de MMI is met internet verbonden.
+U kunt de satellietkaart in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen in- en uitschakelen.
+De satellietkaart wordt bij het opvragen van de functie met regelmatige tussenpozen bijgewerkt. Dit kan enkele seconden duren. Afhankelijk van de internetverbinding kan bij ingeschakelde satellietkaart ook de standaardkaart worden getoond.
+VOORZICHTIG

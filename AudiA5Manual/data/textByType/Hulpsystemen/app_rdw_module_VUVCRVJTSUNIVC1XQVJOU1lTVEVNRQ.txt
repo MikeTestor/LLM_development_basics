@@ -1,0 +1,15 @@
+Hulpsystemen
+Algemene informatie over hulpsystemen
+Overzicht van de hulpsystemen
+Overzicht van de waarschuwingssystemen
+Overzicht van de hulpsystemen
+Overzicht van de waarschuwingssystemen
+Afhankelijk van het land en de uitrusting kunnen de volgende hulpsystemen in uw auto zijn ingebouwd:
+ De handmatige snelheidswaarschuwing waarschuwt bij overschrijding van een ingestelde snelheid Snelheidswaarschuwingssysteem.
+ De verkeerstekengebaseerde snelheidswaarschuwing waarschuwt bij overschrijding van een herkende snelheidsbeperking Verkeerstekenherkenning met camera.
+ De aanhangwagenspecifieke snelheidswaarschuwing laat aanhangwagenspecifieke snelheidsbeperkingen zien en houdt hiermee rekening Verkeerstekenherkenning instellen.
+ De afstandswaarschuwing waarschuwt bij een te geringe afstand tot de voorligger Afstandswaarschuwing.
+ De rijstrookwisselwaarschuwing waarschuwt bij een rijstrookwissel voor achteropkomend verkeer en voertuigen in de dode hoek via een lampje in de buitenspiegel Rijstrookwisselwaarschuwing.
+ De uitstapwaarschuwing kan van achteren naderend verkeer, bijvoorbeeld auto's, herkennen en u bij het uitstappen ondersteunen Uitstapwaarschuwing.
+ De vermoeidheidswaarschuwing geeft aan of er een pauze nodig is Vermoeidheidswaarschuwing.
+ De afleidingswaarschuwing waarschuwt als wordt herkend dat u afgeleid bent van het verkeer Afleidingswaarschuwing.

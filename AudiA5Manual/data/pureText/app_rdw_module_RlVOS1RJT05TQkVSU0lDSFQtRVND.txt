@@ -1,0 +1,19 @@
+Starten en rijden
+Rijdynamiek
+Elektronische stabiliseringscontrole
+Functieoverzicht van de elektronische stabiliseringscontrole
+Elektronische stabiliseringscontrole
+Functieoverzicht van de elektronische stabiliseringscontrole
+In de ESC zijn onder andere de volgende stabiliserende functies geïntegreerd:
+Antiblokkeersysteem (ABS)
+Het ABS voorkomt dat de wielen blokkeren als er wordt geremd tot kort voor stilstand van de auto. Daardoor blijft de auto ook bij voluit remmen bestuurbaar. Trap het rempedaal zonder onderbreking in - niet pompen!
+De regeling is eventueel door geluiden merkbaar.
+Aandrijfslipregeling (ASR)
+De ASR vermindert de aandrijfkracht bij doordraaiende wielen en past met het oog daarop de kracht aan de wegomstandigheden aan. Dit verbetert de rijstabiliteit.
+Elektronisch sperdifferentieel (EDS)
+Het EDS remt doorslippende wielen af en brengt de aandrijfkracht over op de andere wielen. Deze functie is bij hogere snelheden niet beschikbaar.
+Het EDS schakelt bij buitengewoon sterke belasting automatisch uit, opdat de schijfrem van het afgeremde wiel niet oververhit raakt. De auto blijft functioneren. Zodra de rem is afgekoeld, wordt het EDS automatisch weer ingeschakeld.
+Wielselectieve koppelaansturing
+Bij het rijden door bochten werkt de wielselectieve koppelaansturing. De binnenste wielen in de bocht worden waar nodig gericht afgeremd. Hierdoor kunnen bochten preciezer gereden worden.
+Stuurhulp
+De ESC kan via de stuurinrichting de stabilisering van de auto extra ondersteunen.

@@ -1,0 +1,53 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+Parkeerruimte zoeken voor inparkeren met ondersteuning
+Parkeerruimtezoekopdracht activeren
+Parkeerruimte zoeken voor inparkeren met ondersteuning
+Parkeerruimtezoekopdracht activeren
+Centraal beeldscherm: Geactiveerde parkeerruimtezoekopdracht
+1
+Parkeerruimtezoekopdracht activeren
+2
+Beoordeelde parkeerruimte
+3
+Tussen file- en haaks inparkeren wisselen
+4
+Tussen vooruit en achteruit inparkeren in haakse parkeerruimtes wisselen 1)
+5
+Weergave van de systeemaanwijzingen
+Parkeerruimtezoekopdracht activeren
+Om het zoeken naar parkeerruimtes te activeren, drukt u bij geactiveerde parkeerhulp op  
+1
+ in het centrale beeldscherm. De weergave voor de parkeerruimtezoekopdracht verschijnt en de weergave  geeft aan dat de parkeerruimtezoekopdracht actief is.
+Rijd met lage snelheid vooruit langs de rij geparkeerde auto's. Om een optimaal parkeerresultaat te verkrijgen, moet de afstand tot de rij geparkeerde auto's ongeveer 1 meter bedragen.
+De parkeerruimtezoekopdracht zoekt gelijktijdig aan beide zijden van de weg naar een geschikte parkeerruimte.
+Het systeem zoekt ook op de achtergrond en zonder geactiveerde parkeerruimtezoekopdracht naar geschikte parkeerruimtes als u er niet te snel langsrijdt. Hierdoor kunt u het systeem ook activeren wanneer u al langs een geschikte parkeerruimte bent gereden.
+Automatische weergave van parkeerruimtezoekopdracht
+Als u de automatische weergave van de parkeerruimtezoekopdracht in het menu Parkeerhulp hebt ingeschakeld Menu 'Parkeerhulp' openen, kunt u direct overschakelen naar de weergave van de parkeerruimtezoekopdracht, bijvoorbeeld als u een herkende parkeerruimte voorbijgereden bent.
+Rem de auto af tot stilstand.
+Druk op de knop  in de middenconsole of schakel de achteruitversnelling in. De herkende parkeerruimte verschijnt op het centrale beeldscherm en u kunt de inparkeerhandeling starten.
+Parkeerruimte en inparkeermogelijkheid kiezen
+Als het systeem een of meerdere parkeerruimtes vindt die voor de lengte en breedte van de auto geschikt zouden kunnen zijn, worden deze weergegeven 
+2
+.
+Bovendien kan het volgende worden weergegeven:
+P: de auto staat in de optimale startpositie en u moet afremmen tot stilstand.
+P : de auto moet verder in pijlrichting worden gereden om de optimale startpositie te bereiken. Rijd alleen verder als er zich geen obstakel op de rijweg bevindt.
+Als de auto stilstaat en er naast de beoogde parkeerruimte 
+2
+ meer mogelijkheden zijn, kunt u de keuze handmatig wijzigen:
+Druk in het centrale beeldscherm op een van de andere voorgestelde parkeerruimtes of een andere inparkeermogelijkheid 
+3
+.
+Wissel zo nodig tussen vooruit en achteruit inparkeren 
+4
+ 1) .
+Inparkeerhandeling starten
+Voorwaarde: de parkeerruimte is op het centrale beeldscherm met P gemarkeerd, de auto staat stil en het rempedaal is ingetrapt.
+Verzeker u ervan dat de parkeerruimte geschikt is voor uw auto zie.
+Afhankelijk van de voertuiguitrusting en de landspecifieke voorschriften kunt u de ondersteunde inparkeerhandeling starten:
+In de auto: inparkeren met ondersteuning.
+Buiten de auto: afstandsbediend parkeren met een mobiel apparaat.
+ATTENTIE
+VOORZICHTIG
+1)Afhankelijk van het land en de uitrusting

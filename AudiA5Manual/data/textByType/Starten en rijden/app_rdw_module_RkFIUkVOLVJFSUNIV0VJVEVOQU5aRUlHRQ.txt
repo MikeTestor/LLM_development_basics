@@ -1,0 +1,10 @@
+Starten en rijden
+Rijden
+Aandrijving
+Informatie over de actieradius
+Aandrijving
+Informatie over de actieradius
+In de statusregel in het instrumentenpaneel wordt de geschatte actieradius van de auto weergegeven.
+De aangegeven actieradius wordt bepaald op basis van het huidige rijprofiel en de voorspelde verbruikswaarden. Deze kunnen bijvoorbeeld door ingeschakelde comfortfuncties (bv. airconditioning, stoelverwarming) worden beïnvloed.
+De aangegeven actieradius kan variëren afhankelijk van de ladingstoestand van de accu resp. de buitentemperatuur.
+Door regeling van de temperatuur van de hoogvoltaccu kan de actieradius worden beïnvloed.

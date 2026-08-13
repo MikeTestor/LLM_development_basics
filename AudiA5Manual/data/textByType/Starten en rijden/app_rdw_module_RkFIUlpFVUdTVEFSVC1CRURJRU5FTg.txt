@@ -1,0 +1,21 @@
+Starten en rijden
+Rijden
+Systemen starten
+Auto in- en uitschakelen
+Systemen starten
+Auto in- en uitschakelen
+Middenconsole: Aandrijving inschakelen
+Als u alleen de auto wilt in- en uitschakelen, zonder de aandrijving te starten, gaat u als volgt te werk:
+Druk op de knop START ENGINE STOP zonder het rempedaal in te trappen.
+Automatisch uitschakelen van de auto
+Om te voorkomen dat de accu ontlaadt, kan de auto en eventueel de buitenverlichting automatisch worden uitgeschakeld.
+Voorwaarden:
+Conventionele aandrijving: Het start-stopsysteem heeft de motor afgezet.
+Plug-inhybrideaandrijving: U heeft met de auto gereden. De verbrandingsmotor draait niet.
+U heeft de auto langer dan 30 seconden verlaten.
+De auto is ingeschakeld.
+Het verlaten van de auto wordt onder andere aan de volgende factoren herkend:
+Bestuurdersportier werd geopend.
+Bestuurdersgordel werd losgemaakt.
+Rempedaal wordt niet ingetrapt.
+De auto wordt ook uitgeschakeld na 30 minuten of als u de auto van buitenaf vergrendelt.

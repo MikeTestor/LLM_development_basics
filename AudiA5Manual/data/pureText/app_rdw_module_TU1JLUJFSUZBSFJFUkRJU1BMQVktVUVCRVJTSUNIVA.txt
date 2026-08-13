@@ -1,0 +1,19 @@
+Weergave en bediening
+Touchscreens
+Weergavenoverzicht van de Multi Media Interface
+Gebruikersinterface van het MMI-bijrijdersdisplay
+Weergavenoverzicht van de Multi Media Interface
+Gebruikersinterface van het MMI-bijrijdersdisplay
+Bijrijdersdisplay: Overzicht van de gebruikersinterface
+1
+ Weergaveveld
+Voorbeelden van weergaven in het weergaveveld:
+Overzichtspagina
+App-overzicht
+App-inhoud
+2
+ Snelkeuzeveld
+In het snelkeuzeveld kunnen apps uit het app-overzicht worden geplaatst. De elementen  en  kunnen niet worden verplaatst.
+3
+ Tabbladen in een app
+Boven in de app kunnen zich tabbladen bevinden. De verschillende elementen van de tabbladen dienen voor het navigeren binnen een app.

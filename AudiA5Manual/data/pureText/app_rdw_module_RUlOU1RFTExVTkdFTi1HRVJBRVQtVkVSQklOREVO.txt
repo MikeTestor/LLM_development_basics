@@ -1,0 +1,22 @@
+Infotainment
+Overige instellingen
+Verbindingsmanager
+Mobiel apparaat via Bluetooth verbinden
+Verbindingsmanager
+Mobiel apparaat via Bluetooth verbinden
+Voorwaarde: de auto staat stil en is ingeschakeld. Het menu Verbindingsmanager wordt getoond Menu 'Verbindingsmanager' openen. De Bluetooth-functie van uw mobiele apparaat is ingeschakeld.
+Zorg ervoor dat de Bluetooth-instellingen op uw mobiele apparaat geopend zijn. Schakel eventueel de zichtbaarheid van uw mobiele apparaat in.
+Om uw mobiele apparaat te verbinden, drukt u op Nieuw apparaat toevoegen. De beschikbare Bluetooth-apparaten worden na enkele seconden weergegeven.
+Druk op het gewenste mobiele apparaat.
+Volg de aanwijzingen van het systeem op en let op eventuele andere meldingen op uw mobiele apparaat.
+Na een succesvolle verbinding wordt uw mobiele apparaat in het menu Verbindingsmanager weergegeven Menu 'Verbindingsmanager' openen.
+U kunt ook op uw mobiele apparaat via zoeken naar Bluetooth-apparaten de MMI zoeken en uw mobiele apparaat hiermee verbinden.
+Zowel de weergegeven mobiele apparaten als de automatische herverbinding zijn onafhankelijk van de in de auto aangemelde gebruiker.
+Bluetooth-headsets kunnen alleen via het bijrijdersdisplay worden gebruikt. Als een mobiel apparaat als Bluetooth-audioplayer wordt gebruikt, kan er niet gelijktijdig een Bluetooth-headset verbonden worden.
+Zelf problemen verhelpen voor de Bluetooth-verbinding
+Zorg ervoor dat
+het Bluetooth-menu op uw mobiele apparaat tijdens het verbinden op de voorgrond is geopend.
+uw mobiele apparaat niet met een ander Bluetooth-apparaat is verbonden.
+uw mobiele apparaat zich binnen het bereik van de MMI bevindt.
+de pincode van de verbindingsaanvraag op uw mobiele apparaat en in de MMI overeenkomen en zijn bevestigd.
+Schakel de Bluetooth-functie uit en na enkele seconden weer in. Voer zo nodig het verbinding maken opnieuw uit.

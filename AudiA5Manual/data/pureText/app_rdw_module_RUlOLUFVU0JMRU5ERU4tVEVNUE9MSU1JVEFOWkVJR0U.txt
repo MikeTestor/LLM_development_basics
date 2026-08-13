@@ -1,0 +1,12 @@
+Hulpsystemen
+Verdere hulpsystemen
+Verkeerstekenherkenning met camera
+Verkeerstekenherkenning instellen
+Verkeerstekenherkenning met camera
+Verkeerstekenherkenning instellen
+Verkeerstekengebaseerde snelheidswaarschuwing
+U kunt de optische en akoestische snelheidswaarschuwingen in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen. Als u de programmeerbare stuurwieltoets hebt geconfigureerd, drukt u op de toets  op het multifunctiestuurwiel, om de akoestische snelheidswaarschuwingen uit te schakelen.
+Landspecifiek worden de snelheidswaarschuwingen bij opnieuw starten ofwel op de standaardinstelling teruggezet of de laatste instelling wordt overgenomen.
+Waarschuwingsdrempel voor snelheidsovertreding (km/h) – u kunt een waarschuwingsdrempel in het menu Hulpsystemen  individueel instellen Menu 'Hulpsystemen' openen. Als u deze overschrijdt, wordt de actueel herkende snelheidsbeperking gedurende de overschrijding met een uitroepteken op het display weergegeven en knippert continu. Daarnaast klinkt er afhankelijk van de instelling korte tijd een waarschuwingsgeluid. Landspecifiek wordt bij een herstart ofwel de waarde opgeslagen of de waarschuwingsdrempel op de standaardinstelling teruggezet, indien eerder een waarschuwingsdrempel van 5 km/h of 10 km/h is gekozen.
+Waarschuwingssignaal bij overschrijden maximumsnelheid – u kunt een akoestische waarschuwing bij een snelheidsoverschrijding in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen. Landspecifiek wordt bij opnieuw starten de instelling ofwel op de standaardinstelling teruggezet of de laatste instelling wordt overgenomen.
+Waarschuwingstoon bij wijziging maximumsnelheid – u kunt een akoestische waarschuwing bij een wijziging van de snelheidsbeperking in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen. Bij opnieuw starten wordt de laatste instelling overgenomen.

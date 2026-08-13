@@ -1,0 +1,18 @@
+Verzorging en onderhoud
+Wielen
+Bandenspanningscontrolesysteem
+Aanwijzingen voor de bestuurder voor het bandenspanningscontrolesysteem
+Bandenspanningscontrolesysteem
+Aanwijzingen voor de bestuurder voor het bandenspanningscontrolesysteem
+Als het controlelampje  brandt, is de bandenspanning ten opzichte van de normspanning te laag. Bij de eerstvolgende gelegenheid de bandenspanning(en) corrigeren en opslaan Bandenspanningen in het bandenspanningscontrolesysteem opslaan.
+ Bandenpech! Voertuig veilig parkeren. Alle banden controleren en in de MMI opslaan
+Als het controlelampje brandt en de aanwijzing voor de bestuurder verschijnt, heeft de bandenspanning ten opzichte van de normspanning een kritische waarde bereikt. Vermijd onnodige stuur- en rijmanoeuvres. Pas uw rijstijl aan de gegeven situatie aan. Stop bij de eerstvolgende gelegenheid en controleer de band of banden. Als het mogelijk is om verder te rijden, zoek dan onmiddellijk een (Audi-)specialist op en laat uw band(en) zo nodig vervangen.
+ Bandenspanning: storing! Zie instructieboekje
+Als na het inschakelen van de auto of tijdens het rijden het controlelampje  verschijnt en daarnaast het controlelampje  circa een minuut knippert en aansluitend continu brandt, is er sprake van een systeemstoring. De storing kan bijvoorbeeld de volgende oorzaak hebben:
+Als de melding aan het einde van de inleerfase verschijnt, kan het systeem een of meerdere van de voor de controle noodzakelijke sensoren in de wielen niet herkennen. Dit kan worden veroorzaakt doordat een of meerdere wielen zonder of met niet-compatibele wielsensoren zijn geplaatst.
+Een wielsensor of andere component is uitgevallen.
+Als u sneeuwkettingen gebruikt, wordt de werking van het systeem door de afschermende eigenschappen van de kettingen belemmerd.
+Het bandenspanningscontrolesysteem is door een zenderstoring niet beschikbaar.
+Zendinstallaties met dezelfde frequentie, zoals bijvoorbeeld meegenomen draadloze hoofdtelefoons of zendontvangapparatuur, veroorzaken door sterke elektromagnetische velden een tijdelijke storing in het systeem.
+Zodra het bandenspanningscontrolesysteem weer beschikbaar is, gaan het controlelampje  en de aanwijzing voor de bestuurder uit. Als u de storing niet kunt verhelpen en het controlelampje  blijft branden, rijd dan naar een (Audi-)specialist en laat de storing verhelpen.
+ATTENTIE

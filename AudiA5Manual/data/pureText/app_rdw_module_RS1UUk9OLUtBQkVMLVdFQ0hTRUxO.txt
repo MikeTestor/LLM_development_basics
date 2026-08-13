@@ -1,0 +1,47 @@
+Starten en rijden
+Hoogvoltsysteem
+Laadequipment
+Kabel bij Audi laadsysteem (mode 2) verwisselen en aanbrengen
+Laadequipment
+Kabel bij Audi laadsysteem (mode 2) verwisselen en aanbrengen
+Bedieningseenheid: Kabel los- en vastmaken
+Voorwaarden:
+De laadsessie van de hoogvoltaccu is beëindigd.
+De voertuiglaadstekker is uit de voertuiglaadaansluiting verwijderd.
+De netstekker is uit het stopcontact verwijderd.
+Kabel losmaken
+Hendel 
+1
+ helemaal omhoogtrekken.
+Stekker 
+2
+ tot aan de eerste weerstand eruit trekken.
+Sluit de hendel 
+1
+ tot deze tegen de stekker 
+2
+ aan ligt.
+Stekker 
+2
+ helemaal eruit trekken.
+Kabel vastmaken
+Hendel 
+1
+ iets omhoogtrekken.
+Stekker 
+2
+ tot aan de eerste weerstand in de bedieningseenheid schuiven.
+Hendel 
+1
+ helemaal omhoogtrekken.
+Stekker 
+2
+ helemaal in de bedieningseenheid schuiven.
+Hendel 
+1
+ sluiten.
+Diefstalbeveiliging
+Om het risico van diefstal van laadsysteem en kabel te verminderen, kan de hendel van de bedieningseenheid als antidiefstalmaatregel met een bout worden vastgezet. Voor meer informatie hierover verwijzen wij u naar een Audi-specialist.
+Afhankelijkheid tussen laadvermogen en stekkertype
+De netkabel met netstekker voor industriële stopcontacten en de bedieningseenheid van het Audi-laadsysteem zijn op elkaar afgestemd. Het naderhand verwisselen van de netkabel voor een ander stekkertype kan het beschikbare laadvermogen van het totale systeem verminderen. Grootheden die van invloed zijn op het beschikbare laadvermogen zijn de begrensde stroomoverdracht (stroomdraagkracht) per fase en het aantal beschikbare fasen.
+ATTENTIE

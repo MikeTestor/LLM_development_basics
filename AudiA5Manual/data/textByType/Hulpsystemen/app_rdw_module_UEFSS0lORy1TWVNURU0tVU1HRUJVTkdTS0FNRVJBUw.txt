@@ -1,0 +1,17 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Achteruitrijcamera of omgevingscamera's
+Aanzichten van de omgevingscamera's
+Achteruitrijcamera of omgevingscamera's
+Aanzichten van de omgevingscamera's
+Afhankelijk van de uitrusting kunnen de volgende camera-aanzichten worden gekozen:
+Camera-aanzicht	Beschrijving
+Achter	Dit aanzicht helpt u de manoeuvreerruimte achter de auto zo goed mogelijk te benutten. Het beeld komt van de achteruitrijcamera.
+Achter haaks	Dit aanzicht kan u ondersteunen bij het uitrijden uit krappe parkeerruimtes of uitritten met slecht zicht. Er wordt een vrijwel 180° panorama-aanzicht achter de auto weergegeven. Om tussen panorama-aanzicht en regulier aanzicht te wisselen, drukt u op .
+Vóór	Dit aanzicht helpt u de manoeuvreerruimte vóór de auto zo goed mogelijk te benutten.
+Vóór haaks	Dit aanzicht maakt comfortabeler wegrijden uit krappe parkeerruimtes, uitritten of onoverzichtelijke kruisingen mogelijk. Er wordt een vrijwel 180° panorama-aanzicht vóór de auto weergegeven.
+Omgeving	Dit aanzicht helpt u bij het nauwkeurig manoeuvreren en positioneren. De omgeving van de auto wordt samengesteld uit de camerabeelden. De afbeelding van de auto wordt door het systeem toegevoegd zie.
+3D-omgeving	In dit aanzicht kunt u bij het parkeren en manoeuvreren de omgeving om de auto bekijken. De voertuigomgeving wordt uit de camerabeelden en de gegevens van de sensoren gegenereerd. De afbeelding van de auto wordt door het systeem toegevoegd zie.
+Banden voor	Dit aanzicht helpt u bij het parkeren en manoeuvreren de afstand van de voorwielen tot de stoeprand en de stuurinslag te herkennen.
+Banden achter	Dit aanzicht helpt u bij het parkeren en manoeuvreren de afstand van de achterwielen tot de stoeprand te herkennen.
+ATTENTIE

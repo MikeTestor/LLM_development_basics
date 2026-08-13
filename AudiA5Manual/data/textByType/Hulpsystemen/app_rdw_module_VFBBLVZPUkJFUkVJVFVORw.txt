@@ -1,0 +1,25 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+Getraind parkeren
+Parkeeropdracht inleren
+Getraind parkeren
+Parkeeropdracht inleren
+Parkeeropdracht inleren
+Rijd naar een willekeurig startpunt.
+Rem de auto af tot stilstand.
+Druk bij geactiveerde parkeerhulp op  op het centrale beeldscherm.
+Start een nieuwe opname door op de overeenkomstige knop op het centrale beeldscherm te drukken.
+Parkeer zelfstandig in de gewenste parkeergelegenheid in.
+Tijdens de handmatige inleerrit verschijnt  op het centrale beeldscherm. De snelheid is tijdens de opname van de parkeeropdracht begrensd.
+Zodra de parkeeropdracht wordt opgeslagen, is het inleren voor het getraind parkeren beëindigd.
+Parkeeropdracht opslaan
+Het opslaan van de parkeeropdracht is alleen mogelijk bij stilstand. Zolang de achteruitversnelling is ingeschakeld, kunt u de parkeeropdracht niet opslaan.
+Sla de parkeeropdracht op door op de overeenkomstige knop op het centrale beeldscherm te drukken.
+Kies een passende benaming voor uw parkeeropdracht (bv. Werk).
+De opname is na het opslaan voltooid en kan voor het getraind parkeren worden gebruikt.
+Parkeeropdrachten beheren
+Om de naam van een parkeeropdracht te wijzigen, houdt u de parkeeropdracht ingedrukt en kiest u .
+Om een parkeeropdracht te wissen, houdt u de parkeeropdracht ingedrukt en kiest u .
+Meer informatie
+U kunt maximaal 5 parkeeropdrachten opslaan. In de directe omgeving van een ingeleerde parkeeropdracht kunt u slechts één parkeeropdracht opslaan. Worden er meerdere parkeeropdrachten met dezelfde benaming opgeslagen, dan verschijnt naast het symbool een getal.
+Een opgeslagen inparkeeropdracht kan niet standaard als uitparkeeropdracht worden gebruikt. Uitparkeeropdrachten moeten aanvullend worden ingeleerd.

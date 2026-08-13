@@ -1,0 +1,29 @@
+Starten en rijden
+Warm en koud
+Interieurvoorverwarming/-voorventilatie
+Interieurvoorverwarming en -voorventilatie bedienen
+Interieurvoorverwarming/-voorventilatie
+Interieurvoorverwarming en -voorventilatie bedienen
+Neem de veiligheidsaanwijzingen in acht Inleiding.
+Kies:  > Interieurvoorverwarming
+Direct starten
+U kunt de werkingsduur instellen en via  Interieurvoorverwarming inschakelen de interieurvoorverwarming of -voorventilatie direct in- en uitschakelen.
+Als de functie is ingeschakeld, brandt er een witte balk bij de knop.
+Vertrektijden
+Om de timer juist te laten functioneren, moet u nagaan of de tijd en de datum in de systeeminstellingen kloppen Systeem en taal instellen.
+U kunt maximaal vijf timers voor de vertrektijd instellen.
+Met een vertrektijd legt u vast, wanneer uw auto de laatst ingestelde temperatuur moet hebben bereikt. De vertrektijd kan maximaal zes dagen in de toekomst liggen. De interieurvoorverwarming werkt na het bereiken van de vertrektijd nog enkele minuten na.
+Kies Vertrektijden.
+Kies Nieuwe vertrektijd toevoegen.
+Stel de actuele tijd en de dag in.
+Kies Herhalen om een standaardtimer in te stellen.
+Kies Instelling opslaan.
+De timer is ingesteld.
+Ook bij ingestelde timers kan de interieurvoorverwarming of -voorventilatie direct worden in- en uitgeschakeld. Zolang het handmatig gekozen uitschakeltijdstip niet in de periode van de timerinstelling valt, heeft dit geen effect op de timerprogrammering.
+Klimaatfocus
+Als het systeem uw voorruit en de zijruiten voorin ijsvrij moet maken, drukt u op Ruiten.
+Als het systeem uw voorruit en de zijruiten voorin ijsvrij moet maken en uw auto moet verwarmen, drukt u op Interieur.
+In- en uitschakelen met de toets in de schakelaarlijst
+Om de interieurvoorverwarming of -voorventilatie direct in en uit te schakelen, drukt u op de toets  in de schakelaarlijst.
+Als de led in de toets knippert, wordt de interieurvoorverwarming voorverwarmd. Het interieur wordt nog niet verwarmd. Als de led in de toets continu brandt, is de interieurvoorverwarming of -voorventilatie actief.
+Als het symbool  in de toets brandt, is er een timer geprogrammeerd.

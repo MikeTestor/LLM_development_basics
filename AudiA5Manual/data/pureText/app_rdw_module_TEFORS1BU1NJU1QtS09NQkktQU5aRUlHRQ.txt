@@ -1,0 +1,39 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Waarschuwing voor verlaten rijstrook
+Waarschuwing voor verlaten rijstrook gebruiken
+Waarschuwing voor verlaten rijstrook
+Waarschuwing voor verlaten rijstrook gebruiken
+Bedieningshendel: Toets voor waarschuwing voor verlaten rijstrook en rijstrookgeleiding
+Instrumentenpaneel: Waarschuwing voor verlaten rijstrook in de omgevingsweergave
+Waarschuwing voor verlaten rijstrook uit- en inschakelen
+U kunt de waarschuwing voor verlaten rijstrook in het menu Hulpsystemen  uit- en inschakelen Menu 'Hulpsystemen' openen, of
+Druk de toets 
+1
+ op de bedieningshendel in en houd deze zo lang ingedrukt tot de betreffende weergave in het instrumentenpaneel brandt.
+Als de toets 
+1
+ op de bedieningshendel maar kort wordt ingedrukt, wordt de rijstrookgeleiding bediend Rijstrookgeleiding.
+Laat uw handen altijd op het stuurwiel, zodat u steeds klaar bent om te sturen. De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+Overzicht van de weergaven en waarschuwingen
+Weergave	Betekenis
+	De waarschuwing voor verlaten rijstrook is aan de betreffende zijde ingeschakeld, maar niet waarschuwingsklaar.
+	De waarschuwing voor verlaten rijstrook is aan de betreffende zijde ingeschakeld en waarschuwingsklaar.
+	De waarschuwing voor verlaten rijstrook waarschuwt u aan de betreffende zijde voor het verlaten van de rijstrook.
+	De waarschuwing voor verlaten rijstrook is uitgeschakeld 1) . Bovendien verschijnt er een aanwijzing voor de bestuurder.
+Daarnaast worden corrigerende stuuringrepen in het instrumentenpaneel in de omgevingsweergave met een rode lijn 
+2
+ aan de betreffende zijde weergegeven. De omgevingsweergave verschijnt alleen als deze in het instrumentenpaneel is geselecteerd.
+Stuurwieltrillingen
+Bij het overschrijden van herkende rijstrookbegrenzingen kan het stuurwiel met een trilling waarschuwen.
+Afhankelijk van de uitrusting kunt u de stuurwieltrillingen in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen.
+Stuuringrepen
+Bij het overschrijden van herkende rijstrookbegrenzingen kan door een corrigerende stuuringreep worden gewaarschuwd.
+Afhankelijk van de uitrusting kunt u de corrigerende stuuringrepen in het menu Hulpsystemen  individueel instellen 2) 3) Menu 'Hulpsystemen' openen. Als Verminderd is ingesteld, vinden de stuuringrepen alleen bij het overschrijden van doorgetrokken rijstrookbegrenzingen plaats. Als Normaal is ingesteld, vinden stuuringrepen bij het overschrijden van alle rijstrookbegrenzingen plaats.
+Gedrag als het knipperlicht is ingeschakeld 2)
+Geldt voor auto's zonder rijstrookwisselwaarschuwing: Het systeem waarschuwt niet als u het knipperlicht inschakelt voordat u over een begrenzingslijn rijdt. In dat geval gaat het systeem ervan uit dat u bewust van rijstrook verandert.
+Geldt voor auto's met rijstrookwisselwaarschuwing: Als bij ingeschakeld knipperlicht en parate waarschuwing voor verlaten rijstrook het wisselen van rijstrook wegens meerijdende of naderende voertuigen als gevaarlijk werd beoordeeld, volgt kort voor het verlaten van de rijstrook een merkbare stuuringreep. Daarmee wordt geprobeerd de auto in de rijstrook te houden.
+ATTENTIE
+1)De weergave van het symbool kan afwijken
+2)Afhankelijk van het land en de uitrusting
+3)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

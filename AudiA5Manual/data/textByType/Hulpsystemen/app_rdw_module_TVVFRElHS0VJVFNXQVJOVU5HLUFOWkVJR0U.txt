@@ -1,0 +1,10 @@
+Hulpsystemen
+Waarschuwingssystemen
+Vermoeidheidswaarschuwing
+Overzicht van de weergaven van de vermoeidheidswaarschuwing
+Vermoeidheidswaarschuwing
+Overzicht van de weergaven van de vermoeidheidswaarschuwing
+De volgende weergaven verschijnen in het instrumentenpaneel:
+Weergave	Beschrijving
+	Het systeem heeft een geringe vermoeidheid herkend.
+	Het systeem heeft een sterke vermoeidheid herkend. Bovendien klinkt er een akoestisch signaal.

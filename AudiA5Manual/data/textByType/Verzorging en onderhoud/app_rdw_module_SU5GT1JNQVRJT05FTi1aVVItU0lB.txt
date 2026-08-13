@@ -1,0 +1,14 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Service-intervalindicatie
+Informatie over de service-intervalindicatie
+Service-intervalindicatie
+Informatie over de service-intervalindicatie
+De service-intervalindicatie signaleert wanneer een servicebeurt voor uw auto noodzakelijk is.
+De service-intervalindicatie werkt in 2 fasen:
+Herinnering Inspectie of Olieservice: vanaf een bepaald aantal gereden kilometers verschijnt elke keer als het contact wordt in- of uitgeschakeld een aanwijzing voor de bestuurder op het scherm in het instrumentenpaneel. De resterende afstand of tijd tot de volgende servicebeurt wordt kort weergegeven.
+Inspectie resp. Olieservice bereikt: als uw auto de termijn voor de Inspectie of Olieservice of beide servicesoorten gelijktijdig heeft bereikt, dan verschijnt na het in- en uitschakelen van het contact kort een overeenkomstige aanwijzing voor de bestuurder: Inspectie bereikt! of Olieservice bereikt! of Olieservice en Inspectie bereikt!.
+Weergave laten terugzetten
+Uw (Audi-)specialist zet de service-intervalindicatie terug, nadat de servicebeurt is uitgevoerd.
+ATTENTIE
+VOORZICHTIG

@@ -1,0 +1,15 @@
+Infotainment
+Telefoon
+Sms-functies gebruiken
+Telefoon
+Sms-functies gebruiken
+U kunt sms-berichten naar contacten versturen en inkomende sms-berichten in de MMI laten weergeven of voorlezen.
+Voorwaarde: uw mobiele telefoon is via Bluetooth Message Access Profile (Bluetooth MAP) met de MMI verbonden.
+Geldt voor iPhone: Zorg ervoor dat in de Bluetooth-instellingen van uw mobiele telefoon de toegang tot uw sms-berichten is ingeschakeld. Mogelijk moet daarvoor de Bluetooth-verbinding worden verbroken en opnieuw worden gemaakt.
+Sms-bericht versturen
+Houd een contact in de oproepenlijst ingedrukt tot het contextmenu wordt weergegeven, of
+Open het visitekaartje van een contact.
+Druk op .
+Kies een berichtsjabloon.
+Inkomende sms-berichten weergeven
+Als de functie in het menu Berichten is ingeschakeld Menu 'Berichten' openen, worden nieuwe berichten in de berichtencentrale van de MMI weergegeven.

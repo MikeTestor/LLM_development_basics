@@ -1,0 +1,16 @@
+Starten en rijden
+Openen en sluiten
+Ont- en vergrendeling
+Auto met digitale sleutel/digitale sleutelkaart ont- en vergrendelen
+Ont- en vergrendeling
+Auto met digitale sleutel/digitale sleutelkaart ont- en vergrendelen
+Voorwaarde: de auto beschikt over sensoren in de portieren en de digitale sleutel resp. de digitale sleutelkaart is geactiveerd. U draagt uw digitale sleutel resp. de digitale sleutelkaart bij u.
+Voorwaarde: het mobiele apparaat is met Bluetooth verbonden: Om de auto te ontgrendelen en het portier te openen, grijpt u in de uitsparing onder de portiergreep 
+1
+.
+Voorwaarde: het mobiele apparaat is met Bluetooth verbonden: Om de auto te vergrendelen, sluit u het portier en raakt u eenmaal de sensor 
+2
+ in de portiergreep zie aan. Pak daarbij niet de portiergreep vast, anders wordt de auto niet vergrendeld. Het portier opnieuw openen is direct na de sluitprocedure korte tijd niet mogelijk. Hierdoor heeft u de mogelijkheid om de correcte vergrendeling van de portieren te controleren.
+Geldt voor Near-Field-Communication (NFC): Om de auto met behulp van de Near-Field-Communication (NFC)-technologie te ont- en vergrendelen, houdt u het mobiele apparaat/digitale sleutelkaart tegen de sensor 
+2
+.

@@ -1,0 +1,25 @@
+Weergave en bediening
+Touchscreens
+Handgebaren en ingave
+Tekstinvoer bij touchscreens
+Handgebaren en ingave
+Tekstinvoer bij touchscreens
+In een invoerveld kunt u letters, cijfers en tekens ingeven om bijvoorbeeld een adres in het navigatiesysteem te vinden. U kunt de tekens resp. woorden ingeven via het toetsenbord, met de hand of via spraakherkenning.
+Overzicht van de toetsenbordsymbolen
+Symbool	Beschrijving
+	Invoertaal wisselen
+	Naar handschriftinvoer wisselen
+	Naar toetsenbord wisselen
+	Toetsenbord minimaliseren
+	Handschriftinvoer minimaliseren
+Tekst ingeven
+Geldt voor beeldschermtoetsenbord: Om tekst in te geven, drukt u op de betreffende knoppen van het beeldschermtoetsenbord. Afhankelijk van de bedieningscontext kunt u ook over de letters swipen 1) .
+Geldt voor handschriftinvoer: Om tekst in te geven, schrijft u eenvoudig met de vinger in het invoergedeelte. U kunt de afzonderlijke tekens over elkaar of naast elkaar schrijven, zonder daarbij de vinger van het scherm te hoeven nemen. Als u de ingave beëindigt, wordt het geschrevene door het systeem geïnterpreteerd.
+Geldt voor beeldschermtoetsenbord met invoertaal met diakritische tekens: Om diakritische tekens (bv. â, ç, ñ, ö) in te geven, drukt u op een geschikt teken en kiest u het gewenste diakritische teken.
+Geldt voor handschriftinvoer: Om een spatie in te geven, trekt u in het invoergedeelte een streep van links naar rechts 2) .
+Om de positie van de tekstingave vast te leggen, drukt u in het ingaveveld op de gewenste positie. U kunt met de afgebeelde schuifknop 1) de positie nog nauwkeuriger regelen.
+Om afzonderlijke tekens te wissen, drukt u op , of
+Geldt voor handschriftinvoer: Trek in het invoergedeelte een streep van rechts naar links 2) .
+Om meerdere tekens te wissen, houdt u  ingedrukt.
+1)Afhankelijk van het land
+2)Als de invoertaal Arabisch is geselecteerd, voer de handbeweging dan in tegengestelde richting uit.

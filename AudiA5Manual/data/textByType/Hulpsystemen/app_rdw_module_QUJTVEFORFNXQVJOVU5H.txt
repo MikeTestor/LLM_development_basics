@@ -1,0 +1,17 @@
+Hulpsystemen
+Waarschuwingssystemen
+Afstandswaarschuwing
+Afstandswaarschuwing gebruiken
+Afstandswaarschuwing
+Afstandswaarschuwing gebruiken
+Instrumentenpaneel: Afstandswaarschuwing in de omgevingsweergave
+De functie meet in het snelheidsbereik boven ca. 65 km/h de afstand in tijd tot de voorligger als de dynamische rijassistent niet actief regelt. Als de waarschuwingsdrempel permanent wordt onderschreden, wordt u door  op het gevaar gewezen. Als de omgevingsweergave in het instrumentenpaneel werd geselecteerd, verschijnt bovendien de weergave 
+1
+. Afhankelijk van de situatie kunnen de waarschuwingen nog door andere optische signalen worden aangevuld.
+Afstandswaarschuwing instellen
+U kunt de afstandswaarschuwing in het menu Hulpsystemen  in- en uitschakelen of de afstand tot de voorligger in tijd individueel instellen Menu 'Hulpsystemen' openen.
+Systeemgrenzen
+Bij inhaalmanoeuvres of snel naderen van een voorligger kan de ingestelde waarschuwingsdrempel heel even worden onderschreden. In dit geval wordt niet gewaarschuwd. Er wordt alleen gewaarschuwd, indien de waarschuwingsdrempel langere tijd wordt onderschreden.
+Meer informatie
+De bestuurder is altijd verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+ATTENTIE

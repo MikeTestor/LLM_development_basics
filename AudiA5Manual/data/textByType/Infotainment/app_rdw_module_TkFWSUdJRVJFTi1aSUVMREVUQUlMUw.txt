@@ -1,0 +1,14 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Reisdoeldetails weergeven
+Reisdoel ingeven
+Reisdoeldetails weergeven
+U kunt meer informatie over een reisdoel laten weergeven. Om reisdoeldetails te openen, heeft u de volgende opties:
+Druk op  in het zoekveld.
+Druk op een punt resp. kaartinhoud (bv. ) op de kaart.
+Afhankelijk van het gekozen reisdoel kunt u in het aanzicht van de reisdoeldetails over de volgende opties beschikken:
+Als favoriet opslaan of wissen
+Routegeleiding starten
+Als tussenstop toevoegen
+Bijzondere reisdoelen in de buurt weergeven

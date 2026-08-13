@@ -1,0 +1,16 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Vooruitziende snelheidsaanpassing
+Vooruitziende snelheidsaanpassing instellen
+Vooruitziende snelheidsaanpassing
+Vooruitziende snelheidsaanpassing instellen
+U kunt de vooruitziende snelheidsaanpassing in het menu Hulpsystemen  in- en uitschakelen of individueel instellen Menu 'Hulpsystemen' openen.
+ Regeling op snelheidsbeperkingen
+De regeling op snelheidsbeperkingen kan in- en uitgeschakeld worden. Desgewenst is ook een Aanpassing met tolerantie mogelijk. In dit geval wordt de regelsnelheid ten gunste van een verhoogde efficiency tijdelijk onder- of overschreden. Daardoor kan de aanstaande snelheidsbeperking verlaat worden bereikt.
+ Regeling op wegverloop
+De regeling op basis van het aanstaande wegverloop kan in- en uitgeschakeld worden. De instelling is van invloed op het rijgedrag van de vooruitziende regeling. Bovendien kunt u instellen met welke snelheid u bochten wilt nemen.
+ Regeling op voorrangsregels
+De regeling op basis van voorrangsregels, bv. herkende stopborden, kan in- en uitgeschakeld worden.
+ Regeling op oneffenheden
+De regeling van de snelheid bij herkende verkeeersdrempels en oneffenheden kan in- en uitgeschakeld worden.
+ATTENTIE

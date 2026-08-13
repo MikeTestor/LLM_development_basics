@@ -1,0 +1,34 @@
+Verzorging en onderhoud
+Controleren en bijvullen
+Motorolie
+Motoroliepeil controleren
+Motorolie
+Motoroliepeil controleren
+Centraal beeldscherm: Motoroliepeil controleren
+Gebieden op de oliepeilindicatie zie. Zie ook zie.
+1
+	Het motoroliepeil is in orde.
+Vul geen motorolie bij.
+
+2
+	Het motoroliepeil is in orde.
+U kunt echter motorolie bijvullen.
+
+3
+	Het motoroliepeil is te laag!
+Vul motorolie bij.
+Bij bijzondere belasting van de auto moet het motoroliepeil in het bovenste toegestane gebied liggen, bv. bij lange snelwegritten in de zomer of bij het rijden door passen in het hooggebergte.
+Motoroliepeil in de MMI weergeven
+Om het motoroliepeil in de MMI weer te geven, opent u het menu Wagen Menu 'Wagen' openen.
+Als er geen oliepeil kan worden weergegeven, volg dan de onderstaande handelingsstappen op:
+Parkeer de auto op een vlakke ondergrond.
+Zet de motor op bedrijfstemperatuur af.
+Schakel alleen het contact weer in.
+Wacht ca. vijf minuten, zodat de in de motor verdeelde olie kan terugstromen in de carterpan.
+Vraag het motoroliepeil opnieuw op in het menu 'Wagen'. Wagen Menu 'Wagen' openen.
+Lees het oliepeil op het scherm af.
+Vul zo nodig motorolie bij Motorolie bijvullen.
+De oliepeilindicatie op het centrale beeldscherm (MMI) is slechts een informatieve weergave. Is het oliepeil te laag, dan verschijnt het controlelampje  en een aanwijzing voor de bestuurder in het instrumentenpaneel. Vul motorolie bij Motorolie bijvullen.
+Informatie over olieverbruik
+Afhankelijk van de rijstijl en het gebruik van de auto kan het olieverbruik tot 0,5 l/1000 km bedragen. Bij de eerste 5000 kilometer kan het verbruik hoger liggen. Het motoroliepeil moet regelmatig worden gecontroleerd – bij voorkeur elke keer bij het tanken en voor langere ritten.
+VOORZICHTIG

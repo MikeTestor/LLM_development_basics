@@ -1,0 +1,22 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Manoeuvreerhulp
+Manoeuvreerhulp activeren/deactiveren
+Manoeuvreerhulp
+Manoeuvreerhulp activeren/deactiveren
+Automatisch activeren bij achteruitrijden
+Schakel bij gestarte auto de achteruitversnelling in. De manoeuvreerhulp activeert automatisch en blijft bij het achteruit- en vooruitrijden actief.
+Handmatig activeren bij vooruitrijden
+Terwijl u vooruit rijdt, moet u de manoeuvreerhulp handmatig activeren.
+Voorwaarde: de rijsnelheid is lager dan ca. 10 km/h.
+Druk op de knop  in de middenconsole. Als de parkeerhulp al actief is, drukt u tweemaal op de knop  in de middenconsole.
+De manoeuvreerhulp is actief, als op het centrale beeldscherm het kader om de auto heen wordt weergegeven.
+Tijdelijk deactiveren
+U kunt de manoeuvreerhulp voor de actuele parkeerhandeling tijdelijk deactiveren. Een tijdelijk gedeactiveerde manoeuvreerhulp wordt bij de volgende activering van de parkeerhulp weer automatisch geactiveerd.
+Om alle ingrepen/waarschuwingen tijdelijk te deactiveren, op  
+4
+ zie in het centrale beeldscherm drukken en de deactivering bevestigen. Het symbool  wordt weergegeven.
+Om de tijdelijk gedeactiveerde manoeuvreerhulp weer te activeren, drukt u op  op het centrale beeldscherm. Het symbool  wordt weergegeven.
+Manoeuvreerhulp uit- en inschakelen
+U kunt de manoeuvreerhulp in het menu Parkeerhulp in- en uitschakelen Menu 'Parkeerhulp' openen.
+ATTENTIE

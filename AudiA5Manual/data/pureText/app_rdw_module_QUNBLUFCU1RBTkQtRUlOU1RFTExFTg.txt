@@ -1,0 +1,32 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Dynamische snelheidsassistent
+Afstandsregeling instellen
+Dynamische snelheidsassistent
+Afstandsregeling instellen
+Bedieningshendel: Afstand instellen
+Als een voorligger wordt genaderd, remt de dynamische snelheidsassistent binnen de grenzen van het systeem af tot diens snelheid en regelt de snelheid daarna op basis van de ingestelde afstand. Als de voorligger accelereert, accelereert de dynamische snelheidsassistent mee tot de door u ingestelde snelheid.
+Om de actuele ingestelde afstand weer te geven, tipt u op de tuimelschakelaar.
+Om de ingestelde afstand een stap te wijzigen, tipt u de tuimelschakelaar opnieuw richting 
++
+ of 
+–
+.
+Bij het instellen van de afstand is de bestuurder verantwoordelijk voor het opvolgen van de betreffende landspecifieke voorschriften.
+Als u de afstand instelt, verandert u de tijdsafstand tot de voorligger. De nieuw ingestelde afstand wordt kort weergegeven. Hoe hoger de snelheid, des te groter is de afstand. De volgende afstanden kunnen worden ingesteld:
+Symbool	Tijdsafstand	Afstand bij 100 km/h
+	Ca. 1 seconde	Ca. 28 m
+	Ca. 1,3 seconden	Ca. 36 m
+	Ca. 1,8 seconden (instelling komt overeen met de 2-secondenregel)	Ca. 50 m
+	Ca. 2,4 seconden	Ca. 67 m
+	Ca. 3,6 seconden	Ca. 100 m
+De aangegeven afstanden zijn streefwaarden. Afhankelijk van de rijsituatie en de rijstijl van de voorligger kunnen deze doelafstanden worden over- resp. onderschreden.
+Als de gevareninformatie een gevaarlijk punt herkend heeft, kan het systeem de afstand automatisch vergroten.
+Rijgedrag bij geassisteerd rijden
+Het rijgedrag van de dynamische snelheidsassistent en het gedrag van de rijstrookgeleiding veranderen afhankelijk van de voertuiguitrusting door:
+de ingestelde afstand, of
+de gekozen Audi drive select-modus, of
+de individuele instellingen van het rijgedrag in het menu Hulpsystemen  Menu 'Hulpsystemen' openen.
+Laatste afstand opslaan
+U kunt in het menu Hulpsystemen  individueel instellen Menu 'Hulpsystemen' openen of de laatst ingestelde afstand wordt opgeslagen. Als de afstand niet wordt opgeslagen, is telkens als de auto wordt ingeschakeld automatisch de afstand  standaard ingesteld.
+ATTENTIE

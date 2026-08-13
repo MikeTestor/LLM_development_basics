@@ -1,0 +1,25 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+In- en uitparkeren met ondersteuning
+Parkeren met ondersteuning onderbreken/annuleren
+In- en uitparkeren met ondersteuning
+Parkeren met ondersteuning onderbreken/annuleren
+Handmatig onderbreken
+U kunt het parkeren met ondersteuning op elk moment onderbreken door de auto rustig tot stilstand af te remmen en kort stil te staan. Om de in- of uitparkeerhandeling te hervatten, drukt u op het centrale beeldscherm op de knop voor het hervatten en laat u het rempedaal los.
+Automatisch onderbreken of annuleren
+Het parkeren met ondersteuning wordt onder andere automatisch onderbroken of geannuleerd indien
+u het systeem uitschakelt,
+u het rempedaal hard intrapt,
+u het gaspedaal intrapt,
+u een andere rijstand kiest,
+u de elektronische parkeerrem vastzet,
+u het stuurwiel vastpakt,
+het maximale aantal mogelijke parkeerbewegingen werd overschreden,
+een portier geopend wordt,
+de tijdslimiet wordt overschreden,
+een obstakel wordt herkend,
+de ESC ingrijpt.
+De weergave  of  verschijnt. Bij sommige weergaven kan een aanwijzing voor de bestuurder verschijnen die eventueel de oorzaak en de mogelijke oplossing aangeeft.
+Als de parkeeropdracht automatisch werd afgebroken, moet u altijd de controle over de auto overnemen.
+In sommige situaties kunt u de inparkeerhandeling hervatten. Neem de aanwijzingsteksten op het centrale beeldscherm in acht. Druk zo nodig op de knop voor het hervatten of op  op het centrale beeldscherm.
+ATTENTIE

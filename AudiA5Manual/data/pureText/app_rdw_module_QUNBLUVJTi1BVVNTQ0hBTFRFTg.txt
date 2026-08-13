@@ -1,0 +1,77 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Dynamische snelheidsassistent
+Dynamische snelheidsassistent bedienen
+Dynamische snelheidsassistent
+Dynamische snelheidsassistent bedienen
+Bedieningshendel: Dynamische snelheidsassistent bedienen
+Bedieningshendel: Snelheid wijzigen
+0
+Als de bedieningshendel in deze stand vastgeklikt is, is het systeem uitgeschakeld.
+1
+Als de bedieningshendel in deze stand vastgeklikt is, is het systeem ingeschakeld.
+2
+SET Actuele snelheid als regelsnelheid instellen en de regeling activeren.
+3
+LIM Tussen snelheidsbegrenzer en dynamische snelheidsassistent wisselen.
+Inschakelen
+Om de dynamische snelheidsassistent in te schakelen, trekt u de hendel naar u toe in stand 
+1
+ tot deze vastklikt.
+Snelheid opslaan en regeling activeren
+Als u het systeem heeft ingeschakeld, kunt u de actuele snelheid als regelsnelheid instellen en de regeling activeren:
+Druk op de toets SET 
+2
+. De ingestelde snelheid wordt weergegeven 
+5
+ zie.
+Om de snelheid bij stilstand op te slaan, houdt u ook het rempedaal ingetrapt.
+Als er een voorligger werd herkend, regelt het systeem de snelheid en de afstand in overeenstemming met de voorligger en accelereert en remt het zelfstandig binnen de grenzen van het systeem.
+Als er geen voorligger werd herkend, wordt de ingestelde snelheid zo veel mogelijk constant gehouden.
+U kunt elke snelheid tussen 20 km/h en het maximaal beschikbare snelheidsbereik 1) instellen. Als u de actuele snelheid opslaat en deze lager is dan de minimaal instelbare snelheid, wordt de minimaal instelbare snelheid als regelsnelheid ingesteld. Als er voor u geen voertuig werd herkend, versnelt de auto naar deze snelheid.
+Regeling kort onderbreken
+De regeling kan elk moment worden onderbroken:
+Tijdens het rijden of bij stilstand: druk de hendel van u af in pijlrichting  of
+Tijdens het rijden: trap het rempedaal in.
+Regeling weer activeren
+Een eerder ingestelde snelheid kan na een onderbreking op elk moment weer worden hervat.
+Om de regeling weer te activeren, trekt u de hendel in pijlrichting  naar u toe.
+Om de regeling bij stilstand weer te activeren, houdt u bovendien het rempedaal ingetrapt.
+Regeling tijdelijk overrulen
+Om de regeling korte tijd te overrulen en te accelereren, trapt u het gaspedaal in.
+De afstandsregeling is niet actief.
+Ingestelde snelheid wijzigen
+Om de ingestelde snelheid in kleine stappen te wijzigen, tipt u de hendel kort richting 
++
+ of 
+–
+ tot aan de eerste drukstand.
+Om de ingestelde snelheid in grotere stappen te wijzigen, tipt u de hendel kort richting 
++
+ of 
+–
+ tot aan de tweede drukstand.
+Om de ingestelde snelheid continu te wijzigen, houdt u de hendel in de eerste of tweede drukstand zo lang richting 
++
+ of 
+–
+ tot de gewenste snelheid is ingesteld.
+Geldt voor auto's met vooruitziende snelheidsaanpassing: De regelsnelheid kan vooruitziend op situaties worden aangepast Vooruitziende snelheidsaanpassing gebruiken.
+Snelheid vooraf selecteren
+U kunt de snelheid ook bij niet-geactiveerde dynamische snelheidsassistent vooraf selecteren, door de hendel in de gewenste richting 
++
+ of 
+–
+ te bewegen. U activeert de vooraf geselecteerde snelheid door de hendel in pijlrichting  naar u toe te trekken.
+Uitschakelen
+Als u de dynamische snelheidsassistent langere tijd niet wilt gebruiken, kunt u deze uitschakelen.
+Druk de hendel van u weg in stand 
+0
+ tot deze vastklikt.
+Meer informatie
+Als de snelheidsbegrenzer na het inschakelen van de auto werd geselecteerd, moet de snelheids-/afstandsregeling vóór het inschakelen worden gekozen. Om de dynamische snelheidsassistent te selecteren, drukt u op de toets LIM 
+3
+.
+Als u de auto of de dynamische snelheidsassistent uitschakelt, wordt de ingestelde snelheid om veiligheidsredenen gewist.
+ATTENTIE
+1)Land- en motorafhankelijk

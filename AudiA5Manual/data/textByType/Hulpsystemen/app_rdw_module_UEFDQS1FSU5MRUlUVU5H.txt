@@ -1,0 +1,10 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Vooruitziende snelheidsaanpassing
+Inleiding
+Vooruitziende snelheidsaanpassing
+Inleiding
+De vooruitziende snelheidsaanpassing past de regelsnelheid van de dynamische rijassistent aan herkende snelheidsbeperkingen en het verloop van de weg aan.
+Nadat de regeling op een dergelijke gebeurtenis is afgerond, accelereert de dynamische rijassistent weer naar de algemeen geldende snelheidsbegrenzing resp. richtsnelheid voor de betreffende weg.
+Afhankelijk van de uitrusting gebruikt het systeem hiervoor navigatiedata, de camera achter de voorruit en de radarsensoren.
+ATTENTIE

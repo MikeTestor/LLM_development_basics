@@ -1,0 +1,23 @@
+Infotainment
+Telefoon
+Telefoonfuncties gebruiken
+Oproep starten
+Telefoonfuncties gebruiken
+Oproep starten
+Afhankelijk van het land, de voertuiguitrusting en de gebruikte mobiele telefoon en het besturingssysteem ervan heeft u verschillende mogelijkheden om een oproep te starten.
+Oproep in de MMI starten
+Om een contact te zoeken, kiest u:  > Telefoon > .
+Om een nummer handmatig in te geven, kiest u:  > Telefoon > Numeriek toetsenblok.
+Om een oproep via de oproepen- of favorietenlijst te starten, kiest u:  > Telefoon > Oproepenlijst/Favorieten > een vermelding.
+Om een oproep via de contactenlijst te starten, kiest u  > Telefoon > Contacten > een contact. Kies zo nodig het gewenste telefoonnummer.
+Oproep in het instrumentenpaneel starten
+De oproepenlijst wordt in een van de linkertabbladen in het instrumentenpaneel weergegeven.
+Om vermelding uit de oproepenlijst te kiezen, draait u het linkermenuwieltje.
+Om een vermelding te bevestigen, drukt u op het linkermenuwieltje.
+Oproep starten in het head-updisplay
+Voorwaarde: de telefoon is als weergave in het head-updisplay ingeschakeld Head-updisplay instellen.
+Om de oproepenlijst weer te geven, drukt u op het multifunctiestuurwiel op de toets .
+Om vermelding uit de oproepenlijst te kiezen, draait u het linkermenuwieltje.
+Om een vermelding te bevestigen, drukt u op het linkermenuwieltje.
+Oproep via de Audi assistant starten
+U kunt een oproep via de Audi assistant starten.

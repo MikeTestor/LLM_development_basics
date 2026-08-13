@@ -1,0 +1,11 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Reisdoel in het instrumentenpaneel kiezen
+Reisdoel ingeven
+Reisdoel in het instrumentenpaneel kiezen
+Voorwaarde: de routegeleiding is niet actief.
+De navigatie wordt in een van de linkertabbladen in het instrumentenpaneel weergegeven.
+Om een reisdoel uit de lijst te kiezen, draait u het linkermenuwieltje.
+Om een reisdoel te bevestigen, drukt u op het linkermenuwieltje.
+Afhankelijk van de gekozen functie kan bediening via de MMI noodzakelijk zijn.

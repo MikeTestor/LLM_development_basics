@@ -1,0 +1,14 @@
+Hulpsystemen
+Verdere hulpsystemen
+Stoplichtinformatie
+Overzicht van de weergaven van de stoplichtinformatie
+Stoplichtinformatie
+Overzicht van de weergaven van de stoplichtinformatie
+Instrumentenpaneel: Weergave stoplichtinformatie
+De stoplichtinformatie geeft u een snelheidsadvies om bij het volgende stoplicht door groen te kunnen rijden 
+1
+. Bovendien wordt u over de wachttijd bij het volgende rode stoplicht 
+2
+ geïnformeerd. Zodra er stoplichtgegevens beschikbaar zijn, wordt de stoplichtinformatie in het instrumentenpaneel en op het head-updisplay weergegeven. Bij sommige systeemgrenzen verschijnt een grijs stoplichtsymbool 
+3
+, omdat het snelheidsadvies of de wachttijd voor het rode stoplicht niet kan worden weergegeven. Dat is bijvoorbeeld het geval als de afstand tot het stoplicht minder dan 30 m is.

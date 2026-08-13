@@ -1,0 +1,42 @@
+Zelf problemen verhelpen
+Zekeringen en gloeilampjes
+Zekeringen vervangen
+Het vervangen van zekeringen uitvoeren
+Zekeringen vervangen
+Het vervangen van zekeringen uitvoeren
+Handelwijze
+De zekeringen zitten op verschillende plekken in de auto, bv. in de motorruimte, in de bestuurdersruimte en in de bagageruimte.
+Een doorgebrande zekering is te herkennen aan de doorgesmolten metalen strook.
+Schakel de auto en alle stroomverbruikers uit.
+Zoek in de tabellen van het zekeringenoverzicht op welke zekering bij de betreffende verbruiker hoort.
+Verwijder de betreffende afdekking.
+Trek zo nodig de gekleurde kunststof beugel uit de zekeringenhouder.
+Verwijder de klem uit de betreffende zekeringenhouder.
+Trek de zekering met de klem eruit.
+Vervang de doorgebrande zekering alleen door een zekering met dezelfde sterkte.
+Breng zo nodig de kunststof beugel weer aan.
+Breng de afdekking weer aan.
+Kleuraanduiding van de zekeringen
+Kleur	Stroomsterkte
+in ampère
+Zwart	1
+Grijs	2
+Lila	3
+Roze	4
+Lichtbruin	5
+Bruin	7,5
+Rood (smal)	10
+Lichtblauw	15
+Geel	20
+Wit of helder	25
+Lichtgroen	30
+Blauwgroen	35
+Oranje	40
+Rood (breed)	50
+Aanwijzingen bij de tabellen
+Voor elke zekeringenhouder zijn de posities in de tabellen opgesomd.
+In de tabellen worden alleen zekeringen genoemd die u zelf kunt vervangen. Neemt u voor het vervangen van andere zekeringen contact op met een (Audi-)specialist.
+Vrije zekeringenplaatsen worden in de tabellen niet genoemd.
+Enkele van de hier genoemde uitrustingen horen alleen bij bepaalde modeluitvoeringen of zijn meeruitvoeringen.
+ATTENTIE
+VOORZICHTIG

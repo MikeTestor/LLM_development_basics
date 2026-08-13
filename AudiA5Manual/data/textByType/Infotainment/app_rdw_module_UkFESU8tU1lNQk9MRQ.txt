@@ -1,0 +1,11 @@
+Infotainment
+Radio
+Symbolenoverzicht van de radio
+Radio
+Symbolenoverzicht van de radio
+Afhankelijk van het land en de voertuiguitrusting kunnen de volgende symbolen in de MMI beschikbaar zijn:
+Symbool	Beschrijving
+	Bronmenu openen.
+	Het systeem probeert de zender te ontvangen.
+	De zender kan niet worden ontvangen.
+ / 	Afspelen starten/stoppen.

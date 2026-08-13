@@ -1,0 +1,49 @@
+Weergave en bediening
+Touchscreens
+Weergavenoverzicht van de Multi Media Interface
+Symbolenoverzicht van de MMI
+Weergavenoverzicht van de Multi Media Interface
+Symbolenoverzicht van de MMI
+Met de volgende symbolen kunt u standaardfuncties bedienen. De symbolen kunnen afhankelijk van de context in alle apps voorkomen.
+Symbool	Beschrijving
+	Overzichtspagina openen
+	App-overzicht openen
+	Eén niveau teruggaan
+	Aanzicht sluiten
+	Naar inhoud zoeken
+	Toelichtingen openen
+	Instellingen van gekozen app openen
+//	Instellingen wijzigen
+/	Favoriet opslaan/wissen
+/	Functies in- en uitschakelen
+/
+/
+	Extra acties openen
+>	Meer informatie openen
+	Element wissen
+Symbolen- en functieoverzicht van de snelle toegang
+In de onderstaande tabel vindt u de functies die in Snelle toegang kunnen voorkomen:
+Symbool	Beschrijving
+	Configuratiemodus openen
+	Instellingen voor het head-updisplay openen
+	Waarschuwing voor verlaten rijstrook in- en uitschakelen
+	App Mijn voertuig openen
+	App Bestuurdershulpsystemen openen
+	Instellingen voor de binnenverlichting openen
+	Privacybeschermingsinstellingen openen
+	Klankinstellingen openen
+	Bluetooth-interface van de auto in- en uitschakelen
+	Voertuighotspot in- en uitschakelen
+	Wifi in- en uitschakelen
+	Systeemtaal instellen
+	Verbindingsmanager openen
+	Garagedeuropener bedienen
+Symbooloverzicht van de statusbalk
+In de onderstaande tabel vindt u de symbolen die in de statusregel kunnen voorkomen:
+Symbool	Beschrijving
+	Als een gebruiker is aangemeld, verschijnt er een gepersonaliseerd gebruikerssymbool.
+Als de gastgebruiker aangemeld is, verschijnt het symbool .
+Drukken: gebruikersbeheer openen
+	Er is een mobiele telefoon verbonden. Het balkje geeft de signaalsterkte van de mobiele-telefoonverbinding aan.
+	Aanwijzing/geluid bij verkeerstekengebaseerde snelheidswaarschuwing in- of uitschakelen
+	Elektronisch tolheffingsysteem (ETC) beschikbaar

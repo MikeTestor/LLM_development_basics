@@ -1,0 +1,24 @@
+Hulpsystemen
+Waarschuwingssystemen
+Vermoeidheidswaarschuwing
+Systeemgrenzen van de vermoeidheidswaarschuwing
+Vermoeidheidswaarschuwing
+Systeemgrenzen van de vermoeidheidswaarschuwing
+In sommige rijsituaties is het mogelijk dat het systeem het rijgedrag niet juist interpreteert:
+U rijdt met een snelheid van minder dan ca. 60 km/h.
+U rijdt met een snelheid van meer dan ca. 130 km/h.
+U rijdt over bochtige wegen.
+U rijdt op een weg die in slechte staat verkeert.
+U rijdt in een gebied met wegwerkzaamheden.
+De weersomstandigheden zijn ongunstig.
+Uw rijstijl is sportief.
+U bent afgeleid.
+U rijdt met een zware of lange aanhangwagen.
+U heeft de rijstrookgeleiding geactiveerd.
+U valt in slaap of dommelt weg.
+Afhankelijk van het land is de bestuurdersbeschikbaarheidscamera beperkt of niet beschikbaar.
+Het systeem kan in sommige situaties rijmanoeuvres verkeerd interpreteren en daardoor ten onrechte een rustpauze aanbevelen.
+Systeem terugzetten
+Het systeem wordt in de volgende gevallen automatisch teruggezet:
+U schakelt de auto uit en laat deze een bepaalde tijd uitgeschakeld.
+U maakt de bestuurdersgordel los en opent het bestuurdersportier.

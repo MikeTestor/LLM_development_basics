@@ -1,0 +1,23 @@
+Infotainment
+Media
+Informatie over ondersteunde media en bestandsformaten
+Media
+Informatie over ondersteunde media en bestandsformaten
+Afhankelijk van het land en de voertuiguitrusting en softwareversie worden media en bestanden met de volgende eigenschappen ondersteund:
+Bestandssystemen
+USB-opslagmedia: exFAT, FAT, FAT32, NTFS
+Metadata
+Albumcovers: GIF, JPG, PNG met max. 800 x 800 px. Afhankelijk van de beschikbaarheid wordt de albumcover door het betreffende medium of door Gracenote weergegeven.
+Afspeellijsten
+.m3u; .pls; .wpl
+Aantal bestanden
+USB-opslagmedia: max. 50.000 bestanden per medium. Er worden maximaal 200 bestanden per map weergegeven.
+Audiobestanden tot 48 kHz samplingfrequentie
+.mp3; .wav; .m4a; .flac; .3gp; .mp4; .aac; .mkv; .ogg; .webm
+Videobestanden tot max. 15 Mbit/s en 1920 x 1080 px. bij max. 30 fps
+.mp4; .3gp; .mkv; .webm
+Aanwijzingen voor media en bestandsformaten
+Ondersteunde media en bestandsformaten kunnen worden gewijzigd of uitgebreid, bijvoorbeeld door software-updates van Audi of een externe aanbieder.
+Voor het comprimeren van de mp3-bestanden adviseert Audi een bitrate van ten minste 160 kbit/s. Bij audiobestanden met variabele bitrate kan de weergave van de resterende speeltijd afwijken.
+De weergave van landspecifieke tekens (bv. bij id3-tag-informatie) is afhankelijk van de systeemtaal en kan niet altijd worden gegarandeerd.
+Sommige MTP-spelerbedieningsmogelijkheden, bv. het beoordelen van muziektitels, kunnen beperkt zijn.

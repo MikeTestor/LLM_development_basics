@@ -1,0 +1,20 @@
+Hulpsystemen
+Algemene informatie over hulpsystemen
+Informatie over de bestuurdersbeschikbaarheidscamera
+Algemene informatie over hulpsystemen
+Informatie over de bestuurdersbeschikbaarheidscamera 1)
+Afhankelijk van de uitrusting is uw auto met een technische functie voor de herkenning van de beschikbaarheid van de bestuurder uitgerust. De herkenning beschikbaarheid bestuurder gebeurt aan de hand van een camera met infraroodverlichting bij de stuurkolom. De camera controleert onder andere de zithouding van de bestuurder.
+Als de bestuurdersbeschikbaarheidscamera een inactiviteit van de bestuurder herkent, kunnen waarschuwingen of ingrepen van andere systemen worden geactiveerd, bv. van de noodgevalassistent of de vermoeidheidsherkenning. Als de bestuurdersbeschikbaarheidscamera is uitgeschakeld, kan deze geen waarschuwingen of ingrepen van andere systemen activeren.
+U kunt de bestuurdersbeschikbaarheidscamera in het menu Hulpsystemen in- en uitschakelen Menu 'Hulpsystemen' openen.
+Systeemgrenzen
+In sommige situaties kunnen de functies van de bestuurderbeschikbaarheidscamera beperkt of tijdelijk niet beschikbaar zijn:
+De bestuurderbeschikbaarheidscamera is beslagen, verontreinigd of beschadigd.
+De bestuurderbeschikbaarheidscamera wordt verblind, bv. door zonlicht.
+U moet vanwege de rijsituatie meermaals uw hoofd- of kijkrichting veranderen (bv. bij snelwegopritten of op kruispunten).
+U blokkeert het camerasicht, bv. bij een stuurinslag.
+U draagt bijvoorbeeld een pet, bandana of een bril (met name zonnebrillen als deze een bepaalde tint overschrijden of IR-blokkerende brillen).
+U bevindt zich in een ongeschikte zithouding. Let daarbij op de aanwijzingen over de juiste zithouding.
+U buigt uw hoofd of u kijkt naar beneden. Het systeem kan dit als gesloten ogen waarnemen.
+U heeft een lichamelijke beperking (bv. oogbewegingsstoornissen).
+U heeft bijzondere gezichtskenmerken.
+1)Op het moment van publicatie is de beschreven functie of uitrusting een geplande functie of uitrusting en mogelijk niet in uw auto beschikbaar.

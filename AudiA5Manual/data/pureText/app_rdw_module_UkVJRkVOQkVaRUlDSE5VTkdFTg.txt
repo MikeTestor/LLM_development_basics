@@ -1,0 +1,26 @@
+Verzorging en onderhoud
+Wielen
+Banden en velgen
+Informatie over bandaanduidingen
+Banden en velgen
+Informatie over bandaanduidingen
+Aan de hand van het volgende voorbeeld worden bepaalde gegevens op de flank van de band toegelicht:
+205/60 R 16 92 H
+205
+Bandbreedte in mm
+60
+Hoogte-breedteverhouding in %
+R
+Code voor bandentype: Radial
+16
+Velgdiameter in inches
+92
+Loadindex
+H
+Snelheidscode
+Productiedatum
+De productiedatum wordt eventueel alleen aan de binnenzijde van het wiel aangegeven:
+DOT ... 2225 ...
+betekent bijvoorbeeld dat de band in de 22e week van het jaar 2025 is geproduceerd.
+AO, RE of R0
+Af fabriek worden banden met de identificatie AO, RE of R0 geleverd die speciaal op uw Audi zijn afgestemd. Deze banden voldoen bij juist gebruik aan de hoogste normen met betrekking tot veiligheid en rijeigenschappen. Uw (Audi-)specialist geeft u graag advies.

@@ -1,0 +1,9 @@
+Infotainment
+Navigatie
+Zelf problemen verhelpen voor de navigatie
+Navigatie
+Zelf problemen verhelpen voor de navigatie
+Hierna vindt u mogelijkheden om zelf problemen te verhelpen. Deze zijn afhankelijk van de uitrusting.
+Thema	Tip
+Het ingegeven reisdoel kan niet worden gevonden.	Als het reisdoel niet kan worden gevonden, is het reisdoel mogelijk niet in de navigatiedatabase opgeslagen. Controleer de schrijfwijze van het gezochte reisdoel. Gebruik verschillende zoekopties. Zoek het reisdoel op de kaart. Controleer of automatische updates in het instellingenmenu Navigatie Instellingenmenu 'Navigatie' openen toegestaan zijn.
+De laatste reisdoelen worden niet weergegeven.	Als u zich in de auto als gastgebruiker of met geen gebruiker heeft aangemeld, worden er geen laatste reisdoelen opgeslagen. Meld u in de auto aan als gebruiker zodat ingegeven reisdoelen worden opgeslagen en als laatste reisdoel worden weergegeven.

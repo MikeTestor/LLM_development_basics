@@ -1,0 +1,16 @@
+Hulpsystemen
+Snelheidshulpsystemen
+Snelheidsregelsystemen
+Weergavenoverzicht van de snelheidsregelsystemen
+Snelheidsregelsystemen
+Weergavenoverzicht van de snelheidsregelsystemen
+De rijsituatie en de instellingen worden met controlelampjes en aanwijzingen voor de bestuurder in de snelheidsmeter weergegeven. De weergaven zijn afhankelijk van het land en de uitrusting.
+Weergave	Beschrijving
+	De snelheidsbegrenzer is ingeschakeld, maar niet geactiveerd.
+	De vooruitziende snelheidsbegrenzer is ingeschakeld, maar niet geactiveerd.
+	De snelheidsbegrenzer is ingeschakeld en begrenst de rijsnelheid actief op de ingestelde snelheid.
+	De vooruitziende snelheidsbegrenzer is ingeschakeld en begrenst de rijsnelheid actief op de regelsnelheid.
+	De ingestelde snelheid is overschreden, de begrenzing wordt tijdelijk handmatig overruled.
+	De regelsnelheid is overschreden, de begrenzing wordt tijdelijk handmatig overruled.
+Op het head-updisplay verschijnt een aanvullende weergave.
+ATTENTIE

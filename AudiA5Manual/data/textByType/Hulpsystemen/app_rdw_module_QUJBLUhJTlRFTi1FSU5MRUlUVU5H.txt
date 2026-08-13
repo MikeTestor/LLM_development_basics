@@ -1,0 +1,40 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Assistent bij afslaan achter
+Assistent bij afslaan achter gebruiken
+Assistent bij afslaan achter
+Assistent bij afslaan achter gebruiken
+Rijsituatie en lampje in de buitenspiegel
+Inleiding
+De assistent bij afslaan achter bewaakt de dode hoek en de verkeerssituatie op de naastgelegen rijstroken achter uw auto en ondersteunt u bij het afslaan. Als het systeem een naderend object herkent en als gevaar inschat, brandt het lampje in de buitenspiegel 
+1
+ aan de betreffende voertuigzijde.
+Rijsituaties
+De eigen auto wordt ingehaald. Hoe sneller een ander voertuig van achteren nadert, des te eerder gaat het lampje in de buitenspiegel branden.
+Op de rijstrook naast u bevinden zich met u meerijdende voertuigen. Uiterlijk als het herkende object zich in de dode hoek bevindt, gaat het lampje in de buitenspiegel branden.
+U haalt een andere auto langzaam in. Is het snelheidsverschil tussen beide voertuigen niet groter dan ca. 15 km/h, dan brandt het lampje in de buitenspiegel.
+Bij het uitparkeren vanuit een fileparkeerruimte met ingeschakeld knipperlicht wordt het verkeer op de aangrenzende rijstrook bewaakt. Nadert er een object, dan gaat het lampje in de buitenspiegel branden. Bij toenemend botsgevaar kan een noodstop volgen.
+Informatiefase
+Zodra u het knipperlicht inschakelt, informeert het systeem u over als gevaarlijk ingeschatte objecten, doordat het lampje in de betreffende buitenspiegel brandt 
+1
+.
+De intensiteit van het lampje is in de informatiefase minder fel, zodat u bij het naar voren kijken niet wordt afgeleid.
+Waarschuwingsfase
+Zodra u het knipperlicht inschakelt, waarschuwt het systeem u voor als gevaarlijk beoordeelde objecten met toenemend botsingsgevaar, doordat het lampje in de betreffende buitenspiegel knippert. Wordt de situatie gevaarlijker, dan klinkt er een waarschuwingsgeluid. Bovendien kunt u ook door een remschok of een noodstop worden gewaarschuwd.
+Weergave in het instrumentenpaneel
+In aanvulling op de weergave in de buitenspiegel wordt de assistent bij afslaan achter (informatie- en waarschuwingsfase) in het instrumentenpaneel weergegeven. Het symbool wordt grijs in de informatiefase en rood in de waarschuwingsfase weergegeven.
+Assistent bij afslaan achter uit- en inschakelen
+U kunt de assistent bij afslaan achter in het menu Hulpsystemen in- en uitschakelen Menu 'Hulpsystemen' openen.
+Systeemgrenzen
+De assistent bij afslaan achter is, bij ingeschakeld knipperlicht, tot ca. 60 km/h actief.
+Bij zeer lage snelheden is het systeem niet beschikbaar.
+Het systeem gebruikt de data van de radarsensoren op de hoeken van de auto Inbouwplaatsen van de sensoren en camera’s. Deze zijn zo geprogrammeerd dat bij rijstroken van normale breedte de naastgelegen rijstrook aan zowel de linker- als rechterzijde afgedekt is. In enkele situaties is het mogelijk dat het systeem op voertuigen in de eigen rijstrook of in een rijstrook verderop of op objecten aan de rand van de rijbaan reageert. Het lampje gaat dan branden, hoewel er zich geen voertuig in de gevarenzone bevindt. Tot deze situaties behoren bijvoorbeeld:
+Rijden aan de rand van de eigen rijstrook
+Smalle rijstroken
+Bochten
+Hoge vangrails langs de rand van de rijstrook
+Wegwerkzaamheden
+Aanwijzingen voor de assistent bij afslaan achter
+Als de ruit van het bestuurders- of bijrijdersportier met verduisteringsfolie is beplakt, is het mogelijk dat de weergave in de buitenspiegel niet goed kan worden waargenomen.
+Het detectiegebied van de sensoren zie is een principeafbeelding en is geen maatgetrouwe weergave van de reikwijdte van de sensoren.
+ATTENTIE

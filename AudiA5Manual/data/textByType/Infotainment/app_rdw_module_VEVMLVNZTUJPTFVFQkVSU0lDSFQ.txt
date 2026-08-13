@@ -1,0 +1,17 @@
+Infotainment
+Telefoon
+Symbolenoverzicht van de telefoon
+Telefoon
+Symbolenoverzicht van de telefoon
+Afhankelijk van het land, de voertuiguitrusting en de gebruikte mobiele telefoon en het besturingssysteem ervan kunnen de volgende symbolen in de MMI beschikbaar zijn:
+Symbool	Beschrijving
+	Alarmnummer uit de lijst kiezen. De oproep start meteen.
+	Contact zoeken.
+	Tussen de met de MMI verbonden mobiele telefoons wisselen.
+	Audioweergave tijdens een telefoongesprek naar de mobiele telefoon, de voertuigluidsprekers (handsfree bellen) of de hoofdsteunluidspreker schakelen.
+	Tonenreeksen (DTMF) tijdens een telefoongesprek verzenden.
+	Andere gespreksopties tijdens een telefoongesprek laten weergeven.
+	Telefoonnummer bewerken, voordat het wordt gekozen.
+	Gespreksverloop weergeven.
+	Berichtsjabloon als sms versturen.
+	Oproepadviezen.

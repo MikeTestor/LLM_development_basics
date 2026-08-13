@@ -1,0 +1,26 @@
+Starten en rijden
+Hoogvoltsysteem
+Laadinstellingen
+Vertrektijd gebruiken
+Laadinstellingen
+Vertrektijd gebruiken
+Inleiding
+Het gebruik van een vertrektijd biedt u de volgende voordelen:
+Het interieur is op de vertrektijd optimaal geklimatiseerd.
+De hoogvoltaccu kan behoedzaam worden geladen, aangezien de auto pas vlak vóór de vertrektijd een hoge acculadingstoestand bereikt.
+Voor een vertrektijd kunt u de volgende opties kiezen:
+Klimatiseren zonder laden 
+Laden met klimatiseren 
+Laden zonder klimatiseren 
+Vertrektijden toevoegen
+Voorwaarde voor een vertrektijd met laadsessie: de locatie waar u wilt laden is als laadlocatie gedefinieerd Laadlocatie gebruiken.
+Open het menu Laden Menu Laden openen en druk op Vertrektijden.
+Om een nieuwe vertrektijd toe te voegen, drukt u op Nieuwe vertrektijd toevoegen.
+Kies de gewenste vertrektijd en de dag van de week.
+Als u meerdere dagen wilt vastleggen, drukt u naast de keuze van de dag van de week op Herhalen. Kies de gewenste dagen van de week.
+Kies de gewenste opties (Klimatiseren/Laden) die op de vertrektijd moeten worden uitgevoerd. De opties kunnen nadat de configuratie is afgerond niet meer worden gewijzigd.
+Sluit de configuratie af.
+Vertrektijden beheren
+Om een bestaande vertrektijd in of uit te schakelen, drukt u op  of .
+Om een bestaande vertrektijd bij te werken, drukt u op de vertrektijd.
+Om een bestaande vertrektijd te wissen, blijft u op de betreffende vertrektijd drukken en kiest u .

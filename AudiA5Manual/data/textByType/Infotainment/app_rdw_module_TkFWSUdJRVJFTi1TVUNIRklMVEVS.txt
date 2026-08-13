@@ -1,0 +1,12 @@
+Infotainment
+Navigatie
+Reisdoel ingeven
+Zoekfilter voor bijzondere reisdoelen gebruiken
+Reisdoel ingeven
+Zoekfilter voor bijzondere reisdoelen gebruiken
+Afhankelijk van de bijzonder-reisdoelcategorie kunt u filters gebruiken voor het zoeken van een reisdoel.
+Voorwaarde: de MMI is met internet verbonden.
+Kies:  > Navigatie >  > een bijzonder-reisdoelcategorie (bv. parkeerplaatsen) > Filter.
+Kies het gewenste filter. De bijzondere reisdoelen die van toepassing zijn worden op de kaart getoond.
+Om naar een bijzonder reisdoel te navigeren, neemt u het reisdoel uit de kaart over.
+VOORZICHTIG

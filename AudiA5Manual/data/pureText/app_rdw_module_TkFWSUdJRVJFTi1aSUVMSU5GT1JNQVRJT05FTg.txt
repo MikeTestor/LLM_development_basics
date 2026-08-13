@@ -1,0 +1,8 @@
+Infotainment
+Navigatie
+Functies bij een actieve routegeleiding gebruiken
+Reisdoelinformatie gebruiken
+Functies bij een actieve routegeleiding gebruiken
+Reisdoelinformatie gebruiken
+Nadat u een reisdoel heeft ingegeven, wordt de routegeleiding gestart. De door de MMI berekende reisdoelinformatie  wordt weergegeven en omvat de rijtijd, de afstand tot het reisdoel en de aankomsttijd bij het reisdoel.
+Druk op de reisdoelinformatie  om details over de route te laten weergeven.

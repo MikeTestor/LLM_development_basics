@@ -1,0 +1,19 @@
+Starten en rijden
+Rijdynamiek
+Audi drive select
+Audi drive select assistant gebruiken
+Audi drive select
+Audi drive select assistant gebruiken
+De Audi drive select assistant analyseert het wegtype en de rijstijl en kiest de passende Audi drive select modus.
+Beschikbaarheid
+De assistant kan alleen tussen bepaalde Audi drive select modi kiezen. Als u een niet-compatibele modus kiest, wordt de assistant gedeactiveerd.
+Bij het uitschakelen van de auto wordt de assistant weer verlaten.
+Audi drive select assistant activeren
+Opnieuw de knop  indrukken of
+Kies:  > Wagen > Audi drive select.
+Druk op  om de assistant te activeren.
+Er verschijnt een  achter de automatisch gekozen modus.
+Audi drive select assistant aanpassen
+U kunt de automatisch gekozen modus met bepaalde Audi drive select modi overrulen. Daardoor leert de assistant uw rijstijl.
+In bijzondere rijsituaties zoals bv. dynamische ritten of snelwegritten is het leren van de rijstijl niet mogelijk.
+Druk op  om het geleerde gedrag terug te zetten.

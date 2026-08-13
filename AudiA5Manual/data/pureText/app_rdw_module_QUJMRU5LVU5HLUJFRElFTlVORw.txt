@@ -1,0 +1,9 @@
+Hulpsystemen
+Waarschuwingssystemen
+Afleidingswaarschuwing
+Afleidingswaarschuwing instellen
+Afleidingswaarschuwing
+Afleidingswaarschuwing instellen
+U kunt de afleidingswaarschuwing en de bestuurdersbeschikbaarheidscamera in het menu Hulpsystemen  in- en uitschakelen Menu 'Hulpsystemen' openen.
+Bij uitgeschakelde afleidingswaarschuwing verschijnt een aanwijzing in het instrumentenpaneel.
+Als u het systeem uitschakelt, wordt het bij een volgende keer inschakelen van het contact weer ingeschakeld.

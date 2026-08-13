@@ -1,0 +1,8 @@
+Starten en rijden
+Openen en sluiten
+Sleutels
+Status van de digitale sleutel opvragen
+Sleutels
+Status van de digitale sleutel opvragen
+Voorwaarde: uw auto beschikt over een digitale sleutel. U kunt de status van de geleverde digitale sleutels en de digitale sleutelkaart zowel in de myAudi app als in de auto laten weergeven.
+Kies:  > Digitale sleutel > Beheer.

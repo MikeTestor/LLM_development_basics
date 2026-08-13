@@ -1,0 +1,28 @@
+Hulpsystemen
+Ondersteunende parkeersystemen
+In- en uitparkeren met ondersteuning
+Inparkeren met ondersteuning
+In- en uitparkeren met ondersteuning
+Inparkeren met ondersteuning
+Geldt voor auto's met omgevingscamera's 
+Centraal beeldscherm: Weergave inparkeren met ondersteuning
+Inparkeerhandeling uitvoeren
+Voorwaarde: er is een geschikte inparkeermogelijkheid gevonden en geselecteerd. De auto staat eerst stil en de rem is ingetrapt.
+Neem de handen van het stuurwiel en druk op Start op het centrale beeldscherm.
+Houd de rijweg goed in de gaten. Als de verkeerssituatie het toelaat, laat u het rempedaal los zie. Op het centrale beeldscherm geeft  aan dat parkeren met ondersteuning actief is en de besturing van de auto overneemt.
+U kunt de door het systeem bepaalde snelheid altijd verminderen door het rempedaal in te trappen.
+Breek in onduidelijke situaties de inparkeerhandeling af door de auto krachtig af te remmen tot stilstand of door het stuurwiel over te nemen. Bijvoorbeeld als er een obstakel opduikt of zeer dicht naar een obstakel toe wordt gereden.
+Parkeren met ondersteuning onderbreken Parkeren met ondersteuning onderbreken/annuleren.
+Overzicht van de weergaven
+Op het centrale beeldscherm worden de actuele rijmanoeuvre en de status van het ondersteunend parkeersysteem weergegeven:
+1
+Geldt voor auto's met omgevingscamera's: Rijweg waarover de auto rijdt tijdens de actuele parkeermanoeuvre.
+2
+Geldt voor auto's met omgevingscamera's: Eindpunt van de actuele parkeermanoeuvre/richtingverandering.
+3
+ – Parkeren met ondersteuning is actief.
+Einde van de inparkeerhandeling
+De inparkeerhandeling eindigt automatisch, zodra de auto de eindpositie in de parkeerruimte heeft bereikt. Aan het einde van een succesvol afgeronde inparkeerhandeling met het ondersteunend parkeersysteem wordt de parkeervergrendeling ingeschakeld en de parkeerrem vastgezet.
+Meer informatie
+De weergave op het scherm is een vergroot en vervormd beeld. Objecten kunnen op het scherm veranderd en onnauwkeurig verschijnen. Dit kan met name het geval zijn bij objecten die de grond niet raken, bv. de bumper van een geparkeerde auto of de achterzijde van een vrachtwagen. Rijd in deze gevallen extra voorzichtig en controleer indien nodig de afstand door zelf rechtstreeks te kijken.
+ATTENTIE

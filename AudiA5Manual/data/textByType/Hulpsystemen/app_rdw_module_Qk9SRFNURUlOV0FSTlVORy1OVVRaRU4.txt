@@ -1,0 +1,17 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Stoeprandwaarschuwing
+Stoeprandwaarschuwing gebruiken
+Stoeprandwaarschuwing
+Stoeprandwaarschuwing gebruiken
+Overzicht van de weergaven
+Een rood gekleurd wiel geeft een kritieke afstand aan tussen het wiel en lage objecten.
+Een doorgestreept wiel geeft een inactieve stoeprandwaarschuwing aan de gehele voertuigzijde aan.
+Systeemgrenzen
+Het systeem is bij het rijden tot ca. 10 km/h beschikbaar.
+Bij duisternis kan het systeem beperkt werken of niet werken zoals verwacht.
+Bij sommige ingeschakelde hulpsystemen of bij het gebruik van ondersteunende parkeersystemen is het systeem niet beschikbaar.
+Functies van het systeem zijn mogelijk niet beschikbaar als de ESC beperkt of uitgeschakeld is resp. als er sprake is van een storing.
+Bij herkend aanhangwagengebruik is het systeem niet beschikbaar. Bij een naderhand gemonteerd trekhaaksysteem kan niet worden gegarandeerd dat de functies worden uitgeschakeld. Gebruik de functies niet bij het rijden met aanhangwagen.
+ATTENTIE
+VOORZICHTIG

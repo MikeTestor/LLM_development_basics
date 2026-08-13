@@ -1,0 +1,20 @@
+Starten en rijden
+Hoogvoltsysteem
+Laadinstellingen
+Laadlocatie gebruiken
+Laadinstellingen
+Laadlocatie gebruiken
+Met behulp van een laadlocatie kunt u een locatie vastleggen waar locatiespecifieke laadinstellingen moeten gelden. Deze worden automatisch gebruikt als uw auto zich in de directe omgeving van een gedefinieerde laadlocatie bevindt.
+Een vastgelegde laadlocatie is een voorwaarde voor het gebruik van een vertrektijd.
+Laadlocaties toevoegen en beheren
+Open het menu Laden Menu Laden openen en kies Laadplaats.
+Om een nieuwe laadlocatie toe te voegen, kiest u Nieuwe laadplaats en volgt u de aanwijzingen op het scherm.
+Om bestaande instellingen voor een laadlocatie bij te werken, kiest u deze en drukt u op .
+Om een laadlocatie te wissen, blijft u op de betreffende laadlocatie drukken en drukt u op .
+Locatiespecifieke laadinstellingen
+Voorkeurslaadtijd (bv. om een gunstig stroomtarief te gebruiken.
+AC-laadstroom verminderen.
+Voorkeurslaadtijd
+Als u de functie activeert, vindt de laadsessie in het door u vastgelegde laadtijdslot plaats. Als de laadtijd te kort is, kan het ingestelde ladingsdoel mogelijk niet worden bereikt. Om ervoor te zorgen dat op uw vertrektijd een bepaald ladingsdoel is bereikt, programmeert u daarnaast een vertrektijd. Bij ingeschakelde vertrektijd kan de auto ook buiten het vastgelegde laadtijdslot worden geladen. Houd er rekening mee dat dit mogelijk extra kosten met zich mee kan brengen.
+AC-laadstroom verminderen
+De functie kan de elektrotechnische installatie ontlasten en oververhitting of overbelasting van de elektrotechnische installatie voorkomen, bv. als er meerdere verbruikers op het stroomcircuit zijn aangesloten.

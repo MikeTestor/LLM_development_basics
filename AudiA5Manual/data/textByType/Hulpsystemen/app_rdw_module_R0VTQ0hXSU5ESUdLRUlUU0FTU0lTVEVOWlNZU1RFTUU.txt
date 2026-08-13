@@ -1,0 +1,12 @@
+Hulpsystemen
+Algemene informatie over hulpsystemen
+Overzicht van de hulpsystemen
+Overzicht van de snelheidshulpsystemen
+Overzicht van de hulpsystemen
+Overzicht van de snelheidshulpsystemen
+Afhankelijk van het land en de uitrusting kunnen de volgende hulpsystemen in uw auto zijn ingebouwd:
+ De snelheidsbegrenzer helpt een door u ingestelde snelheid niet te overschrijden Snelheidsregelsystemen.
+ De vooruitziende snelheidsbegrenzer past de snelheid automatisch aan herkende snelheidsbeperkingen aan Snelheidsregelsystemen.
+ De dynamische snelheidsassistent ondersteunt u bij het rijden doordat de snelheid wordt geregeld en de ingestelde afstand tot een voorligger constant wordt gehouden. Als een voorligger wordt herkend, kan het systeem de auto afremmen resp. accelereren. Ook in langzaam rijdend en stilstaand verkeer en filesituaties remt het systeem af tot stilstand en kan afhankelijk van de duur van de stilstandtijd weer automatisch wegrijden Dynamische snelheidsassistent.
+ De dynamische rijassistent breidt de functie van de dynamische snelheidsassistent uit met de vooruitziende snelheidsaanpassing en de rijstrookgeleiding Dynamische rijassistent.
+ De vooruitziende snelheidsaanpassing kan de ingestelde snelheid aan verkeerssituaties aanpassen (bv. regeling op basis snelheidsbeperkingen of wegverloop) Vooruitziende snelheidsaanpassing.

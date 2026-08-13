@@ -1,0 +1,20 @@
+Zelf problemen verhelpen
+Zekeringen en gloeilampjes
+Zekeringen vervangen
+Zekeringenoverzicht bestuurdersruimte
+Zekeringen vervangen
+Zekeringenoverzicht bestuurdersruimte
+Bestuurdersruimte bestuurderszijde: afdekking en klemmen aan de achterzijde van de afdekking
+Bestuurdersruimte bestuurderszijde: Zekeringenhouder
+Het zekeringenoverzicht bij auto's met rechts stuur is in spiegelbeeld.
+Nr.	Verbruiker
+1	Ambianceverlichting
+2	Chipkaartlezer
+3	Sensoren interieurlucht
+4	Head-updisplay
+7	Stuurkolomvergrendeling
+8	Bijrijdersscherm
+9	Panoramascherm
+12	Stuurkolomelektronica
+15	Stuurkolomverstelling
+16	Stuurwielverwarming

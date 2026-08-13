@@ -1,0 +1,8 @@
+Infotainment
+Telefoon
+Telefoonfuncties gebruiken
+Oproepadviezen gebruiken
+Telefoonfuncties gebruiken
+Oproepadviezen gebruiken
+Voorwaarde: er is een mobiele telefoon met de MMI verbonden. De oproepenlijst is gevuld.
+Als de oproepadviezen in het menu Audi assistant zijn ingeschakeld Menu 'Audi assistant' openen, worden u in de oproepenlijst situatief passende contacten voorgesteld.

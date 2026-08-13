@@ -1,0 +1,30 @@
+Infotainment
+Telefoon
+Telefoonfuncties gebruiken
+Telefoneren
+Telefoonfuncties gebruiken
+Telefoneren
+U kunt inkomende oproepen in de MMI en met het multifunctiestuurwiel beantwoorden en weigeren.
+Als u de auto tijdens een telefoongesprek verlaat, wordt de Bluetooth-verbinding verbroken. Afhankelijk van de gebruikte mobiele telefoon worden gevoerde gesprekken automatisch door de MMI naar uw mobiele telefoon omgeleid.
+Afhankelijk van de gebruikte mobiele telefoon en uw provider kunnen tijdens een telefoongesprek verdere gespreksopties beschikbaar zijn.
+Afhankelijk van het land moet voor sommige gespreksopties de functie Driemansgesprek-service in het Telefoon Instellingenmenu Instellingenmenu 'Telefoon' openen geactiveerd zijn.
+Oproep met sms weigeren
+Voorwaarde: de gebruikte mobiele telefoon ondersteunt de functie. Er komt een oproep binnen.
+Zorg ervoor dat de functie in het menu Berichten is ingeschakeld Menu 'Berichten' openen.
+Druk op Afwijzen (sms). Het ingestelde berichtsjabloon wordt verstuurd.
+Oproep in het instrumentenpaneel in de wacht zetten
+Voorwaarde: er wordt een telefoongesprek gevoerd.
+Draai op het multifunctiestuurwiel het linkermenuwieltje, totdat In de wacht zetten is gekozen.
+Om de keuze te bevestigen, drukt u op het linkermenuwieltje.
+Inkomende tweede oproep in de MMI beantwoorden
+Voorwaarde: er wordt een telefoongesprek gevoerd. Er komt een tweede oproep binnen.
+Om tijdens een telefoongesprek op een inkomende oproep te worden gewezen, moet de wachtfunctieoptie op uw mobiele telefoon zijn geactiveerd. Afhankelijk van uw provider is een van de volgende opties beschikbaar:
+Druk op Beantwoorden. Het bestaande telefoongesprek wordt in de wacht gezet. De binnenkomende oproep wordt beantwoord.
+Druk op Vervangen. Het bestaande telefoongesprek wordt vervangen door de inkomende oproep.
+Tussen telefoongesprekken in de MMI wisselen
+Voorwaarde: er wordt een telefoongesprek gevoerd. Er staat een tweede oproep in de wacht.
+Druk op de oproep in de wacht om tussen de telefoongesprekken te wisselen.
+Conferentie in de MMI starten
+Voorwaarde: er wordt een telefoongesprek gevoerd. Er staat een tweede oproep in de wacht.
+Druk op . De telefoongesprekken worden in een conferentie samengebracht.
+Afhankelijk van uw provider kunt u maximaal 5 actieve gesprekspartners aan een conferentie toevoegen.

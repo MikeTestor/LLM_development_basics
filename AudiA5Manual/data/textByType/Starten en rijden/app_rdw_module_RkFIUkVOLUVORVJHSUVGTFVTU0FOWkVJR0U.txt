@@ -1,0 +1,9 @@
+Starten en rijden
+Rijden
+Aandrijving
+Energiestroom opvragen
+Aandrijving
+Energiestroom opvragen
+U kunt de actuele energiestroom van de auto op het centrale beeldscherm laten weergeven.
+Kies:  > Laden.
+De animatie van de aandrijvingscomponenten toont hoe de energie in het systeem wordt gebruikt. Verbrandingsaandelen worden oranje, elektrische aandelen groen weergegeven.

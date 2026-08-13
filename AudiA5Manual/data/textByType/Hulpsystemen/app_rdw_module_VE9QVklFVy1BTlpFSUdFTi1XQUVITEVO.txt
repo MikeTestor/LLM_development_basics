@@ -1,0 +1,41 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Achteruitrijcamera of omgevingscamera's
+Omgevingscamera's bedienen
+Achteruitrijcamera of omgevingscamera's
+Omgevingscamera's bedienen
+Centraal beeldscherm: Omgevingscamera's bedienen
+Afhankelijk van de uitrusting kunnen de volgende functies worden gekozen:
+1
+Door op een willekeurige plek bij 
+1
+ te drukken, kunnen de gekozen punten voor de verschillende camara-aanzichten 
+2
+ tijdelijk worden weergegeven.
+2
+Door op de gekozen punten te drukken of het gebied rond de auto wordt het betreffende camera-aanzicht geselecteerd 1) . De aanzichten kunnen ook als de gekozen punten weer verdwenen zijn, worden geselecteerd.
+3
+ – wisselen tussen panorama-aanzicht en regulier aanzicht.
+4
+ – schoonmaken camera handmatig starten.
+5
+ – wasstraatfunctie activeren. Het aanzicht helpt bij het inrijden van wasstraten en bij het positioneren van de voorwielen in de rails van de wasstraat. Deze functie kan alleen in Cameraweergave: voor en Cameraweergave: schuin voor worden gekozen.
+6
+ – De Cameraweergave: 3D-omgeving wordt gekozen.
+ – De transparantiefunctie wordt geactiveerd. De auto wordt transparant weergegeven, om ook obstakels achter/naast de auto te kunnen herkennen. Deze functie kan alleen in de Cameraweergave: 3D-omgeving worden gekozen.
+Camera-aanzichten bedienen
+De camera-aanzichten zijn via het touchscreen te bedienen. In bepaalde aanzichten kunt u het weergegeven gebied vergroten, verkleinen of verschuiven.
+De Cameraweergave: 3D-omgeving kan ook schuin en gedraaid worden weergegeven.
+Automatische cameramodus 1)
+De automatische cameramodus kan automatisch het aanzicht omschakelen en bepaalde gebieden vergroot weergeven, als er een obstakel dichtbij de auto werd gedetecteerd.
+De automatische cameramodus kan in het menu Parkeerhulp in- en uitgeschakeld worden Menu 'Parkeerhulp' openen.
+Korte commando's
+Om de weergave te centreren drukt u tweemaal op het beeld van het 3D-omgeving camera-aanzicht.
+Om snel tussen het reguliere aanzicht en het panorama-aanzicht te wisselen (bv. van Vóór naar Vóór haaks), tipt u tweemaal op het beeld van het voorste of achterste camera-aanzicht of trekt u het beeld van het camera-aanzicht met 2 vingers uit elkaar of naar elkaar toe.
+Meer informatie
+Geldt voor auto's met omgevingscamera's: Als de buitenspiegels niet volledig zijn uitgeklapt, kunnen er systeembeperkingen optreden. Let erop dat de buitenspiegels tijdens het rijden compleet zijn uitgeklapt.
+Geldt voor auto's met elektrisch inklapbare buitenspiegels: Als de buitenspiegels handmatig worden versteld, kunnen er systeembeperkingen optreden. De buitenspiegels mogen uitsluitend elektrisch worden uit- of ingeklapt.
+Afhankelijk van de ingeschakelde versnelling, wordt er automatisch omgeschakeld tussen bepaalde aanzichten. Als u handmatig een ander aanzicht kiest, is de automatische omschakeling tijdelijk gedeactiveerd.
+ATTENTIE
+VOORZICHTIG
+1)Beschikbaarheid afhankelijk van het land en afhankelijk van de ingeschakelde rijstand.

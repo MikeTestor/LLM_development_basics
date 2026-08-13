@@ -1,0 +1,18 @@
+Infotainment
+Navigatie
+Verkeersinformatie gebruiken
+Navigatie
+Verkeersinformatie gebruiken
+De MMI kan real-timeverkeersinformatie over verkeersdrukte, ongevallen, wegwerkzaamheden en andere incidenten van internet ontvangen. De functies zijn afhankelijk van het land en de voertuiguitrusting.
+Voorwaarde: de MMI is met internet verbonden.
+Als er verkeersinformatie voor uw route is, wordt deze op de kaart resp. in de routemonitor weergegeven.
+Druk op de betreffende verkeersinformatie om details te laten weergeven.
+Bijzonder belangrijke verkeersinformatie, zoals meldingen over spookrijders, wordt automatisch als melding weergegeven.
+Verkeersopstoppingen die op uw route liggen worden met gekleurde waarschuwingssymbolen weergegeven. Verkeersopstoppingen die niet op uw route liggen zijn grijs. Als de routegeleiding niet actief is, worden alle verkeersopstoppingen gekleurd op de kaart weergegeven.
+Verkeersstroom weergeven
+U kunt de weergave van de verkeersstroom in het menu Kaartinhoud Menu 'Kaartinhoud' openen in- en uitschakelen.
+De verkeersstroom wordt met een kleur op de kaart aangegeven:
+Groen: vrije verkeersstroom
+Oranje: langzaam rijdend verkeer
+Rood: file/verkeershinder
+VOORZICHTIG

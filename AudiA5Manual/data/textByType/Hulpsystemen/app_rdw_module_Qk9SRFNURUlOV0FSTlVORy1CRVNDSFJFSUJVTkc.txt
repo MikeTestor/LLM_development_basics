@@ -1,0 +1,10 @@
+Hulpsystemen
+Parkeerhulpsystemen
+Stoeprandwaarschuwing
+Inleiding
+Stoeprandwaarschuwing
+Inleiding
+De stoeprandwaarschuwing ondersteunt u bij het inparkeren en helpt beschadigingen aan band en velg te voorkomen. Het systeem waarschuwt voor een mogelijke botsing tussen het wiel en lage objecten, bv. stoepranden. Als de sensoren van de auto een kritieke afstand tussen het wiel en een laag object herkennen, wordt u door optische en akoestische waarschuwingen hierop gewezen.
+De stoeprandwaarschuwing is automatisch actief, als de parkeerhulp is geactiveerd.
+Voor de omgevingsherkenning worden de omgevingscamera’s en de ultrasoonsensoren rondom de auto gebruikt.
+ATTENTIE

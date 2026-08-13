@@ -1,0 +1,11 @@
+Infotainment
+Radio
+Radiofuncties gebruiken
+Automatische muziekherkenning gebruiken
+Radiofuncties gebruiken
+Automatische muziekherkenning gebruiken
+Voorwaarde: de MMI is met internet verbonden.
+Als de automatische muziekherkenning in het instellingenmenu Radio is ingeschakeld Instellingenmenu 'Radio' openen, kan er afhankelijk van de beschikbaarheid aanvullende informatie worden weergegeven, bv. de albumcover, de artiest of de titel.
+U kunt het voorkeursaanzicht in het instellingenmenu Radio instellen Instellingenmenu 'Radio' openen.
+Om juridische informatie over de gebruikte muziekherkenningssoftware te laten weergeven, kunt u in het instellingenmenu Radio de providerinformatie opvragen Instellingenmenu 'Radio' openen.
+VOORZICHTIG

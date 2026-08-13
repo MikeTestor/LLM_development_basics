@@ -1,0 +1,33 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Actieve frontassistent
+Functies van de actieve frontassistent
+Actieve frontassistent
+Functies van de actieve frontassistent
+Functies van de actieve frontassistent (voorbeelden)
+De actieve frontassistent kan binnen de grenzen van het systeem in de volgende rijsituaties maatregelen treffen om botsingen te vermijden.
+1
+Tijdens het afslaan komt u een object tegemoet of kruist de weg waarin u afslaat
+Een systeemingreep bij het afslaan is mogelijk zodra de auto rijdt.
+Als u met een snelheid van ca. 30 km/h rijdt, kan het systeem de volgende objecten herkennen en daarop reageren:
+Tegemoetkomende voertuigen op de naastgelegen rijstrook.
+Kruisende verkeersdeelnemers (bv. voetgangers of fietsers).
+2
+Een object kruist uw rijweg
+Een systeemingreep bij kruisende objecten is mogelijk zodra de auto rijdt.
+Afhankelijk van de hierna vermelde snelheid van uw auto kan het systeem de volgende objecten herkennen en daarop reageren:
+Tot ca. 65 km/h: kruisende voertuigen.
+Tot ca. 85 km/h: kruisende verkeersdeelnemers (bv. voetgangers of fietsers).
+3
+U rijdt in uw rijstrook op een object af
+Een systeemingreep bij objecten in uw rijstrook is mogelijk vanaf een snelheid van ca. 5 km/h.
+Afhankelijk van de hierna vermelde snelheid van uw auto kan het systeem de volgende objecten herkennen en daarop reageren:
+Tot ca. 120 km/h: stilstaande of bewegende fietsers of voetgangers
+Tot ca. 250 km/h: langzaam rijdende of stevig remmende of stilstaande voertuigen.
+4
+U moet voor een object in uw rijstrook uitwijken
+De ondersteuning bij uitwijken is mogelijk vanaf een snelheid van ca. 30 km/h.
+Afhankelijk van de hierna vermelde snelheid van uw auto kan het systeem de volgende objecten herkennen en u bij het uitwijken ondersteunen:
+Tot ca. 85 km/h: stilstaande of in dezelfde richting als de auto bewegende voetgangers of fietsers.
+Tot ca. 150 km/h: langzaam rijdende of stevig remmende of stilstaande voertuigen.
+ATTENTIE

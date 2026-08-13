@@ -1,0 +1,30 @@
+Hulpsystemen
+Rem- en uitwijksystemen
+Actieve frontassistent
+Overzicht van de maatregelen om een botsing te voorkomen
+Actieve frontassistent
+Overzicht van de maatregelen om een botsing te voorkomen
+Afhankelijk van de herkende gevaarlijke situatie worden onder bepaalde omstandigheden niet alle maatregelen gestart. Bepaalde functies kunnen zo nodig worden aangepast of overgeslagen.
+De functies van de actieve frontassistent zijn niet beschikbaar als op het centrale scherm  wordt weergegeven, bv. als remingrepen tijdelijk zijn gedeactiveerd.
+Optische waarschuwingen
+Afhankelijk van de geactiveerde maatregel en de gevaarlijke situatie verschijnen er in het instrumentenpaneel een weergave en een bijbehorende aanwijzing voor de bestuurder.
+De weergave  verschijnt als een van de volgende maatregelen wordt geactiveerd:
+Botsingswaarschuwing
+Remschok
+Automatische remdrukverhoging
+Automatische remingreep
+De weergave  verschijnt, als de uitwijkondersteuning resp. de automatische nooduitwijking actief is.
+Informatie over kruisend verkeer
+Als er kruisende verkeersdeelnemers op de rijweg worden gedetecteerd, verschijnt in het instrumentenpaneel en eventueel op het head-updisplay de weergave . Als de parkeerhulp geactiveerd is, verschijnt de weergave ook op het centrale beeldscherm.
+Botsingswaarschuwing
+Als een potentieel botsingsgevaar wordt gedetecteerd, wordt u gewaarschuwd door een optische en akoestische waarschuwing.
+Remschok
+Als er een direct gevaar voor een botsing is, kan er een acute waarschuwing volgen door middel van een korte remschok. Een botsing kan mogelijk alleen nog worden voorkomen door uit te wijken of hard te remmen.
+Automatische remdrukverhoging
+Als u bij een dreigende botsing onvoldoende remt, kan afhankelijk van de situatie de remdruk worden verhoogd.
+Automatische remingreep
+Om een botsing te voorkomen of om de botssnelheid bij een eventuele botsing te verlagen, kan het systeem de auto binnen de grenzen van het systeem zeer sterk afremmen. Als de auto tot stilstand is geremd, wordt de auto vervolgens op zijn plaats gehouden. Als de auto niet op zijn plaats kan worden gehouden, verschijnt er een aanwijzing voor de bestuurder en moet u de besturing van de auto overnemen.
+Automatisch nooduitwijken
+Als het systeem een dreigende frontale botsing herkent, kan de auto binnen de eigen rijstrook een uitwijkmanoeuvre initiëren, wanneer de uitwijkruimte niet is geblokkeerd. Tijdens de uitwijkmanoeuvre vindt een automatische stuuringreep plaats en de auto wordt afhankelijk van de situatie extra afgeremd. Daarnaast klinkt er een waarschuwingsgeluid en verschijnt er een weergave in het instrumentenpaneel. De verantwoordelijkheid voor de controle over de auto ligt tijdens de gehele uitwijkmanoeuvre bij de bestuurder.
+Uitwijkondersteuning
+Als u na de acute waarschuwing actief uitwijkt voor een obstakel, ondersteunt de uitwijkondersteuning uw stuurbeweging. Zolang u actief stuurt worden de wielen individueel afgeremd en wordt er een klein stuurkoppel uitgeoefend om de uitwijkmanoeuvre te stabiliseren en eventueel te corrigeren. De verantwoordelijkheid voor de controle over de auto ligt tijdens de gehele uitwijkmanoeuvre bij de bestuurder.

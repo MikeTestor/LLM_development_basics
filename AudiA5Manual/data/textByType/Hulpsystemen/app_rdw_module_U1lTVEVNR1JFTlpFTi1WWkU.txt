@@ -1,0 +1,17 @@
+Hulpsystemen
+Verdere hulpsystemen
+Verkeerstekenherkenning met camera
+Systeemgrenzen van de verkeerstekenherkenning
+Verkeerstekenherkenning met camera
+Systeemgrenzen van de verkeerstekenherkenning
+De verkeerstekenherkenning is onderworpen aan bepaalde systeemgrenzen en is in de volgende gevallen niet of slechts beperkt beschikbaar:
+De verkeerstekenherkenning is niet in alle landen beschikbaar.
+De weergave/beschikbaarheid van bepaalde verkeerstekens kan landspecifiek beperkt zijn.
+De rijsnelheid is te hoog.
+De verkeerstekens zijn gedeeltelijk of geheel aan het zicht onttrokken, bv. door bomen, sneeuw, vuil of andere voertuigen.
+De verkeerstekens voldoen niet aan de norm.
+De verkeerstekens zijn beschadigd of verbogen.
+De verkeerstekens worden weergegeven op verkeersportalen met pulserende lichttekens.
+Verkeerstekens of stratenplannen zijn veranderd en de navigatiegegevens zijn niet meer up-to-date
+Er worden stickers met een maximumsnelheid herkend op langzaam rijdende voertuigen, bv. vrachtwagens.
+ATTENTIE

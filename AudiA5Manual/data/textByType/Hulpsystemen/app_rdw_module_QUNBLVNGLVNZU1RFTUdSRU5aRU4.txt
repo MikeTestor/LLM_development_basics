@@ -1,0 +1,13 @@
+Hulpsystemen
+Rijstrookhulpsystemen
+Rijstrookgeleiding
+Systeemgrenzen en beperkingen van de rijstrookgeleiding
+Rijstrookgeleiding
+Systeemgrenzen en beperkingen van de rijstrookgeleiding
+Als  wit brandt, is de rijstrookgeleiding ingeschakeld, maar aan de betreffende zijde niet actief. Dit kan bijvoorbeeld vanwege de volgende systeemgrenzen of voorvallen voorkomen:
+De noodzakelijke rijstrookbegrenzingen kunnen niet worden herkend, bv. bij wegwerkzaamheden, door sneeuw, vuil, regen of tegenlicht.
+De rijstrook is te smal of te breed.
+De bocht is te scherp.
+De bergtop of de daling is te onoverzichtelijk.
+Het knipperlicht werd ingeschakeld.
+ATTENTIE
