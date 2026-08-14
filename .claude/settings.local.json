@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(python services/cleanAudiA5ManualFiles.py)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }
